@@ -1,11 +1,10 @@
-% Skipulagsspurningar
-% Herbert Snorrason
+# Skipulagsspurningar
 
 Íslensk lög krefjast ákveðinna hluta af öllum félagasamtökum sem úthlutað er kennitölu. Meðal þess sem krafist er að sé til staðar eru samþykktir félags, sem meðal annars tilgreini hvernig stjórn þess er skipuð. Gerð er krafa um formann stjórnar, sem jafnframt er ábyrgðaraðili félagsins. Við verðum því að taka afstöðu til þess hvernig á að skipa þessa stjórn.
 
 Þetta er þó ekki fyrsta spurningin. Langt því frá. Áður en að því kemur er önnur mun erfiðari spurning. (Eða öllu heldur tvær. Ein mjög einföld og önnur afskaplega flókin.) Hún er þessi: Hversu mörg félög þurfum/ætlum við að stofna, og hverni á tengingum milli þeirra að vera háttað?
 
-Við fyrri hluta spurningarinnar eru tvö möguleg svör. Við getum stofnað eitt félag og haft alla starfsemi flokksins innan vébanda þess félags, eða við getum stofnað *tvö* og gert ráð fyrir að fleiri félög verði stofnuð eftir því sem starfsemi flokksins breiðir úr sér. Annað þeirra tveggja félaga sem yrðu stofnuð myndi þjóna hlutverki landssambands flokksins; hitt væri upphafshópurinn, að líkindum fljótlega Reykjavíkurfélag eða hugsanlega höfuðborgarsvæðisins.^[Höfundur telur síðari leiðina vænlegri, þó flóknari sé í fyrstu.]
+Við fyrri hluta spurningarinnar eru tvö möguleg svör. Við getum stofnað eitt félag og haft alla starfsemi flokksins innan vébanda þess félags, eða við getum stofnað *tvö* og gert ráð fyrir að fleiri félög verði stofnuð eftir því sem starfsemi flokksins breiðir úr sér. Annað þeirra tveggja félaga sem yrðu stofnuð myndi þjóna hlutverki landssambands flokksins; hitt væri upphafshópurinn, að líkindum fljótlega Reykjavíkurfélag eða hugsanlega höfuðborgarsvæðisins.
 Síðari spurningin er erfiðari og býður upp á ýmsa mismunandi kosti. Meginþátturinn snýst um sjálfstæði félaganna gagnvart hvert öðru; þ.e. hversu mikið og hvernig önnur félög (eða aðilar annarra félaga) geta bundið ákvarðanir félags. Sé stuðs við eitt lögformlegt félag er mögulegt að ná sambærilegum áhrifum með deildarskiptingu, en lög og ákvarðanaferli verða að vera hin sömu yfir allt félagið. (Þ.e., notkun eins félags er í raun ákveðið svar við seinni spurningunni.) Án þess að fara um of út í smáatriði er lagt til að skoða þrjá mögulega kosti:
 
 1. Kosningar meðal allra meðlima, bindandi fyrir öll félög.
