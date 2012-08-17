@@ -6,9 +6,8 @@ be answered.
 
 ## What entities?
 
-A common answer, particularly among those deeply influenced by propertarian
-thinking, is that the federation should be of individuals. And to be sure,
-ultimately all society consists of individuals. And even if we assume that
+A common answer is that the federation should be of individuals. To be sure,
+society ultimately consists only of individuals. Even if we assume that
 decision-making by the individual can be subdivided, that structure is not
 something we have meaningful control over. But as a practical matter, a
 federation of seven *billion* entities does not seem like an achievable goal.
