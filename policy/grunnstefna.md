@@ -18,25 +18,46 @@ að dreifa pólitísku valdi um allt samfélagið, en ekki að styrkja stjórn m
 valds yfir því. Slíkri stjórn er hætt við að festast í forminu og eiga erfitt
 með að aðlaga sig að nýjum veruleika.
 
-Píratar leggja áherslu á gagnrýna hugsun. Í þessu felst ekki aðeins varfærni
-gagnvart tillögum sem virðast í fyrstu góðar, heldur einnig vilji til að skoða
-nánar tillögur sem í fyrstu virðast slæmar. Afstaða pírata fer ekki eftir því úr
-hvaða átt hugmynd kemur, eða hverjir fortalsmenn hennar eru. Gagnrýnin hugsun
-krefst þess einnig að til greina komi að endurskoða fyrri ákvarðanir. Veröldin
-tekur stöðugum breytingum og við verðum að breytast með henni.
+Til að tryggja að Píratar haldi sig á þeirri braut sem upphaflega var mörkuð
+hafa eftirfarandi grunnstefnumið verið samþykkt. Engin stefna flokksins má
+brjóta gegn þeim, og öll stefnumið skulu vísa til fyrri stefnumiða – og þar með
+beint eða óbeint til grunnstefnunnar sem hér er lögð fram.
 
-Píratar beita sér fyrir eflingu og verndun borgararéttinda. Tjáningarfrelsi og
-friðhelgi einkalífsins eru meðal hornsteina þeirra, og ber að skýla gegn allri
-ásælni. Gildir einu hvort sú ásælni er af hálfu ríkisvalds eða einkaaðila.
-Rétturinn til aðkomu að ákvörðunum um eigin málefni og vitneskju um það hvernig
-slíkar ákvarðanir hafa verið teknar eiga ennfremur að teljast til
-ófrávíkjanlegra réttinda borgaranna. Píratar vilja þannig stuðla að virku
-lýðræði og gagnsærri stjórnsýslu. Borgararéttindi eru _allra_, og réttur hvers
-vegur jafnt.
+ 1. Píratar leggja áherslu á gagnrýna hugsun.
 
-Píratar líta á samfélagið sem flókið kerfi, uppfullt af samverkandi þáttum og
-tengingum. Píratar telja að efla þurfi skilning á þessu kerfi, og að stefnumótun
-allra þátttakenda í samfélaginu þurfi að taka mið af slíkum skilningi. Píratar
-leggja áherslu á að ekki megi reyna á þolmörk þessa kerfis, og að stuðla verði
-að stöðugleika þess jafnvel við öfgakenndar aðstæður. Píratar telja að slíkur
-stöðugleiki vegi þyngra en skilvirkni.
+    Í þessu felst ekki aðeins varfærni gagnvart tillögum sem í fyrstu virðast
+    góðar, heldur einnig vilji til að skoða nánar tillögur sem virðast slæmar.
+
+    Afstaða pírata fer ekki eftir því úr hvaða átt hugmynd kemur, eða hverjir
+    fortalsmenn hennar eru.
+
+    Gagnrýnin hugsun krefst þess einnig að til greina komi að endurskoða fyrri
+    ákvarðanir.
+
+ 2. Píratar beita sér fyrir eflingu og verndun borgararéttinda.
+
+    Tjáningarfrelsi og friðhelgi einkalífsins eru meðal hornsteina þeirra, og ber
+    að skýla gegn allri ásælni. Gildir einu hvort sú ásælni er af hálfu
+    ríkisvalds eða einkaaðila.
+
+ 3. Píratar telja að allir hafi óskoraðan rétt til aðkomu að ákvörðunum sem varða
+    eigin málefni, og rétt til vitneskju um það hvernig slíkar ákvarðanir hafi
+    verið teknar.
+
+    Slíkur réttur er tryggður með styrkingu beins lýðræðis og eflingu gagnsærrar
+    stjórnsýslu.
+
+ 4. Píratar telja að borgararéttindi tilheyri einstaklingum, og að réttur hvers
+    og eins sé jafn sterkur.
+
+ 5. Píratar líta á samfélagið sem flókið kerfi, uppfullt af samverkandi þáttum
+    og tengingum. Flókin kerfi lúta ákveðnum lögmálum, og samfélagið er engin
+    undantekning. Píratar telja að efla þurfi skilning á þessu kerfi, og að
+    stefnumótun allra þátttakenda í samfélaginu þurfi að taka mið af slíkum
+    skilningi.
+
+    Píratar leggja áherslu á að ekki megi reyna á þolmörk þessa kerfis, og að
+    stuðla verði að stöðugleika þess jafnvel við öfgakenndar aðstæður. Tryggja
+    verður að samfélagið geti þolað áföll á borð við víðtækar náttúruhamfarir,
+    loftslagsbreytingar og hryðjuverkaárásir. Píratar telja að stöðugleiki vegi
+    þyngra en skilvirkni.
