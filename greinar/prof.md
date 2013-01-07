@@ -34,15 +34,16 @@ síðari spurninguna, og í mörgum tilvikum eru stofnanir að safna verulegum h
 þeirra upplýsinga sem þörf er á nú þegar. Það er í sjálfu sér enginn munur á því
 að spyrja – eins og í læknisfræði – hvort pilla A eða pilla B dragi meira úr
 sjúkdómseinkennum og því að spyrja – eins og Vinnumálastofnun gæti gert – hvort
-úrræði A eða úrræði B fækki atvinnulausum meira. Þetta á líka við um
-siðferðisspurninguna. Þar er því haldið fram að ekki sé sanngjarnt að halda nýju
-úrræði sem gæti hjálpað frá fólki sem þarf á því að halda. Þetta á auðvitað ekki
-síður við í lyfjarannsóknum; hvernig er verjandi að halda lyfi sem gæti bjargað
-lífi fólks frá því? Hér er lykilorðið „_gæti_“. Áður en við vitum hvort það sé
-ósanngjarnt að nota úrræðið ekki fyrir alla þurfum við að vita hvort það
-_virkar_. Og hvernig komumst við að því hvort það virkar án þess að bera saman
-fólk sem hefur notið þess og fólk sem hefur ekki gert það? Kannski er helsti
-erfiðleikinn við samanburðarpróf í stefnumálum sá að við höfum ekki vanist því
-að hugsa um sönnunargögn sem forsendu stefnumótunar.
+úrræði A eða úrræði B fækki atvinnulausum meira.
+
+Þetta á líka við um siðferðisspurninguna. Þar er því haldið fram að ekki sé
+sanngjarnt að halda nýju úrræði sem gæti hjálpað frá fólki sem þarf á því að
+halda. Þetta á auðvitað ekki síður við í lyfjarannsóknum; hvernig er verjandi að
+halda lyfi sem gæti bjargað lífi fólks frá því? Hér er lykilorðið „_gæti_“. Áður
+en við vitum hvort það sé ósanngjarnt að nota úrræðið ekki fyrir alla þurfum við
+að vita hvort það _virkar_. Og hvernig komumst við að því hvort það virkar án
+þess að bera saman fólk sem hefur notið þess og fólk sem hefur ekki gert það?
+Kannski er helsti erfiðleikinn við samanburðarpróf í stefnumálum sá að við höfum
+ekki vanist því að hugsa um sönnunargögn sem forsendu stefnumótunar.
 
 Því vilja Píratar breyta.
