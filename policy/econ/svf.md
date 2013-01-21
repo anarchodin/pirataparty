@@ -1,9 +1,11 @@
 # Tillaga að stefnu Pírata um samvinnufélög
 
 Með tilvísun til
+
 - 4. greinar stefnu Pírata varðandi gerð hagkerfisins;
 
 og með hliðsjón af
+
 1. grunngildum alþjóðabandalags samvinnufélaga (ICA),
 2. núgildandi lögum um samvinnufélög (22/1991),
 3. sögu og stöðu Sambands Íslenskra Samvinnufélaga
