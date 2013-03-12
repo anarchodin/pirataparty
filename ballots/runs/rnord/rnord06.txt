@@ -1,0 +1,70 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rnord.txt.
+Ballot file contains 22 candidates and 81 ballots.
+Removed withdrawn candidates BjarniRunar, salvor, Halldora, eval, and helgihg from the ballots.
+Ballot file contains 51 non-empty ballots.
+
+Counting votes for rnord-6 using Instant Runoff Voting.
+17 candidates running for 1 seat.
+
+ R|nonn|Gudn|petu|ra  |anna|birn|eina|Valg|kasj|inab|pall|ladd|thor|Isfe|isbj|Zaru|veig|Exha
+  |isk |i   |rgk |    |gudb|am  |rmaa|eirV|u   |a   |helg|i   |durs|ldid|orn |tian|ar  |uste
+  |    |    |    |    |jorg|    |ck  |    |    |    |ason|    |vein|    |    |    |    |d   
+  |    |    |    |    |    |    |    |    |    |    |    |    |s   |    |    |    |    |    
+============================================================================================
+ 1|   1|   1|   5|   8|   2|   0|   0|   3|   0|   3|   0|   6|  14|   0|   8|   0|   0|   0
+  |-----------------------------------------------------------------------------------------
+  | Count of first choices.
+============================================================================================
+ 2|   1|   1|   5|   8|   2|    |    |   3|    |   3|    |   6|  14|    |   8|    |    |   0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating birnam, einarmaack, kasju, pallhelgason, Isfeldid, Zarutian, and
+  | veigar and transferring votes. Since this is the first elimination round, all candidates
+  | without any votes are eliminated.
+============================================================================================
+ 3|   1|    |   5|   8|   2|    |    |   3|    |   3|    |   7|  14|    |   8|    |    |   0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating Gudni and transferring votes. Candidates nonnisk and Gudni were
+  | tied when choosing candidates to eliminate. Candidate Gudni was chosen by breaking the
+  | tie randomly.
+============================================================================================
+ 4|    |    |   5|   9|   2|    |    |   3|    |   3|    |   7|  14|    |   8|    |    |   0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating nonnisk and transferring votes.
+============================================================================================
+ 5|    |    |   6|   9|    |    |    |   3|    |   3|    |   7|  14|    |   9|    |    |   0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating annagudbjorg and transferring votes.
+============================================================================================
+ 6|    |    |   6|  10|    |    |    |   3|    |    |    |   7|  14|    |   9|    |    |   2
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating inaba and transferring votes. Candidates ValgeirV and inaba were
+  | tied when choosing candidates to eliminate. Candidate inaba was chosen by breaking the
+  | tie randomly.
+============================================================================================
+ 7|    |    |   6|  10|    |    |    |    |    |    |    |   8|  14|    |  10|    |    |   3
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating ValgeirV and transferring votes.
+============================================================================================
+ 8|    |    |    |  10|    |    |    |    |    |    |    |   8|  17|    |  11|    |    |   5
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating peturgk and transferring votes.
+============================================================================================
+ 9|    |    |    |  12|    |    |    |    |    |    |    |    |  18|    |  11|    |    |  10
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating laddi and transferring votes.
+============================================================================================
+10|    |    |    |  16|    |    |    |    |    |    |    |    |  22|    |    |    |    |  13
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating isbjorn and transferring votes. Candidate thordursveins is
+  | elected.
+
+Winner is thordursveins.

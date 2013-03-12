@@ -1,0 +1,78 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file svest.txt.
+Ballot file contains 26 candidates and 82 ballots.
+Removed withdrawn candidates bjornlevi, Hakon, and birgitta from the ballots.
+Ballot file contains 64 non-empty ballots.
+
+Counting votes for svest-4 using Instant Runoff Voting.
+23 candidates running for 1 seat.
+
+ R|GRagnar|viktora|soleysi|peturkr|gpk    |ornlud |Qauzzix|toranga|Bondark|haffi  |Theodor|Addi80 
+  |       |ronhara|gurthor|istofer|       |       |       |       |       |       |       |       
+  |       |ldsson |s      |sson   |       |       |       |       |       |       |       |       
+  |       |       |       |       |       |       |       |       |       |       |       |       
+  |-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------
+  |JennyRu|Hansen |kjartan|farbion|Geiri  |Kjarrva|vitring|berglin|neptunu|arni   |pallida|Exhaust
+  |t      |       |jonsson|d      |       |l      |ur     |d0sk   |ssturla|       |n      |ed     
+  |       |       |       |       |       |       |       |       |egilsso|       |       |       
+  |       |       |       |       |       |       |       |       |n      |       |       |       
+==================================================================================================
+ 1|     10|      1|      6|      0|      0|      0|      0|      0|      0|      0|      2|      0
+  |      0|      2|      2|      0|      0|     10|      0|     11|      0|     20|      0|      0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|     10|      1|      6|       |       |       |       |       |       |       |      2|       
+  |       |      2|      2|       |       |     10|       |     11|       |     20|       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating peturkristofersson, gpk, ornlud, Qauzzix, toranga, Bondark, haffi,
+  | Addi80, JennyRut, farbiond, Geiri, vitringur, neptunussturlaegilsson, and pallidan and
+  | transferring votes. Since this is the first elimination round, all candidates without any
+  | votes are eliminated.
+==================================================================================================
+ 3|     10|       |      6|       |       |       |       |       |       |       |      2|       
+  |       |      2|      3|       |       |     10|       |     11|       |     20|       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating viktoraronharaldsson and transferring votes.
+==================================================================================================
+ 4|     10|       |      6|       |       |       |       |       |       |       |      2|       
+  |       |       |      3|       |       |     10|       |     11|       |     20|       |      2
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Hansen and transferring votes. Candidates Theodor and Hansen were tied
+  | when choosing candidates to eliminate. Candidate Hansen was chosen by breaking the tie
+  | randomly.
+==================================================================================================
+ 5|     10|       |      7|       |       |       |       |       |       |       |       |       
+  |       |       |      3|       |       |     10|       |     11|       |     20|       |      3
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Theodor and transferring votes.
+==================================================================================================
+ 6|     11|       |      7|       |       |       |       |       |       |       |       |       
+  |       |       |       |       |       |     11|       |     12|       |     20|       |      3
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating kjartanjonsson and transferring votes.
+==================================================================================================
+ 7|     13|       |       |       |       |       |       |       |       |       |       |       
+  |       |       |       |       |       |     12|       |     14|       |     21|       |      4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating soleysigurthors and transferring votes.
+==================================================================================================
+ 8|     13|       |       |       |       |       |       |       |       |       |       |       
+  |       |       |       |       |       |       |       |     17|       |     23|       |     11
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Kjarrval and transferring votes.
+==================================================================================================
+ 9|       |       |       |       |       |       |       |       |       |       |       |       
+  |       |       |       |       |       |       |       |     25|       |     26|       |     13
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating GRagnar and transferring votes. Candidate arni is elected.
+
+Winner is arni.

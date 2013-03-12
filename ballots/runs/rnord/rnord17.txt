@@ -1,0 +1,41 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rnord.txt.
+Ballot file contains 22 candidates and 81 ballots.
+Removed withdrawn candidates BjarniRunar, nonnisk, peturgk, ra, salvor, Halldora, annagudbjorg,
+birnam, ValgeirV, inaba, eval, helgihg, laddi, thordursveins, isbjorn, and veigar from the ballots.
+Ballot file contains 16 non-empty ballots.
+
+Counting votes for rnord-17 using Instant Runoff Voting.
+6 candidates running for 1 seat.
+
+ R|Gudni        |einarmaack   |kasju        |pallhelgason |Isfeldid     |Zarutian     |Exhausted    
+====================================================================================================
+ 1|            2|            3|            1|            4|            3|            3|            0
+  |-------------------------------------------------------------------------------------------------
+  | Count of first choices.
+====================================================================================================
+ 2|            2|            3|             |            4|            4|            3|            0
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating kasju and transferring votes.
+====================================================================================================
+ 3|             |            3|             |            4|            4|            4|            1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating Gudni and transferring votes.
+====================================================================================================
+ 4|             |             |             |            5|            4|            5|            2
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating einarmaack and transferring votes.
+====================================================================================================
+ 5|             |             |             |            9|             |            5|            2
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating Isfeldid and transferring votes. Candidate pallhelgason is elected.
+
+Winner is pallhelgason.

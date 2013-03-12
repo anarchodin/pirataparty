@@ -1,0 +1,40 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file svest.txt.
+Ballot file contains 26 candidates and 82 ballots.
+Removed withdrawn candidates GRagnar, soleysigurthors, peturkristofersson, gpk, Qauzzix, toranga,
+Bondark, haffi, Theodor, JennyRut, Hansen, kjartanjonsson, bjornlevi, farbiond, Hakon, Geiri,
+Kjarrval, birgitta, berglind0sk, arni, and pallidan from the ballots.
+Ballot file contains 17 non-empty ballots.
+
+Counting votes for svest-22 using Instant Runoff Voting.
+5 candidates running for 1 seat.
+
+ R|viktoraronharal|ornlud         |Addi80         |vitringur      |neptunussturlae|Exhausted      
+  |dsson          |               |               |               |gilsson        |               
+==================================================================================================
+ 1|              1|              2|              5|              3|              6|              0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|               |              2|              5|              3|              6|              1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating viktoraronharaldsson and transferring votes.
+==================================================================================================
+ 3|               |               |              5|              4|              7|              1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating ornlud and transferring votes.
+==================================================================================================
+ 4|               |               |              5|               |              8|              4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating vitringur and transferring votes. Candidate neptunussturlaegilsson is
+  | elected.
+
+Winner is neptunussturlaegilsson.

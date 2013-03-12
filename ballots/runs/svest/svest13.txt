@@ -1,0 +1,84 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file svest.txt.
+Ballot file contains 26 candidates and 82 ballots.
+Removed withdrawn candidates GRagnar, soleysigurthors, Theodor, Hansen, kjartanjonsson, bjornlevi,
+Hakon, Kjarrval, birgitta, berglind0sk, arni, and pallidan from the ballots.
+Ballot file contains 29 non-empty ballots.
+
+Counting votes for svest-13 using Instant Runoff Voting.
+14 candidates running for 1 seat.
+
+ R|vikto|petur|gpk  |ornlu|Qauzz|toran|Bonda|haffi|Addi8|Jenny|farbi|Geiri|vitri|neptu|Exhau
+  |raron|krist|     |d    |ix   |ga   |rk   |     |0    |Rut  |ond  |     |ngur |nusst|sted 
+  |haral|ofers|     |     |     |     |     |     |     |     |     |     |     |urlae|     
+  |dsson|son  |     |     |     |     |     |     |     |     |     |     |     |gilss|     
+  |     |     |     |     |     |     |     |     |     |     |     |     |     |on   |     
+============================================================================================
+ 1|    1|    0|    4|    1|    5|    1|    2|    4|    0|    1|    4|    2|    2|    2|    0
+  |-----------------------------------------------------------------------------------------
+  | Count of first choices.
+============================================================================================
+ 2|    1|     |    4|    1|    5|    1|    2|    4|     |    1|    4|    2|    2|    2|    0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating peturkristofersson and Addi80 and transferring votes. Since this
+  | is the first elimination round, all candidates without any votes are eliminated.
+============================================================================================
+ 3|    1|     |    4|    1|    5|    1|    2|    4|     |     |    5|    2|    2|    2|    0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating JennyRut and transferring votes. Candidates
+  | viktoraronharaldsson, ornlud, toranga, and JennyRut were tied when choosing candidates
+  | to eliminate. Candidate JennyRut was chosen by breaking the tie randomly.
+============================================================================================
+ 4|     |     |    4|    1|    5|    1|    2|    4|     |     |    5|    2|    2|    2|    1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating viktoraronharaldsson and transferring votes. Candidates
+  | viktoraronharaldsson, ornlud, and toranga were tied when choosing candidates to
+  | eliminate. Candidate viktoraronharaldsson was chosen by breaking the tie randomly.
+============================================================================================
+ 5|     |     |    5|     |    5|    1|    2|    4|     |     |    5|    2|    2|    2|    1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating ornlud and transferring votes. Candidates ornlud and toranga
+  | were tied when choosing candidates to eliminate. Candidate ornlud was chosen by breaking
+  | the tie randomly.
+============================================================================================
+ 6|     |     |    5|     |    5|     |    3|    4|     |     |    5|    2|    2|    2|    1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating toranga and transferring votes.
+============================================================================================
+ 7|     |     |    5|     |    5|     |    3|    4|     |     |    5|     |    2|    2|    3
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating Geiri and transferring votes. Candidates Geiri, vitringur, and
+  | neptunussturlaegilsson were tied when choosing candidates to eliminate. Candidate Geiri
+  | was chosen by breaking the tie randomly.
+============================================================================================
+ 8|     |     |    5|     |    5|     |    3|    4|     |     |    5|     |    2|     |    5
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating neptunussturlaegilsson and transferring votes. Candidates
+  | vitringur and neptunussturlaegilsson were tied when choosing candidates to eliminate.
+  | Candidate neptunussturlaegilsson was chosen by breaking the tie randomly.
+============================================================================================
+ 9|     |     |    5|     |    5|     |    3|    4|     |     |    5|     |     |     |    7
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating vitringur and transferring votes.
+============================================================================================
+10|     |     |    5|     |    6|     |     |    4|     |     |    6|     |     |     |    8
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating Bondark and transferring votes.
+============================================================================================
+11|     |     |    5|     |    7|     |     |     |     |     |    6|     |     |     |   11
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating haffi and transferring votes.
+============================================================================================
+12|     |     |     |     |   11|     |     |     |     |     |    6|     |     |     |   12
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating gpk and transferring votes. Candidate Qauzzix is elected.
+
+Winner is Qauzzix.

@@ -1,0 +1,27 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file svest.txt.
+Ballot file contains 26 candidates and 82 ballots.
+Removed withdrawn candidates GRagnar, viktoraronharaldsson, soleysigurthors, peturkristofersson,
+gpk, Qauzzix, toranga, Bondark, haffi, Theodor, Addi80, JennyRut, Hansen, kjartanjonsson, bjornlevi,
+farbiond, Hakon, Geiri, Kjarrval, birgitta, berglind0sk, neptunussturlaegilsson, arni, and pallidan
+from the ballots.
+Ballot file contains 14 non-empty ballots.
+
+Counting votes for svest-25 using Instant Runoff Voting.
+2 candidates running for 1 seat.
+
+ R|ornlud                         |vitringur                      |Exhausted                      
+==================================================================================================
+ 1|                             10|                              4|                              0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices. Candidate ornlud is elected.
+
+Winner is ornlud.

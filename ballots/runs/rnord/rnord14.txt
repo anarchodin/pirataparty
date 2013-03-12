@@ -1,0 +1,59 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rnord.txt.
+Ballot file contains 22 candidates and 81 ballots.
+Removed withdrawn candidates BjarniRunar, peturgk, ra, salvor, Halldora, annagudbjorg, ValgeirV,
+eval, helgihg, laddi, thordursveins, isbjorn, and veigar from the ballots.
+Ballot file contains 22 non-empty ballots.
+
+Counting votes for rnord-14 using Instant Runoff Voting.
+9 candidates running for 1 seat.
+
+ R|nonnisk |Gudni   |birnam  |einarmaa|kasju   |inaba   |pallhelg|Isfeldid|Zarutian|Exhauste
+  |        |        |        |ck      |        |        |ason    |        |        |d       
+============================================================================================
+ 1|       6|       1|       1|       2|       0|       8|       2|       0|       2|       0
+  |-----------------------------------------------------------------------------------------
+  | Count of first choices.
+============================================================================================
+ 2|       6|       1|       1|       2|        |       8|       2|        |       2|       0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating kasju and Isfeldid and transferring votes. Since this is the
+  | first elimination round, all candidates without any votes are eliminated.
+============================================================================================
+ 3|       6|       2|        |       2|        |       8|       2|        |       2|       0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating birnam and transferring votes. Candidates Gudni and birnam were
+  | tied when choosing candidates to eliminate. Candidate birnam was chosen by breaking the
+  | tie randomly.
+============================================================================================
+ 4|       7|        |        |       2|        |       8|       2|        |       2|       1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating Gudni and transferring votes. Candidates Gudni, einarmaack,
+  | pallhelgason, and Zarutian were tied when choosing candidates to eliminate. Candidate
+  | Gudni was chosen by breaking the tie at round 2.
+============================================================================================
+ 5|       7|        |        |       2|        |       8|       2|        |        |       3
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating Zarutian and transferring votes. Candidates einarmaack,
+  | pallhelgason, and Zarutian were tied when choosing candidates to eliminate. Candidate
+  | Zarutian was chosen by breaking the tie randomly.
+============================================================================================
+ 6|       7|        |        |       2|        |       9|        |        |        |       4
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating pallhelgason and transferring votes. Candidates einarmaack and
+  | pallhelgason were tied when choosing candidates to eliminate. Candidate pallhelgason was
+  | chosen by breaking the tie randomly.
+============================================================================================
+ 7|       7|        |        |        |        |      10|        |        |        |       5
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating einarmaack and transferring votes. Candidate inaba is elected.
+
+Winner is inaba.

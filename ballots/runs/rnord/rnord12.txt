@@ -1,0 +1,61 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rnord.txt.
+Ballot file contains 22 candidates and 81 ballots.
+Removed withdrawn candidates BjarniRunar, peturgk, ra, salvor, Halldora, annagudbjorg, eval,
+helgihg, laddi, thordursveins, and isbjorn from the ballots.
+Ballot file contains 28 non-empty ballots.
+
+Counting votes for rnord-12 using Instant Runoff Voting.
+11 candidates running for 1 seat.
+
+ R|nonnisk|Gudni  |birnam |einarma|Valgeir|kasju  |inaba  |pallhel|Isfeldi|Zarutia|veigar |Exhaust
+  |       |       |       |ack    |V      |       |       |gason  |d      |n      |       |ed     
+==================================================================================================
+ 1|      4|      1|      0|      1|      7|      0|      7|      1|      0|      2|      5|      0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|      4|      1|       |      1|      7|       |      7|      1|       |      2|      5|      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating birnam, kasju, and Isfeldid and transferring votes. Since this is the
+  | first elimination round, all candidates without any votes are eliminated.
+==================================================================================================
+ 3|      4|      2|       |      1|      7|       |      7|       |       |      2|      5|      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating pallhelgason and transferring votes. Candidates Gudni, einarmaack, and
+  | pallhelgason were tied when choosing candidates to eliminate. Candidate pallhelgason was
+  | chosen by breaking the tie randomly.
+==================================================================================================
+ 4|      4|      2|       |       |      7|       |      7|       |       |      2|      6|      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating einarmaack and transferring votes.
+==================================================================================================
+ 5|      4|       |       |       |      7|       |      7|       |       |      2|      7|      1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Gudni and transferring votes. Candidates Gudni and Zarutian were tied
+  | when choosing candidates to eliminate. Candidate Gudni was chosen by breaking the tie at round
+  | 2.
+==================================================================================================
+ 6|      4|       |       |       |      7|       |      7|       |       |       |      7|      3
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Zarutian and transferring votes.
+==================================================================================================
+ 7|       |       |       |       |      9|       |      7|       |       |       |      8|      4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating nonnisk and transferring votes.
+==================================================================================================
+ 8|       |       |       |       |     10|       |       |       |       |       |     10|      8
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating inaba and transferring votes. Candidates ValgeirV and veigar were tied
+  | when choosing winners. Candidate veigar was chosen by breaking the tie at round 7. Candidate
+  | ValgeirV is elected.
+
+Winner is ValgeirV.

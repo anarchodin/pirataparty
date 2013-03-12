@@ -1,0 +1,53 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rnord.txt.
+Ballot file contains 22 candidates and 81 ballots.
+Removed withdrawn candidates BjarniRunar, peturgk, ra, salvor, Halldora, eval, helgihg, laddi,
+thordursveins, and isbjorn from the ballots.
+Ballot file contains 33 non-empty ballots.
+
+Counting votes for rnord-11 using Instant Runoff Voting.
+12 candidates running for 1 seat.
+
+ R|nonnis|Gudni |annagu|birnam|einarm|Valgei|kasju |inaba |pallhe|Isfeld|Zaruti|veigar|Exhaus
+  |k     |      |dbjorg|      |aack  |rV    |      |      |lgason|id    |an    |      |ted   
+  |      |      |      |      |      |      |      |      |      |      |      |      |      
+=============================================================================================
+ 1|     4|     1|    11|     0|     0|     6|     0|     6|     0|     0|     2|     3|     0
+  |------------------------------------------------------------------------------------------
+  | Count of first choices.
+=============================================================================================
+ 2|     4|     1|    11|      |      |     6|      |     6|      |      |     2|     3|     0
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating birnam, einarmaack, kasju, pallhelgason, and Isfeldid and
+  | transferring votes. Since this is the first elimination round, all candidates without any
+  | votes are eliminated.
+=============================================================================================
+ 3|     4|      |    12|      |      |     6|      |     6|      |      |     2|     3|     0
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating Gudni and transferring votes.
+=============================================================================================
+ 4|     4|      |    12|      |      |     6|      |     6|      |      |      |     3|     2
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating Zarutian and transferring votes.
+=============================================================================================
+ 5|     5|      |    12|      |      |     6|      |     7|      |      |      |      |     3
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating veigar and transferring votes.
+=============================================================================================
+ 6|      |      |    13|      |      |     9|      |     7|      |      |      |      |     4
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating nonnisk and transferring votes.
+=============================================================================================
+ 7|      |      |    15|      |      |     9|      |      |      |      |      |      |     9
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating inaba and transferring votes. Candidate annagudbjorg is elected.
+
+Winner is annagudbjorg.

@@ -1,0 +1,26 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rsud.txt.
+Ballot file contains 22 candidates and 92 ballots.
+Removed withdrawn candidates siggae, viddii, Hinrik, kotturinn, atlipeturodinsson, davidhalldor,
+asta, jonthorgal, atlividarthorsteinsson, Katla, Birkir, Arnaldur, hmh, davidthor, siggatoll, Mind,
+jhaukur, jonragnarsson, Bjorg, and elvarakelsaevarsdottir from the ballots.
+Ballot file contains 14 non-empty ballots.
+
+Counting votes for rsud-21 using Instant Runoff Voting.
+2 candidates running for 1 seat.
+
+ R|gudmundurbjarkarson            |ragnheidurfgudmundsdottir      |Exhausted                      
+==================================================================================================
+ 1|                              6|                              8|                              0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices. Candidate ragnheidurfgudmundsdottir is elected.
+
+Winner is ragnheidurfgudmundsdottir.

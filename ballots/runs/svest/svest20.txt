@@ -1,0 +1,54 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file svest.txt.
+Ballot file contains 26 candidates and 82 ballots.
+Removed withdrawn candidates GRagnar, soleysigurthors, gpk, Qauzzix, toranga, haffi, Theodor,
+JennyRut, Hansen, kjartanjonsson, bjornlevi, farbiond, Hakon, Geiri, Kjarrval, birgitta,
+berglind0sk, arni, and pallidan from the ballots.
+Ballot file contains 19 non-empty ballots.
+
+Counting votes for svest-20 using Instant Runoff Voting.
+7 candidates running for 1 seat.
+
+ R|viktoraronh|peturkristo|ornlud     |Bondark    |Addi80     |vitringur  |neptunusstu|Exhausted  
+  |araldsson  |fersson    |           |           |           |           |rlaegilsson|           
+  |           |           |           |           |           |           |           |           
+==================================================================================================
+ 1|          1|          1|          2|          7|          3|          2|          3|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|          1|           |          2|          8|          3|          2|          3|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating peturkristofersson and transferring votes. Candidates
+  | viktoraronharaldsson and peturkristofersson were tied when choosing candidates to eliminate.
+  | Candidate peturkristofersson was chosen by breaking the tie randomly.
+==================================================================================================
+ 3|           |           |          2|          8|          3|          2|          3|          1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating viktoraronharaldsson and transferring votes.
+==================================================================================================
+ 4|           |           |           |          9|          3|          3|          3|          1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating ornlud and transferring votes. Candidates ornlud and vitringur were
+  | tied when choosing candidates to eliminate. Candidate ornlud was chosen by breaking the tie
+  | randomly.
+==================================================================================================
+ 5|           |           |           |          9|          3|           |          4|          3
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating vitringur and transferring votes. Candidates Addi80, vitringur, and
+  | neptunussturlaegilsson were tied when choosing candidates to eliminate. Candidate vitringur
+  | was chosen by breaking the tie at round 3.
+==================================================================================================
+ 6|           |           |           |         12|           |           |          4|          3
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Addi80 and transferring votes. Candidate Bondark is elected.
+
+Winner is Bondark.

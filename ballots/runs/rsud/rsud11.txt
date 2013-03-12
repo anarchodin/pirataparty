@@ -1,0 +1,67 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rsud.txt.
+Ballot file contains 22 candidates and 92 ballots.
+Removed withdrawn candidates siggae, asta, jonthorgal, Birkir, Arnaldur, davidthor, siggatoll,
+jhaukur, jonragnarsson, and Bjorg from the ballots.
+Ballot file contains 50 non-empty ballots.
+
+Counting votes for rsud-11 using Instant Runoff Voting.
+12 candidates running for 1 seat.
+
+ R|gudmun|viddii|Hinrik|kottur|atlipe|davidh|atlivi|Katla |hmh   |ragnhe|Mind  |elvara|Exhaus
+  |durbja|      |      |inn   |turodi|alldor|dartho|      |      |idurfg|      |kelsae|ted   
+  |rkarso|      |      |      |nsson |      |rstein|      |      |udmund|      |varsdo|      
+  |n     |      |      |      |      |      |sson  |      |      |sdotti|      |ttir  |      
+  |      |      |      |      |      |      |      |      |      |r     |      |      |      
+=============================================================================================
+ 1|     0|     0|     1|    11|     2|    12|     3|     9|     9|     1|     2|     0|     0
+  |------------------------------------------------------------------------------------------
+  | Count of first choices.
+=============================================================================================
+ 2|      |      |     1|    11|     2|    12|     3|     9|     9|     1|     2|      |     0
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating gudmundurbjarkarson, viddii, and elvarakelsaevarsdottir and
+  | transferring votes. Since this is the first elimination round, all candidates without any
+  | votes are eliminated.
+=============================================================================================
+ 3|      |      |     1|    11|     2|    12|     3|     9|     9|      |     2|      |     1
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating ragnheidurfgudmundsdottir and transferring votes. Candidates
+  | Hinrik and ragnheidurfgudmundsdottir were tied when choosing candidates to eliminate.
+  | Candidate ragnheidurfgudmundsdottir was chosen by breaking the tie randomly.
+=============================================================================================
+ 4|      |      |      |    11|     2|    12|     3|     9|     9|      |     2|      |     2
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating Hinrik and transferring votes.
+=============================================================================================
+ 5|      |      |      |    11|      |    12|     4|    10|     9|      |     2|      |     2
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating atlipeturodinsson and transferring votes. Candidates
+  | atlipeturodinsson and Mind were tied when choosing candidates to eliminate. Candidate
+  | atlipeturodinsson was chosen by breaking the tie randomly.
+=============================================================================================
+ 6|      |      |      |    11|      |    12|     4|    11|     9|      |      |      |     3
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating Mind and transferring votes.
+=============================================================================================
+ 7|      |      |      |    11|      |    12|      |    11|    10|      |      |      |     6
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating atlividarthorsteinsson and transferring votes.
+=============================================================================================
+ 8|      |      |      |    12|      |    17|      |    11|      |      |      |      |    10
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating hmh and transferring votes.
+=============================================================================================
+ 9|      |      |      |    14|      |    21|      |      |      |      |      |      |    15
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating Katla and transferring votes. Candidate davidhalldor is elected.
+
+Winner is davidhalldor.

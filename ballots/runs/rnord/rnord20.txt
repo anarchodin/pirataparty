@@ -1,0 +1,32 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rnord.txt.
+Ballot file contains 22 candidates and 81 ballots.
+Removed withdrawn candidates BjarniRunar, nonnisk, Gudni, peturgk, ra, salvor, Halldora,
+annagudbjorg, birnam, ValgeirV, inaba, pallhelgason, eval, helgihg, laddi, thordursveins, isbjorn,
+Zarutian, and veigar from the ballots.
+Ballot file contains 11 non-empty ballots.
+
+Counting votes for rnord-20 using Instant Runoff Voting.
+3 candidates running for 1 seat.
+
+ R|einarmaack             |kasju                  |Isfeldid               |Exhausted              
+==================================================================================================
+ 1|                      5|                      3|                      3|                      0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|                      8|                      3|                       |                      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Isfeldid and transferring votes. Candidates kasju and Isfeldid were
+  | tied when choosing candidates to eliminate. Candidate Isfeldid was chosen by breaking the tie
+  | randomly. Candidate einarmaack is elected.
+
+Winner is einarmaack.

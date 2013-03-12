@@ -1,0 +1,82 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file svest.txt.
+Ballot file contains 26 candidates and 82 ballots.
+Removed withdrawn candidate 21 from the ballots.
+Ballot file contains 71 non-empty ballots.
+
+Counting votes for svest-2 using Instant Runoff Voting.
+25 candidates running for 1 seat.
+
+ R|GRagna|viktor|soleys|peturk|gpk   |ornlud|Qauzzi|torang|Bondar|haffi |Theodo|Addi80|JennyR
+  |r     |aronha|igurth|ristof|      |      |x     |a     |k     |      |r     |      |ut    
+  |      |raldss|ors   |ersson|      |      |      |      |      |      |      |      |      
+  |      |on    |      |      |      |      |      |      |      |      |      |      |      
+  |------+------+------+------+------+------+------+------+------+------+------+------+------
+  |Hansen|kjarta|bjornl|farbio|Hakon |Geiri |Kjarrv|vitrin|bergli|neptun|arni  |pallid|Exhaus
+  |      |njonss|evi   |nd    |      |      |al    |gur   |nd0sk |usstur|      |an    |ted   
+  |      |on    |      |      |      |      |      |      |      |laegil|      |      |      
+  |      |      |      |      |      |      |      |      |      |sson  |      |      |      
+=============================================================================================
+ 1|     7|     0|     5|     0|     0|     0|     0|     0|     0|     0|     0|     0|     0
+  |     1|     1|    21|     0|    14|     0|     5|     0|     6|     0|    11|     0|     0
+  |------------------------------------------------------------------------------------------
+  | Count of first choices.
+=============================================================================================
+ 2|     7|      |     5|      |      |      |      |      |      |      |      |      |      
+  |     1|     1|    21|      |    14|      |     5|      |     6|      |    11|      |     0
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating viktoraronharaldsson, peturkristofersson, gpk, ornlud, Qauzzix,
+  | toranga, Bondark, haffi, Theodor, Addi80, JennyRut, farbiond, Geiri, vitringur,
+  | neptunussturlaegilsson, and pallidan and transferring votes. Since this is the first
+  | elimination round, all candidates without any votes are eliminated.
+=============================================================================================
+ 3|     7|      |     5|      |      |      |      |      |      |      |      |      |      
+  |      |     1|    22|      |    14|      |     5|      |     6|      |    11|      |     0
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating Hansen and transferring votes. Candidates Hansen and
+  | kjartanjonsson were tied when choosing candidates to eliminate. Candidate Hansen was
+  | chosen by breaking the tie randomly.
+=============================================================================================
+ 4|     7|      |     5|      |      |      |      |      |      |      |      |      |      
+  |      |      |    23|      |    14|      |     5|      |     6|      |    11|      |     0
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating kjartanjonsson and transferring votes.
+=============================================================================================
+ 5|     7|      |     5|      |      |      |      |      |      |      |      |      |      
+  |      |      |    23|      |    15|      |      |      |     8|      |    11|      |     2
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating Kjarrval and transferring votes. Candidates soleysigurthors and
+  | Kjarrval were tied when choosing candidates to eliminate. Candidate Kjarrval was chosen
+  | by breaking the tie randomly.
+=============================================================================================
+ 6|     8|      |      |      |      |      |      |      |      |      |      |      |      
+  |      |      |    25|      |    16|      |      |      |     9|      |    11|      |     2
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating soleysigurthors and transferring votes.
+=============================================================================================
+ 7|      |      |      |      |      |      |      |      |      |      |      |      |      
+  |      |      |    28|      |    17|      |      |      |    12|      |    12|      |     2
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating GRagnar and transferring votes.
+=============================================================================================
+ 8|      |      |      |      |      |      |      |      |      |      |      |      |      
+  |      |      |    32|      |    19|      |      |      |      |      |    15|      |     5
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating berglind0sk and transferring votes. Candidates berglind0sk and
+  | arni were tied when choosing candidates to eliminate. Candidate berglind0sk was chosen by
+  | breaking the tie at round 6.
+=============================================================================================
+ 9|      |      |      |      |      |      |      |      |      |      |      |      |      
+  |      |      |    44|      |    20|      |      |      |      |      |      |      |     7
+  |------------------------------------------------------------------------------------------
+  | Count after eliminating arni and transferring votes. Candidate bjornlevi is elected.
+
+Winner is bjornlevi.

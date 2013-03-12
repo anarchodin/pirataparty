@@ -1,0 +1,53 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rnord.txt.
+Ballot file contains 22 candidates and 81 ballots.
+Removed withdrawn candidates BjarniRunar, nonnisk, peturgk, ra, salvor, Halldora, annagudbjorg,
+ValgeirV, inaba, eval, helgihg, laddi, thordursveins, isbjorn, and veigar from the ballots.
+Ballot file contains 16 non-empty ballots.
+
+Counting votes for rnord-16 using Instant Runoff Voting.
+7 candidates running for 1 seat.
+
+ R|Gudni      |birnam     |einarmaack |kasju      |pallhelgaso|Isfeldid   |Zarutian   |Exhausted  
+  |           |           |           |           |n          |           |           |           
+==================================================================================================
+ 1|          1|          5|          3|          0|          3|          1|          3|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|          1|          5|          3|           |          3|          1|          3|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating kasju and transferring votes. Since this is the first elimination
+  | round, all candidates without any votes are eliminated.
+==================================================================================================
+ 3|           |          5|          3|           |          3|          1|          3|          1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Gudni and transferring votes. Candidates Gudni and Isfeldid were tied
+  | when choosing candidates to eliminate. Candidate Gudni was chosen by breaking the tie
+  | randomly.
+==================================================================================================
+ 4|           |          5|          4|           |          3|           |          3|          1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Isfeldid and transferring votes.
+==================================================================================================
+ 5|           |          5|          4|           |          3|           |           |          4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Zarutian and transferring votes. Candidates pallhelgason and Zarutian
+  | were tied when choosing candidates to eliminate. Candidate Zarutian was chosen by breaking the
+  | tie randomly.
+==================================================================================================
+ 6|           |          6|          6|           |           |           |           |          4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating pallhelgason and transferring votes. Candidates birnam and einarmaack
+  | were tied when choosing winners. Candidate einarmaack was chosen by breaking the tie at round
+  | 5. Candidate birnam is elected.
+
+Winner is birnam.

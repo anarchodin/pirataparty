@@ -1,0 +1,60 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file svest.txt.
+Ballot file contains 26 candidates and 82 ballots.
+Removed withdrawn candidates GRagnar, soleysigurthors, gpk, Qauzzix, haffi, Theodor, JennyRut,
+Hansen, kjartanjonsson, bjornlevi, farbiond, Hakon, Geiri, Kjarrval, birgitta, berglind0sk, arni,
+and pallidan from the ballots.
+Ballot file contains 19 non-empty ballots.
+
+Counting votes for svest-19 using Instant Runoff Voting.
+8 candidates running for 1 seat.
+
+ R|viktoraro|peturkris|ornlud   |toranga  |Bondark  |Addi80   |vitringur|neptunuss|Exhausted
+  |nharaldss|tofersson|         |         |         |         |         |turlaegil|         
+  |on       |         |         |         |         |         |         |sson     |         
+============================================================================================
+ 1|        1|        0|        1|        5|        4|        3|        2|        3|        0
+  |-----------------------------------------------------------------------------------------
+  | Count of first choices.
+============================================================================================
+ 2|        1|         |        1|        5|        4|        3|        2|        3|        0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating peturkristofersson and transferring votes. Since this is the
+  | first elimination round, all candidates without any votes are eliminated.
+============================================================================================
+ 3|        1|         |         |        5|        4|        3|        3|        3|        0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating ornlud and transferring votes. Candidates viktoraronharaldsson
+  | and ornlud were tied when choosing candidates to eliminate. Candidate ornlud was chosen
+  | by breaking the tie randomly.
+============================================================================================
+ 4|         |         |         |        5|        4|        3|        3|        3|        1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating viktoraronharaldsson and transferring votes.
+============================================================================================
+ 5|         |         |         |        5|        4|        3|         |        4|        3
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating vitringur and transferring votes. Candidates Addi80, vitringur,
+  | and neptunussturlaegilsson were tied when choosing candidates to eliminate. Candidate
+  | vitringur was chosen by breaking the tie at round 2.
+============================================================================================
+ 6|         |         |         |        8|        4|         |         |        4|        3
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating Addi80 and transferring votes.
+============================================================================================
+ 7|         |         |         |        8|        5|         |         |         |        6
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating neptunussturlaegilsson and transferring votes. Candidates
+  | Bondark and neptunussturlaegilsson were tied when choosing candidates to eliminate.
+  | Candidate neptunussturlaegilsson was chosen by breaking the tie at round 4. Candidate
+  | toranga is elected.
+
+Winner is toranga.

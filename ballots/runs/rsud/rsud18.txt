@@ -1,0 +1,41 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file rsud.txt.
+Ballot file contains 22 candidates and 92 ballots.
+Removed withdrawn candidates siggae, Hinrik, kotturinn, davidhalldor, asta, jonthorgal, Katla,
+Birkir, Arnaldur, hmh, davidthor, siggatoll, Mind, jhaukur, jonragnarsson, Bjorg, and
+elvarakelsaevarsdottir from the ballots.
+Ballot file contains 20 non-empty ballots.
+
+Counting votes for rsud-18 using Instant Runoff Voting.
+5 candidates running for 1 seat.
+
+ R|gudmundurbjarka|viddii         |atlipeturodinss|atlividarthorst|ragnheidurfgudm|Exhausted      
+  |rson           |               |on             |einsson        |undsdottir     |               
+==================================================================================================
+ 1|              0|             11|              4|              3|              2|              0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|               |             11|              4|              3|              2|              0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating gudmundurbjarkarson and transferring votes. Since this is the first
+  | elimination round, all candidates without any votes are eliminated.
+==================================================================================================
+ 3|               |             11|              4|              3|               |              2
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating ragnheidurfgudmundsdottir and transferring votes.
+==================================================================================================
+ 4|               |             11|              5|               |               |              4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating atlividarthorsteinsson and transferring votes. Candidate viddii is
+  | elected.
+
+Winner is viddii.
