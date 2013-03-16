@@ -1,0 +1,45 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+Removed withdrawn candidates halldorberg, smari, mannabarn, Svafar, Reddice, hjaltiparelius,
+bjorn_thor, bjornst, agusta, sisilull, Stardust, orng, rozajonz, and GunnarSturla from the ballots.
+Ballot file contains 21 non-empty ballots.
+
+Counting votes for sudur-15 using Instant Runoff Voting.
+6 candidates running for 1 seat.
+
+ R|snorripallsno|erlarutk     |necrolust    |eyjolfurjonss|gislibg      |ingibjorgrhel|Exhausted    
+  |rrason       |             |             |on           |             |gadottir     |             
+====================================================================================================
+ 1|            3|            4|            1|            7|            2|            4|            0
+  |-------------------------------------------------------------------------------------------------
+  | Count of first choices.
+====================================================================================================
+ 2|            4|            4|             |            7|            2|            4|            0
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating necrolust and transferring votes.
+====================================================================================================
+ 3|            4|            5|             |            8|             |            4|            0
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating gislibg and transferring votes.
+====================================================================================================
+ 4|             |            6|             |            9|             |            4|            2
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating snorripallsnorrason and transferring votes. Candidates
+  | snorripallsnorrason and ingibjorgrhelgadottir were tied when choosing candidates to eliminate.
+  | Candidate snorripallsnorrason was chosen by breaking the tie at round 1.
+====================================================================================================
+ 5|             |           10|             |            9|             |             |            2
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating ingibjorgrhelgadottir and transferring votes. Candidate erlarutk is
+  | elected.
+
+Winner is erlarutk.

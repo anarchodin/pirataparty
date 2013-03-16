@@ -1,0 +1,73 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file naust.txt.
+Ballot file contains 22 candidates and 62 ballots.
+Removed withdrawn candidates fbd, andri, mordur, alla, HelgiL, iks1710, bjarki, thorgnyr, and
+Kristinelfa from the ballots.
+Ballot file contains 26 non-empty ballots.
+
+Counting votes for naust-10 using Instant Runoff Voting.
+13 candidates running for 1 seat.
+
+ R|karelc|bjarki|bergli|benedi|myrkra|helgih|leifur|stefan|adolfb|reynar|snorri|jonerl|palliv|Exhaus
+  |andi  |h     |ndsilj|ktkgma|verk  |eimiss|konrad|g     |ragi  |j     |jonsso|ingeri|an    |ted   
+  |      |      |aarado|ilcom |      |on    |sson  |      |      |      |n     |csson |      |      
+  |      |      |ttir  |      |      |      |      |      |      |      |      |      |      |      
+====================================================================================================
+ 1|     0|     1|     1|     0|     1|     0|     1|     0|     2|     1|     3|     1|    15|     0
+  |-------------------------------------------------------------------------------------------------
+  | Count of first choices.
+====================================================================================================
+ 2|      |     1|     1|      |     1|      |     1|      |     2|     1|     3|     1|    15|     0
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating karelcandi, benediktkgmailcom, helgiheimisson, and stefang and
+  | transferring votes. Since this is the first elimination round, all candidates without any votes
+  | are eliminated.
+====================================================================================================
+ 3|      |     1|     1|      |      |      |     1|      |     2|     1|     3|     1|    15|     1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating myrkraverk and transferring votes. Candidates bjarkih,
+  | berglindsiljaaradottir, myrkraverk, leifurkonradsson, reynarj, and jonerlingericsson were tied
+  | when choosing candidates to eliminate. Candidate myrkraverk was chosen by breaking the tie
+  | randomly.
+====================================================================================================
+ 4|      |     1|     1|      |      |      |     2|      |     2|     1|     3|      |    15|     1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating jonerlingericsson and transferring votes. Candidates bjarkih,
+  | berglindsiljaaradottir, leifurkonradsson, reynarj, and jonerlingericsson were tied when choosing
+  | candidates to eliminate. Candidate jonerlingericsson was chosen by breaking the tie randomly.
+====================================================================================================
+ 5|      |     1|      |      |      |      |     2|      |     2|     1|     3|      |    16|     1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating berglindsiljaaradottir and transferring votes. Candidates bjarkih,
+  | berglindsiljaaradottir, and reynarj were tied when choosing candidates to eliminate. Candidate
+  | berglindsiljaaradottir was chosen by breaking the tie randomly.
+====================================================================================================
+ 6|      |     1|      |      |      |      |     2|      |     2|      |     3|      |    16|     2
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating reynarj and transferring votes. Candidates bjarkih and reynarj were tied
+  | when choosing candidates to eliminate. Candidate reynarj was chosen by breaking the tie
+  | randomly.
+====================================================================================================
+ 7|      |      |      |      |      |      |     2|      |     2|      |     3|      |    17|     2
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating bjarkih and transferring votes.
+====================================================================================================
+ 8|      |      |      |      |      |      |      |      |     2|      |     3|      |    19|     2
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating leifurkonradsson and transferring votes. Candidates leifurkonradsson and
+  | adolfbragi were tied when choosing candidates to eliminate. Candidate leifurkonradsson was
+  | chosen by breaking the tie at round 3.
+====================================================================================================
+ 9|      |      |      |      |      |      |      |      |      |      |     4|      |    20|     2
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating adolfbragi and transferring votes. Candidate pallivan is elected.
+
+Winner is pallivan.

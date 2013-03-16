@@ -1,0 +1,70 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file nvest.txt.
+Ballot file contains 18 candidates and 69 ballots.
+Removed withdrawn candidates hildur84, odin, and GAgusta from the ballots.
+Ballot file contains 61 non-empty ballots.
+
+Counting votes for nvest-4 using Instant Runoff Voting.
+15 candidates running for 1 seat.
+
+ R|aevar|andri|krist|Myrbo|Oskar|siggi|Einar|greta|tomag|Egill|bjorg|johan|ulfar|stefa|irg  |Exhau
+  |arnfj|91   |janf |rg   |VG   |oskar|gizz |ramaz|e    |     |vinfr|nesin|oli  |nvign|     |sted 
+  |ordbj|     |     |     |     |     |     |een  |     |     |idgei|gival|     |ir   |     |     
+  |armas|     |     |     |     |     |     |     |     |     |rsson|geirs|     |     |     |     
+  |on   |     |     |     |     |     |     |     |     |     |     |son  |     |     |     |     
+==================================================================================================
+ 1|    3|    0|   12|    5|    0|    5|    3|    0|   14|    1|    0|    1|    0|   16|    1|    0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|    3|     |   12|    5|     |    5|    3|     |   14|    1|     |    1|     |   16|    1|    0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating andri91, OskarVG, gretaramazeen, bjorgvinfridgeirsson, and ulfaroli
+  | and transferring votes. Since this is the first elimination round, all candidates without any
+  | votes are eliminated.
+==================================================================================================
+ 3|    3|     |   12|    5|     |    5|    3|     |   14|     |     |    1|     |   16|    1|    1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Egill and transferring votes. Candidates Egill,
+  | johannesingivalgeirsson, and irg were tied when choosing candidates to eliminate. Candidate
+  | Egill was chosen by breaking the tie randomly.
+==================================================================================================
+ 4|    3|     |   12|    5|     |    5|    3|     |   14|     |     |    1|     |   16|     |    2
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating irg and transferring votes. Candidates johannesingivalgeirsson and irg
+  | were tied when choosing candidates to eliminate. Candidate irg was chosen by breaking the tie
+  | randomly.
+==================================================================================================
+ 5|    3|     |   12|    5|     |    5|    4|     |   14|     |     |     |     |   16|     |    2
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating johannesingivalgeirsson and transferring votes.
+==================================================================================================
+ 6|     |     |   12|    5|     |    5|    4|     |   14|     |     |     |     |   17|     |    4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating aevararnfjordbjarmason and transferring votes.
+==================================================================================================
+ 7|     |     |   13|    6|     |    5|     |     |   14|     |     |     |     |   17|     |    6
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Einargizz and transferring votes.
+==================================================================================================
+ 8|     |     |   14|    6|     |     |     |     |   17|     |     |     |     |   18|     |    6
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating siggioskar and transferring votes.
+==================================================================================================
+ 9|     |     |   15|     |     |     |     |     |   17|     |     |     |     |   22|     |    7
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Myrborg and transferring votes.
+==================================================================================================
+10|     |     |     |     |     |     |     |     |   19|     |     |     |     |   28|     |   14
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating kristjanf and transferring votes. Candidate stefanvignir is elected.
+
+Winner is stefanvignir.

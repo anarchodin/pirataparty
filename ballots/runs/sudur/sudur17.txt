@@ -1,0 +1,38 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+Removed withdrawn candidates halldorberg, smari, erlarutk, mannabarn, Svafar, Reddice,
+eyjolfurjonsson, hjaltiparelius, bjorn_thor, bjornst, agusta, sisilull, Stardust, orng, rozajonz,
+and GunnarSturla from the ballots.
+Ballot file contains 19 non-empty ballots.
+
+Counting votes for sudur-17 using Instant Runoff Voting.
+4 candidates running for 1 seat.
+
+ R|snorripallsnorraso|necrolust         |gislibg           |ingibjorgrhelgadot|Exhausted         
+  |n                 |                  |                  |tir               |                  
+=================================================================================================
+ 1|                 5|                 7|                 2|                 5|                 0
+  |----------------------------------------------------------------------------------------------
+  | Count of first choices.
+=================================================================================================
+ 2|                 5|                 8|                  |                 5|                 1
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating gislibg and transferring votes.
+=================================================================================================
+ 3|                 8|                 9|                  |                  |                 2
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating ingibjorgrhelgadottir and transferring votes. Candidates
+  | snorripallsnorrason and ingibjorgrhelgadottir were tied when choosing candidates to
+  | eliminate. Candidate ingibjorgrhelgadottir was chosen by breaking the tie randomly. Candidate
+  | necrolust is elected.
+
+Winner is necrolust.

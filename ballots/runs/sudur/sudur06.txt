@@ -1,0 +1,79 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+Removed withdrawn candidates halldorberg, smari, Svafar, bjorn_thor, and agusta from the ballots.
+Ballot file contains 48 non-empty ballots.
+
+Counting votes for sudur-6 using Instant Runoff Voting.
+15 candidates running for 1 seat.
+
+ R|snorr|erlar|manna|necro|Reddi|eyjol|gisli|hjalt|bjorn|ingib|sisil|Stard|orng |rozaj|Gunna|Exhau
+  |ipall|utk  |barn |lust |ce   |furjo|bg   |ipare|st   |jorgr|ull  |ust  |     |onz  |rStur|sted 
+  |snorr|     |     |     |     |nsson|     |lius |     |helga|     |     |     |     |la   |     
+  |ason |     |     |     |     |     |     |     |     |dotti|     |     |     |     |     |     
+  |     |     |     |     |     |     |     |     |     |r    |     |     |     |     |     |     
+==================================================================================================
+ 1|    2|    1|   10|    0|    0|    1|    0|    4|    2|    0|   10|    8|    1|    7|    2|    0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|    2|    1|   10|     |     |    1|     |    4|    2|     |   10|    8|    1|    7|    2|    0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating necrolust, Reddice, gislibg, and ingibjorgrhelgadottir and
+  | transferring votes. Since this is the first elimination round, all candidates without any
+  | votes are eliminated.
+==================================================================================================
+ 3|    2|    1|   10|     |     |     |     |    4|    2|     |   10|    8|    1|    7|    2|    1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating eyjolfurjonsson and transferring votes. Candidates erlarutk,
+  | eyjolfurjonsson, and orng were tied when choosing candidates to eliminate. Candidate
+  | eyjolfurjonsson was chosen by breaking the tie randomly.
+==================================================================================================
+ 4|    2|    2|   10|     |     |     |     |    4|    2|     |   10|    8|     |    7|    2|    1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating orng and transferring votes. Candidates erlarutk and orng were tied
+  | when choosing candidates to eliminate. Candidate orng was chosen by breaking the tie randomly.
+==================================================================================================
+ 5|    2|     |   10|     |     |     |     |    6|    2|     |   10|    8|     |    7|    2|    1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating erlarutk and transferring votes. Candidates snorripallsnorrason,
+  | erlarutk, bjornst, and GunnarSturla were tied when choosing candidates to eliminate. Candidate
+  | erlarutk was chosen by breaking the tie at round 3.
+==================================================================================================
+ 6|    2|     |   11|     |     |     |     |    6|    2|     |   10|    8|     |    7|     |    2
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating GunnarSturla and transferring votes. Candidates snorripallsnorrason,
+  | bjornst, and GunnarSturla were tied when choosing candidates to eliminate. Candidate
+  | GunnarSturla was chosen by breaking the tie randomly.
+==================================================================================================
+ 7|    2|     |   11|     |     |     |     |    6|     |     |   11|    8|     |    7|     |    3
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating bjornst and transferring votes. Candidates snorripallsnorrason and
+  | bjornst were tied when choosing candidates to eliminate. Candidate bjornst was chosen by
+  | breaking the tie randomly.
+==================================================================================================
+ 8|     |     |   11|     |     |     |     |    6|     |     |   12|    8|     |    8|     |    3
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating snorripallsnorrason and transferring votes.
+==================================================================================================
+ 9|     |     |   12|     |     |     |     |     |     |     |   13|    8|     |   11|     |    4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating hjaltiparelius and transferring votes.
+==================================================================================================
+10|     |     |   17|     |     |     |     |     |     |     |   13|     |     |   11|     |    7
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Stardust and transferring votes.
+==================================================================================================
+11|     |     |   23|     |     |     |     |     |     |     |   15|     |     |     |     |   10
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating rozajonz and transferring votes. Candidate mannabarn is elected.
+
+Winner is mannabarn.

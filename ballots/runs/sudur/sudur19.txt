@@ -1,0 +1,26 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+Removed withdrawn candidates halldorberg, smari, erlarutk, mannabarn, necrolust, Svafar, Reddice,
+eyjolfurjonsson, hjaltiparelius, bjorn_thor, bjornst, agusta, ingibjorgrhelgadottir, sisilull,
+Stardust, orng, rozajonz, and GunnarSturla from the ballots.
+Ballot file contains 18 non-empty ballots.
+
+Counting votes for sudur-19 using Instant Runoff Voting.
+2 candidates running for 1 seat.
+
+ R|snorripallsnorrason            |gislibg                        |Exhausted                      
+==================================================================================================
+ 1|                             13|                              5|                              0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices. Candidate snorripallsnorrason is elected.
+
+Winner is snorripallsnorrason.

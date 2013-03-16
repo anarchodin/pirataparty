@@ -1,0 +1,53 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file naust.txt.
+Ballot file contains 22 candidates and 62 ballots.
+Removed withdrawn candidates fbd, andri, berglindsiljaaradottir, mordur, alla, HelgiL,
+benediktkgmailcom, iks1710, bjarki, adolfbragi, snorrijonsson, jonerlingericsson, thorgnyr,
+Kristinelfa, and pallivan from the ballots.
+Ballot file contains 15 non-empty ballots.
+
+Counting votes for naust-16 using Instant Runoff Voting.
+7 candidates running for 1 seat.
+
+ R|karelcandi |bjarkih    |myrkraverk |helgiheimis|leifurkonra|stefang    |reynarj    |Exhausted  
+  |           |           |           |son        |dsson      |           |           |           
+==================================================================================================
+ 1|          1|          1|          5|          1|          1|          1|          5|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|           |          1|          6|          1|          1|          1|          5|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating karelcandi and transferring votes. Candidates karelcandi, bjarkih,
+  | helgiheimisson, leifurkonradsson, and stefang were tied when choosing candidates to eliminate.
+  | Candidate karelcandi was chosen by breaking the tie randomly.
+==================================================================================================
+ 3|           |          1|          7|          1|           |          1|          5|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating leifurkonradsson and transferring votes. Candidates bjarkih,
+  | helgiheimisson, leifurkonradsson, and stefang were tied when choosing candidates to eliminate.
+  | Candidate leifurkonradsson was chosen by breaking the tie randomly.
+==================================================================================================
+ 4|           |          1|          7|           |           |          2|          5|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating helgiheimisson and transferring votes. Candidates bjarkih,
+  | helgiheimisson, and stefang were tied when choosing candidates to eliminate. Candidate
+  | helgiheimisson was chosen by breaking the tie randomly.
+==================================================================================================
+ 5|           |           |          7|           |           |          2|          5|          1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating bjarkih and transferring votes.
+==================================================================================================
+ 6|           |           |          7|           |           |           |          6|          2
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating stefang and transferring votes. Candidate myrkraverk is elected.
+
+Winner is myrkraverk.

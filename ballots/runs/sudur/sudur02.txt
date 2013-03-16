@@ -1,0 +1,92 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+Removed withdrawn candidate 2 from the ballots.
+Ballot file contains 68 non-empty ballots.
+
+Counting votes for sudur-2 using Instant Runoff Voting.
+19 candidates running for 1 seat.
+
+ R|snorripa|halldorb|erlarutk|mannabar|necrolus|Svafar  |Reddice |eyjolfur|gislibg |hjaltipa
+  |llsnorra|erg     |        |n       |t       |        |        |jonsson |        |relius  
+  |son     |        |        |        |        |        |        |        |        |        
+  |--------+--------+--------+--------+--------+--------+--------+--------+--------+--------
+  |bjorn_th|bjornst |agusta  |ingibjor|sisilull|Stardust|orng    |rozajonz|GunnarSt|Exhauste
+  |or      |        |        |grhelgad|        |        |        |        |urla    |d       
+  |        |        |        |ottir   |        |        |        |        |        |        
+============================================================================================
+ 1|       1|      30|       1|       7|       0|      11|       0|       0|       0|       0
+  |       7|       1|       3|       0|       4|       1|       0|       2|       0|       0
+  |-----------------------------------------------------------------------------------------
+  | Count of first choices.
+============================================================================================
+ 2|       1|      30|       1|       7|        |      11|        |        |        |        
+  |       7|       1|       3|        |       4|       1|        |       2|        |       0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating necrolust, Reddice, eyjolfurjonsson, gislibg, hjaltiparelius,
+  | ingibjorgrhelgadottir, orng, and GunnarSturla and transferring votes. Since this is the
+  | first elimination round, all candidates without any votes are eliminated.
+============================================================================================
+ 3|        |      30|       1|       7|        |      11|        |        |        |        
+  |       7|       1|       3|        |       5|       1|        |       2|        |       0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating snorripallsnorrason and transferring votes. Candidates
+  | snorripallsnorrason, erlarutk, bjornst, and Stardust were tied when choosing candidates
+  | to eliminate. Candidate snorripallsnorrason was chosen by breaking the tie randomly.
+============================================================================================
+ 4|        |      30|        |       7|        |      11|        |        |        |        
+  |       8|       1|       3|        |       5|       1|        |       2|        |       0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating erlarutk and transferring votes. Candidates erlarutk, bjornst,
+  | and Stardust were tied when choosing candidates to eliminate. Candidate erlarutk was
+  | chosen by breaking the tie randomly.
+============================================================================================
+ 5|        |      30|        |       7|        |      11|        |        |        |        
+  |       8|        |       3|        |       5|       1|        |       2|        |       1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating bjornst and transferring votes. Candidates bjornst and Stardust
+  | were tied when choosing candidates to eliminate. Candidate bjornst was chosen by
+  | breaking the tie randomly.
+============================================================================================
+ 6|        |      30|        |       8|        |      11|        |        |        |        
+  |       8|        |       3|        |       5|        |        |       2|        |       1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating Stardust and transferring votes.
+============================================================================================
+ 7|        |      31|        |       9|        |      11|        |        |        |        
+  |       8|        |       3|        |       5|        |        |        |        |       1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating rozajonz and transferring votes.
+============================================================================================
+ 8|        |      32|        |       9|        |      11|        |        |        |        
+  |       9|        |        |        |       5|        |        |        |        |       2
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating agusta and transferring votes.
+============================================================================================
+ 9|        |      32|        |      10|        |      13|        |        |        |        
+  |      10|        |        |        |        |        |        |        |        |       3
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating sisilull and transferring votes.
+============================================================================================
+10|        |      35|        |      10|        |      19|        |        |        |        
+  |        |        |        |        |        |        |        |        |        |       4
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating bjorn_thor and transferring votes. Candidates mannabarn and
+  | bjorn_thor were tied when choosing candidates to eliminate. Candidate bjorn_thor was
+  | chosen by breaking the tie at round 7.
+============================================================================================
+11|        |      39|        |        |        |      23|        |        |        |        
+  |        |        |        |        |        |        |        |        |        |       6
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating mannabarn and transferring votes. Candidate halldorberg is
+  | elected.
+
+Winner is halldorberg.

@@ -1,0 +1,31 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+Removed withdrawn candidates halldorberg, smari, erlarutk, mannabarn, necrolust, Svafar, Reddice,
+eyjolfurjonsson, hjaltiparelius, bjorn_thor, bjornst, agusta, sisilull, Stardust, orng, rozajonz,
+and GunnarSturla from the ballots.
+Ballot file contains 19 non-empty ballots.
+
+Counting votes for sudur-18 using Instant Runoff Voting.
+3 candidates running for 1 seat.
+
+ R|snorripallsnorrason    |gislibg                |ingibjorgrhelgadottir  |Exhausted              
+==================================================================================================
+ 1|                      6|                      2|                     11|                      0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|                      7|                       |                     11|                      1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating gislibg and transferring votes. Candidate ingibjorgrhelgadottir is
+  | elected.
+
+Winner is ingibjorgrhelgadottir.

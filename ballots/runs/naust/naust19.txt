@@ -1,0 +1,36 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file naust.txt.
+Ballot file contains 22 candidates and 62 ballots.
+Removed withdrawn candidates fbd, andri, berglindsiljaaradottir, mordur, alla, HelgiL,
+benediktkgmailcom, iks1710, myrkraverk, bjarki, leifurkonradsson, stefang, adolfbragi,
+snorrijonsson, jonerlingericsson, thorgnyr, Kristinelfa, and pallivan from the ballots.
+Ballot file contains 13 non-empty ballots.
+
+Counting votes for naust-19 using Instant Runoff Voting.
+4 candidates running for 1 seat.
+
+ R|karelcandi        |bjarkih           |helgiheimisson    |reynarj           |Exhausted         
+=================================================================================================
+ 1|                 1|                 1|                 6|                 5|                 0
+  |----------------------------------------------------------------------------------------------
+  | Count of first choices.
+=================================================================================================
+ 2|                  |                 1|                 7|                 5|                 0
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating karelcandi and transferring votes. Candidates karelcandi and bjarkih
+  | were tied when choosing candidates to eliminate. Candidate karelcandi was chosen by breaking
+  | the tie randomly.
+=================================================================================================
+ 3|                  |                  |                 7|                 5|                 1
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating bjarkih and transferring votes. Candidate helgiheimisson is elected.
+
+Winner is helgiheimisson.

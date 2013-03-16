@@ -1,0 +1,96 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file naust.txt.
+Ballot file contains 22 candidates and 62 ballots.
+No candidates have withdrawn.
+Ballot file contains 62 non-empty ballots.
+
+Counting votes for naust-1 using Instant Runoff Voting.
+22 candidates running for 1 seat.
+
+ R|karelca|fbd    |bjarkih|andri  |berglin|mordur |alla   |HelgiL |benedik|iks1710|myrkrav|bjarki 
+  |ndi    |       |       |       |dsiljaa|       |       |       |tkgmail|       |erk    |       
+  |       |       |       |       |radotti|       |       |       |com    |       |       |       
+  |       |       |       |       |r      |       |       |       |       |       |       |       
+  |-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------
+  |helgihe|leifurk|stefang|adolfbr|reynarj|snorrij|jonerli|thorgny|Kristin|palliva|Exhaust
+  |imisson|onradss|       |agi    |       |onsson |ngerics|r      |elfa   |n      |ed     
+  |       |on     |       |       |       |       |son    |       |       |       |       
+  |       |       |       |       |       |       |       |       |       |       |       
+==================================================================================================
+ 1|      0|      2|      0|      1|      0|      2|     35|      6|      0|      1|      0|      2
+  |      0|      0|      0|      0|      0|      0|      1|      9|      2|      1|      0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|       |      2|       |      1|       |      2|     35|      6|       |      1|       |      2
+  |       |       |       |       |       |       |      1|      9|      2|      1|      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating karelcandi, bjarkih, berglindsiljaaradottir, benediktkgmailcom,
+  | myrkraverk, helgiheimisson, leifurkonradsson, stefang, adolfbragi, reynarj, and snorrijonsson
+  | and transferring votes. Since this is the first elimination round, all candidates without any
+  | votes are eliminated.
+==================================================================================================
+ 3|       |      2|       |       |       |      2|     36|      6|       |      1|       |      2
+  |       |       |       |       |       |       |      1|      9|      2|      1|      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating andri and transferring votes. Candidates andri, iks1710,
+  | jonerlingericsson, and pallivan were tied when choosing candidates to eliminate. Candidate
+  | andri was chosen by breaking the tie randomly.
+==================================================================================================
+ 4|       |      2|       |       |       |      2|     36|      6|       |      1|       |      2
+  |       |       |       |       |       |       |      1|     10|      2|       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating pallivan and transferring votes. Candidates iks1710,
+  | jonerlingericsson, and pallivan were tied when choosing candidates to eliminate. Candidate
+  | pallivan was chosen by breaking the tie randomly.
+==================================================================================================
+ 5|       |      2|       |       |       |      2|     36|      6|       |      1|       |      2
+  |       |       |       |       |       |       |       |     10|      3|       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating jonerlingericsson and transferring votes. Candidates iks1710 and
+  | jonerlingericsson were tied when choosing candidates to eliminate. Candidate jonerlingericsson
+  | was chosen by breaking the tie randomly.
+==================================================================================================
+ 6|       |      2|       |       |       |      2|     36|      7|       |       |       |      2
+  |       |       |       |       |       |       |       |     10|      3|       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating iks1710 and transferring votes.
+==================================================================================================
+ 7|       |      2|       |       |       |      3|     37|      7|       |       |       |       
+  |       |       |       |       |       |       |       |     10|      3|       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating bjarki and transferring votes. Candidates fbd, mordur, and bjarki were
+  | tied when choosing candidates to eliminate. Candidate bjarki was chosen by breaking the tie
+  | randomly.
+==================================================================================================
+ 8|       |       |       |       |       |      3|     37|      8|       |       |       |       
+  |       |       |       |       |       |       |       |     11|      3|       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating fbd and transferring votes.
+==================================================================================================
+ 9|       |       |       |       |       |       |     39|      9|       |       |       |       
+  |       |       |       |       |       |       |       |     11|      3|       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating mordur and transferring votes. Candidates mordur and Kristinelfa were
+  | tied when choosing candidates to eliminate. Candidate mordur was chosen by breaking the tie at
+  | round 6.
+==================================================================================================
+10|       |       |       |       |       |       |     40|     10|       |       |       |       
+  |       |       |       |       |       |       |       |     12|       |       |      0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating Kristinelfa and transferring votes.
+==================================================================================================
+11|       |       |       |       |       |       |     44|       |       |       |       |       
+  |       |       |       |       |       |       |       |     17|       |       |      1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating HelgiL and transferring votes. Candidate alla is elected.
+
+Winner is alla.

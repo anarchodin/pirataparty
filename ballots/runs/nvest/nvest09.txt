@@ -1,0 +1,69 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file nvest.txt.
+Ballot file contains 18 candidates and 69 ballots.
+Removed withdrawn candidates hildur84, odin, kristjanf, siggioskar, Einargizz, tomage, stefanvignir,
+and GAgusta from the ballots.
+Ballot file contains 42 non-empty ballots.
+
+Counting votes for nvest-9 using Instant Runoff Voting.
+10 candidates running for 1 seat.
+
+ R|aevarar|andri91|Myrborg|OskarVG|gretara|Egill  |bjorgvi|johanne|ulfarol|irg    |Exhaust
+  |nfjordb|       |       |       |mazeen |       |nfridge|singiva|i      |       |ed     
+  |jarmaso|       |       |       |       |       |irsson |lgeirss|       |       |       
+  |n      |       |       |       |       |       |       |on     |       |       |       
+==========================================================================================
+ 1|      6|      1|     12|      1|      4|      4|      1|      3|      1|      9|      0
+  |---------------------------------------------------------------------------------------
+  | Count of first choices.
+==========================================================================================
+ 2|      6|      1|     12|       |      4|      4|      1|      3|      1|      9|      1
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating OskarVG and transferring votes. Candidates andri91, OskarVG,
+  | bjorgvinfridgeirsson, and ulfaroli were tied when choosing candidates to eliminate.
+  | Candidate OskarVG was chosen by breaking the tie randomly.
+==========================================================================================
+ 3|      6|      1|     12|       |      4|      4|      1|      3|       |     10|      1
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating ulfaroli and transferring votes. Candidates andri91,
+  | bjorgvinfridgeirsson, and ulfaroli were tied when choosing candidates to eliminate.
+  | Candidate ulfaroli was chosen by breaking the tie randomly.
+==========================================================================================
+ 4|      7|      1|     12|       |      4|      4|       |      3|       |     10|      1
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating bjorgvinfridgeirsson and transferring votes. Candidates
+  | andri91 and bjorgvinfridgeirsson were tied when choosing candidates to eliminate.
+  | Candidate bjorgvinfridgeirsson was chosen by breaking the tie randomly.
+==========================================================================================
+ 5|      7|       |     12|       |      4|      4|       |      3|       |     10|      2
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating andri91 and transferring votes.
+==========================================================================================
+ 6|      7|       |     12|       |      4|      4|       |       |       |     13|      2
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating johannesingivalgeirsson and transferring votes.
+==========================================================================================
+ 7|      7|       |     12|       |       |      4|       |       |       |     15|      4
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating gretaramazeen and transferring votes. Candidates gretaramazeen
+  | and Egill were tied when choosing candidates to eliminate. Candidate gretaramazeen was
+  | chosen by breaking the tie randomly.
+==========================================================================================
+ 8|      7|       |     15|       |       |       |       |       |       |     15|      5
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating Egill and transferring votes.
+==========================================================================================
+ 9|       |       |     17|       |       |       |       |       |       |     15|     10
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating aevararnfjordbjarmason and transferring votes. Candidate
+  | Myrborg is elected.
+
+Winner is Myrborg.

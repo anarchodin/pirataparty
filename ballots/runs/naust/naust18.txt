@@ -1,0 +1,40 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file naust.txt.
+Ballot file contains 22 candidates and 62 ballots.
+Removed withdrawn candidates fbd, andri, berglindsiljaaradottir, mordur, alla, HelgiL,
+benediktkgmailcom, iks1710, myrkraverk, bjarki, leifurkonradsson, adolfbragi, snorrijonsson,
+jonerlingericsson, thorgnyr, Kristinelfa, and pallivan from the ballots.
+Ballot file contains 14 non-empty ballots.
+
+Counting votes for naust-18 using Instant Runoff Voting.
+5 candidates running for 1 seat.
+
+ R|karelcandi     |bjarkih        |helgiheimisson |stefang        |reynarj        |Exhausted      
+==================================================================================================
+ 1|              1|              1|              2|              5|              5|              0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|              1|               |              2|              5|              5|              1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating bjarkih and transferring votes. Candidates karelcandi and bjarkih were
+  | tied when choosing candidates to eliminate. Candidate bjarkih was chosen by breaking the tie
+  | randomly.
+==================================================================================================
+ 3|               |               |              2|              6|              5|              1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating karelcandi and transferring votes.
+==================================================================================================
+ 4|               |               |               |              8|              5|              1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating helgiheimisson and transferring votes. Candidate stefang is elected.
+
+Winner is stefang.

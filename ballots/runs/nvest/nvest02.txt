@@ -1,0 +1,62 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file nvest.txt.
+Ballot file contains 18 candidates and 69 ballots.
+Removed withdrawn candidate 0 from the ballots.
+Ballot file contains 62 non-empty ballots.
+
+Counting votes for nvest-2 using Instant Runoff Voting.
+17 candidates running for 1 seat.
+
+ R|aeva|andr|odin|kris|Myrb|Oska|sigg|Eina|gret|toma|Egil|bjor|joha|ulfa|stef|GAgu|irg |Exha
+  |rarn|i91 |    |tjan|org |rVG |iosk|rgiz|aram|ge  |l   |gvin|nnes|roli|anvi|sta |    |uste
+  |fjor|    |    |f   |    |    |ar  |z   |azee|    |    |frid|ingi|    |gnir|    |    |d   
+  |dbja|    |    |    |    |    |    |    |n   |    |    |geir|valg|    |    |    |    |    
+  |rmas|    |    |    |    |    |    |    |    |    |    |sson|eirs|    |    |    |    |    
+  |on  |    |    |    |    |    |    |    |    |    |    |    |son |    |    |    |    |    
+============================================================================================
+ 1|   3|   0|  16|   5|   3|   0|   1|   0|   0|  12|   0|   0|   0|   0|   9|  13|   0|   0
+  |-----------------------------------------------------------------------------------------
+  | Count of first choices.
+============================================================================================
+ 2|   3|    |  16|   5|   3|    |   1|    |    |  12|    |    |    |    |   9|  13|    |   0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating andri91, OskarVG, Einargizz, gretaramazeen, Egill,
+  | bjorgvinfridgeirsson, johannesingivalgeirsson, ulfaroli, and irg and transferring votes.
+  | Since this is the first elimination round, all candidates without any votes are
+  | eliminated.
+============================================================================================
+ 3|   3|    |  16|   5|   3|    |    |    |    |  13|    |    |    |    |   9|  13|    |   0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating siggioskar and transferring votes.
+============================================================================================
+ 4|   3|    |  16|   6|    |    |    |    |    |  13|    |    |    |    |  10|  13|    |   1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating Myrborg and transferring votes. Candidates
+  | aevararnfjordbjarmason and Myrborg were tied when choosing candidates to eliminate.
+  | Candidate Myrborg was chosen by breaking the tie randomly.
+============================================================================================
+ 5|    |    |  17|   6|    |    |    |    |    |  13|    |    |    |    |  11|  13|    |   2
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating aevararnfjordbjarmason and transferring votes.
+============================================================================================
+ 6|    |    |  17|    |    |    |    |    |    |  13|    |    |    |    |  11|  14|    |   7
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating kristjanf and transferring votes.
+============================================================================================
+ 7|    |    |  22|    |    |    |    |    |    |  15|    |    |    |    |    |  17|    |   8
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating stefanvignir and transferring votes.
+============================================================================================
+ 8|    |    |  30|    |    |    |    |    |    |    |    |    |    |    |    |  21|    |  11
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating tomage and transferring votes. Candidate odin is elected.
+
+Winner is odin.

@@ -1,0 +1,62 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file naust.txt.
+Ballot file contains 22 candidates and 62 ballots.
+Removed withdrawn candidates alla, HelgiL, thorgnyr, and Kristinelfa from the ballots.
+Ballot file contains 43 non-empty ballots.
+
+Counting votes for naust-5 using Instant Runoff Voting.
+18 candidates running for 1 seat.
+
+ R|kare|fbd |bjar|andr|berg|mord|bene|iks1|myrk|bjar|helg|leif|stef|adol|reyn|snor|jone|pall|Exha
+  |lcan|    |kih |i   |lind|ur  |dikt|710 |rave|ki  |ihei|urko|ang |fbra|arj |rijo|rlin|ivan|uste
+  |di  |    |    |    |silj|    |kgma|    |rk  |    |miss|nrad|    |gi  |    |nsso|geri|    |d   
+  |    |    |    |    |aara|    |ilco|    |    |    |on  |sson|    |    |    |n   |csso|    |    
+  |    |    |    |    |dott|    |m   |    |    |    |    |    |    |    |    |    |n   |    |    
+  |    |    |    |    |ir  |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+=================================================================================================
+ 1|   0|   6|   0|   5|   0|  11|   0|   4|   0|  13|   0|   0|   0|   0|   0|   2|   1|   1|   0
+  |----------------------------------------------------------------------------------------------
+  | Count of first choices.
+=================================================================================================
+ 2|    |   6|    |   5|    |  11|    |   4|    |  13|    |    |    |    |    |   2|   1|   1|   0
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating karelcandi, bjarkih, berglindsiljaaradottir, benediktkgmailcom,
+  | myrkraverk, helgiheimisson, leifurkonradsson, stefang, adolfbragi, and reynarj and
+  | transferring votes. Since this is the first elimination round, all candidates without any
+  | votes are eliminated.
+=================================================================================================
+ 3|    |   6|    |   5|    |  11|    |   4|    |  13|    |    |    |    |    |   2|   1|    |   1
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating pallivan and transferring votes. Candidates jonerlingericsson and
+  | pallivan were tied when choosing candidates to eliminate. Candidate pallivan was chosen by
+  | breaking the tie randomly.
+=================================================================================================
+ 4|    |   6|    |   5|    |  11|    |   4|    |  14|    |    |    |    |    |   2|    |    |   1
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating jonerlingericsson and transferring votes.
+=================================================================================================
+ 5|    |   6|    |   5|    |  11|    |   4|    |  15|    |    |    |    |    |    |    |    |   2
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating snorrijonsson and transferring votes.
+=================================================================================================
+ 6|    |   8|    |   5|    |  11|    |    |    |  16|    |    |    |    |    |    |    |    |   3
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating iks1710 and transferring votes.
+=================================================================================================
+ 7|    |   8|    |    |    |  11|    |    |    |  20|    |    |    |    |    |    |    |    |   4
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating andri and transferring votes.
+=================================================================================================
+ 8|    |    |    |    |    |  15|    |    |    |  23|    |    |    |    |    |    |    |    |   5
+  |----------------------------------------------------------------------------------------------
+  | Count after eliminating fbd and transferring votes. Candidate bjarki is elected.
+
+Winner is bjarki.

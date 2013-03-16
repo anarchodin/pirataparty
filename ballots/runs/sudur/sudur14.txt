@@ -1,0 +1,53 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+Removed withdrawn candidates halldorberg, smari, mannabarn, Svafar, Reddice, hjaltiparelius,
+bjorn_thor, bjornst, agusta, sisilull, Stardust, orng, and rozajonz from the ballots.
+Ballot file contains 25 non-empty ballots.
+
+Counting votes for sudur-14 using Instant Runoff Voting.
+7 candidates running for 1 seat.
+
+ R|snorripalls|erlarutk   |necrolust  |eyjolfurjon|gislibg    |ingibjorgrh|GunnarSturl|Exhausted  
+  |norrason   |           |           |sson       |           |elgadottir |a          |           
+==================================================================================================
+ 1|          3|          4|          1|          3|          1|          3|         10|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|          4|          4|           |          3|          1|          3|         10|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating necrolust and transferring votes. Candidates necrolust and gislibg
+  | were tied when choosing candidates to eliminate. Candidate necrolust was chosen by breaking
+  | the tie randomly.
+==================================================================================================
+ 3|          4|          5|           |          3|           |          3|         10|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating gislibg and transferring votes.
+==================================================================================================
+ 4|          4|          5|           |           |           |          4|         11|          1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating eyjolfurjonsson and transferring votes. Candidates eyjolfurjonsson and
+  | ingibjorgrhelgadottir were tied when choosing candidates to eliminate. Candidate
+  | eyjolfurjonsson was chosen by breaking the tie randomly.
+==================================================================================================
+ 5|          4|          9|           |           |           |           |         11|          1
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating ingibjorgrhelgadottir and transferring votes. Candidates
+  | snorripallsnorrason and ingibjorgrhelgadottir were tied when choosing candidates to eliminate.
+  | Candidate ingibjorgrhelgadottir was chosen by breaking the tie at round 3.
+==================================================================================================
+ 6|           |         10|           |           |           |           |         11|          4
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating snorripallsnorrason and transferring votes. Candidate GunnarSturla is
+  | elected.
+
+Winner is GunnarSturla.

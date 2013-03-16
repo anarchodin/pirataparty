@@ -1,0 +1,65 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+No candidates have withdrawn.
+Ballot file contains 78 non-empty ballots.
+
+Counting votes for sudur-1 using Instant Runoff Voting.
+20 candidates running for 1 seat.
+
+ R|snorrip|halldor|smari  |erlarut|mannaba|necrolu|Svafar |Reddice|eyjolfu|gislibg|hjaltip
+  |allsnor|berg   |       |k      |rn     |st     |       |       |rjonsso|       |arelius
+  |rason  |       |       |       |       |       |       |       |n      |       |       
+  |       |       |       |       |       |       |       |       |       |       |       
+  |-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------
+  |bjorn_t|bjornst|agusta |ingibjo|sisilul|Stardus|orng   |rozajon|GunnarS|Exhaust
+  |hor    |       |       |rgrhelg|l      |t      |       |z      |turla  |ed     
+  |       |       |       |adottir|       |       |       |       |       |       
+  |       |       |       |       |       |       |       |       |       |       
+==========================================================================================
+ 1|      0|     16|     55|      0|      4|      0|      1|      0|      0|      0|      0
+  |      1|      0|      0|      0|      0|      0|      0|      1|      0|      0
+  |---------------------------------------------------------------------------------------
+  | Count of first choices.
+==========================================================================================
+ 2|       |     16|     55|       |      4|       |      1|       |       |       |       
+  |      1|       |       |       |       |       |       |      1|       |      0
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating snorripallsnorrason, erlarutk, necrolust, Reddice,
+  | eyjolfurjonsson, gislibg, hjaltiparelius, bjornst, agusta, ingibjorgrhelgadottir,
+  | sisilull, Stardust, orng, and GunnarSturla and transferring votes. Since this is the
+  | first elimination round, all candidates without any votes are eliminated.
+==========================================================================================
+ 3|       |     16|     56|       |      4|       |      1|       |       |       |       
+  |       |       |       |       |       |       |       |      1|       |      0
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating bjorn_thor and transferring votes. Candidates Svafar,
+  | bjorn_thor, and rozajonz were tied when choosing candidates to eliminate. Candidate
+  | bjorn_thor was chosen by breaking the tie randomly.
+==========================================================================================
+ 4|       |     16|     57|       |      4|       |      1|       |       |       |       
+  |       |       |       |       |       |       |       |       |       |      0
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating rozajonz and transferring votes. Candidates Svafar and
+  | rozajonz were tied when choosing candidates to eliminate. Candidate rozajonz was
+  | chosen by breaking the tie randomly.
+==========================================================================================
+ 5|       |     16|     58|       |      4|       |       |       |       |       |       
+  |       |       |       |       |       |       |       |       |       |      0
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating Svafar and transferring votes.
+==========================================================================================
+ 6|       |     17|     60|       |       |       |       |       |       |       |       
+  |       |       |       |       |       |       |       |       |       |      1
+  |---------------------------------------------------------------------------------------
+  | Count after eliminating mannabarn and transferring votes. Candidate smari is elected.
+
+Winner is smari.

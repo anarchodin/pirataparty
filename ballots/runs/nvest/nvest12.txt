@@ -1,0 +1,48 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file nvest.txt.
+Ballot file contains 18 candidates and 69 ballots.
+Removed withdrawn candidates hildur84, odin, kristjanf, Myrborg, siggioskar, Einargizz, tomage,
+Egill, stefanvignir, GAgusta, and irg from the ballots.
+Ballot file contains 30 non-empty ballots.
+
+Counting votes for nvest-12 using Instant Runoff Voting.
+7 candidates running for 1 seat.
+
+ R|aevararnfjo|andri91    |OskarVG    |gretaramaze|bjorgvinfri|johannesing|ulfaroli   |Exhausted  
+  |rdbjarmason|           |           |en         |dgeirsson  |ivalgeirsso|           |           
+  |           |           |           |           |           |n          |           |           
+==================================================================================================
+ 1|          7|          4|          2|          5|          1|          8|          3|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count of first choices.
+==================================================================================================
+ 2|          8|          4|          2|          5|           |          8|          3|          0
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating bjorgvinfridgeirsson and transferring votes.
+==================================================================================================
+ 3|          8|          4|           |          5|           |          8|          3|          2
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating OskarVG and transferring votes.
+==================================================================================================
+ 4|         10|          4|           |          5|           |          9|           |          2
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating ulfaroli and transferring votes.
+==================================================================================================
+ 5|         10|           |           |          5|           |         12|           |          3
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating andri91 and transferring votes.
+==================================================================================================
+ 6|         10|           |           |           |           |         15|           |          5
+  |-----------------------------------------------------------------------------------------------
+  | Count after eliminating gretaramazeen and transferring votes. Candidate
+  | johannesingivalgeirsson is elected.
+
+Winner is johannesingivalgeirsson.

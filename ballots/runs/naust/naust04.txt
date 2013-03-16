@@ -1,0 +1,80 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file naust.txt.
+Ballot file contains 22 candidates and 62 ballots.
+Removed withdrawn candidates alla, HelgiL, and thorgnyr from the ballots.
+Ballot file contains 48 non-empty ballots.
+
+Counting votes for naust-4 using Instant Runoff Voting.
+19 candidates running for 1 seat.
+
+ R|karelcan|fbd     |bjarkih |andri   |berglind|mordur  |benedikt|iks1710 |myrkrave|bjarki  
+  |di      |        |        |        |siljaara|        |kgmailco|        |rk      |        
+  |        |        |        |        |dottir  |        |m       |        |        |        
+  |--------+--------+--------+--------+--------+--------+--------+--------+--------+--------
+  |helgihei|leifurko|stefang |adolfbra|reynarj |snorrijo|jonerlin|Kristine|pallivan|Exhauste
+  |misson  |nradsson|        |gi      |        |nsson   |gericsso|lfa     |        |d       
+  |        |        |        |        |        |        |n       |        |        |        
+============================================================================================
+ 1|       0|       4|       0|       2|       0|       5|       0|       2|       0|       8
+  |       0|       0|       0|       0|       0|       1|       1|      24|       1|       0
+  |-----------------------------------------------------------------------------------------
+  | Count of first choices.
+============================================================================================
+ 2|        |       4|        |       2|        |       5|        |       2|        |       8
+  |        |        |        |        |        |       1|       1|      24|       1|       0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating karelcandi, bjarkih, berglindsiljaaradottir, benediktkgmailcom,
+  | myrkraverk, helgiheimisson, leifurkonradsson, stefang, adolfbragi, and reynarj and
+  | transferring votes. Since this is the first elimination round, all candidates without
+  | any votes are eliminated.
+============================================================================================
+ 3|        |       4|        |       2|        |       5|        |       2|        |       8
+  |        |        |        |        |        |        |       1|      25|       1|       0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating snorrijonsson and transferring votes. Candidates snorrijonsson,
+  | jonerlingericsson, and pallivan were tied when choosing candidates to eliminate.
+  | Candidate snorrijonsson was chosen by breaking the tie randomly.
+============================================================================================
+ 4|        |       4|        |       2|        |       5|        |       2|        |       8
+  |        |        |        |        |        |        |        |      26|       1|       0
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating jonerlingericsson and transferring votes. Candidates
+  | jonerlingericsson and pallivan were tied when choosing candidates to eliminate.
+  | Candidate jonerlingericsson was chosen by breaking the tie randomly.
+============================================================================================
+ 5|        |       4|        |       2|        |       5|        |       2|        |       8
+  |        |        |        |        |        |        |        |      26|        |       1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating pallivan and transferring votes.
+============================================================================================
+ 6|        |       4|        |        |        |       5|        |       2|        |       9
+  |        |        |        |        |        |        |        |      27|        |       1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating andri and transferring votes. Candidates andri and iks1710 were
+  | tied when choosing candidates to eliminate. Candidate andri was chosen by breaking the
+  | tie randomly.
+============================================================================================
+ 7|        |       4|        |        |        |       5|        |        |        |       9
+  |        |        |        |        |        |        |        |      29|        |       1
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating iks1710 and transferring votes.
+============================================================================================
+ 8|        |        |        |        |        |       6|        |        |        |      11
+  |        |        |        |        |        |        |        |      29|        |       2
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating fbd and transferring votes.
+============================================================================================
+ 9|        |        |        |        |        |        |        |        |        |      12
+  |        |        |        |        |        |        |        |      34|        |       2
+  |-----------------------------------------------------------------------------------------
+  | Count after eliminating mordur and transferring votes. Candidate Kristinelfa is elected.
+
+Winner is Kristinelfa.

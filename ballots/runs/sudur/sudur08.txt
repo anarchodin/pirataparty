@@ -1,0 +1,73 @@
+OpenSTV version 1.6.1 (http://www.OpenSTV.org/)
+
+Suggested donation for using OpenSTV for an election is $50.  Please go to 
+http://www.OpenSTV.org/donate to donate via PayPal, Google Checkout, or
+Amazon Payments.  
+
+Certified election reports are also available.  Please go to 
+http://www.openstv.org/certified-reports for more information.
+
+Loading ballots from file sudur.txt.
+Ballot file contains 20 candidates and 78 ballots.
+Removed withdrawn candidates halldorberg, smari, mannabarn, Svafar, bjorn_thor, agusta, and sisilull
+from the ballots.
+Ballot file contains 43 non-empty ballots.
+
+Counting votes for sudur-8 using Instant Runoff Voting.
+13 candidates running for 1 seat.
+
+ R|snorri|erlaru|necrol|Reddic|eyjolf|gislib|hjalti|bjorns|ingibj|Stardu|orng  |rozajo|Gunnar|Exhaus
+  |pallsn|tk    |ust   |e     |urjons|g     |pareli|t     |orgrhe|st    |      |nz    |Sturla|ted   
+  |orraso|      |      |      |son   |      |us    |      |lgadot|      |      |      |      |      
+  |n     |      |      |      |      |      |      |      |tir   |      |      |      |      |      
+====================================================================================================
+ 1|     2|     1|     0|     1|     1|     0|     8|     2|     0|    10|     1|    15|     2|     0
+  |-------------------------------------------------------------------------------------------------
+  | Count of first choices.
+====================================================================================================
+ 2|     2|     1|      |     1|     1|      |     8|     2|      |    10|     1|    15|     2|     0
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating necrolust, gislibg, and ingibjorgrhelgadottir and transferring votes.
+  | Since this is the first elimination round, all candidates without any votes are eliminated.
+====================================================================================================
+ 3|     2|     1|      |     1|      |      |     8|     2|      |    10|     1|    15|     2|     1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating eyjolfurjonsson and transferring votes. Candidates erlarutk, Reddice,
+  | eyjolfurjonsson, and orng were tied when choosing candidates to eliminate. Candidate
+  | eyjolfurjonsson was chosen by breaking the tie randomly.
+====================================================================================================
+ 4|     2|     1|      |      |      |      |     8|     2|      |    11|     1|    15|     2|     1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating Reddice and transferring votes. Candidates erlarutk, Reddice, and orng
+  | were tied when choosing candidates to eliminate. Candidate Reddice was chosen by breaking the
+  | tie randomly.
+====================================================================================================
+ 5|     2|      |      |      |      |      |     9|     2|      |    11|     1|    15|     2|     1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating erlarutk and transferring votes. Candidates erlarutk and orng were tied
+  | when choosing candidates to eliminate. Candidate erlarutk was chosen by breaking the tie
+  | randomly.
+====================================================================================================
+ 6|     2|      |      |      |      |      |    10|     2|      |    11|      |    15|     2|     1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating orng and transferring votes.
+====================================================================================================
+ 7|      |      |      |      |      |      |    10|     2|      |    11|      |    16|     3|     1
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating snorripallsnorrason and transferring votes. Candidates
+  | snorripallsnorrason, bjornst, and GunnarSturla were tied when choosing candidates to eliminate.
+  | Candidate snorripallsnorrason was chosen by breaking the tie randomly.
+====================================================================================================
+ 8|      |      |      |      |      |      |    10|      |      |    11|      |    16|     3|     3
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating bjornst and transferring votes.
+====================================================================================================
+ 9|      |      |      |      |      |      |    10|      |      |    12|      |    17|      |     4
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating GunnarSturla and transferring votes.
+====================================================================================================
+10|      |      |      |      |      |      |      |      |      |    14|      |    22|      |     7
+  |-------------------------------------------------------------------------------------------------
+  | Count after eliminating hjaltiparelius and transferring votes. Candidate rozajonz is elected.
+
+Winner is rozajonz.
