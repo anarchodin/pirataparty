@@ -16,8 +16,7 @@ A. 3. málsgrein 4. greinar Evrópusáttmála um sjálfsstjórn sveitarfélaga
    stjórnsýsluþrepi sem mögulegt er.
 2. Binda skal í lög þá meginreglu að umsjón með þjónustu á vegum stjórnsýslunnar
    sé á vegum lægsta stjórnsýsluþreps sem mögulegt er.
-3. Í öllum tilvikum þar sem ákvörðunarvald eða umsýsla með þjónustu er fólgið
+3. Í öllum tilvikum þar sem ákvörðunarvald eða umsýsla með þjónustu er fólgin
    hærra stjórnsýsluþrepi en því lægsta – sveitarfélögum í núverandi kerfi –
    skal nauðsyn þess sérstaklega rökstudd.
-4. Skoða skal að setja formlega upp stjórnsýsluþrep á milli ríkis og
-   sveitarfélaga.
+4. Skoða skal að setja upp nýtt stjórnsýsluþrep milli ríkis og sveitarfélaga.
