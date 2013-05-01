@@ -28,7 +28,8 @@
 
     Hafi fundarstjóri atkvæðisrétt skal hann einungis beita honum sé það úrslitaatkvæði.
 
- 5. Fundarstjóri tekur dagskrármál fyrir í þeirri röð sem hann ákvarðar, þó með þeim takmörkunum sem hér greinir.
+ 5. Fundarstjóri tekur dagskrármál fyrir í þeirri röð sem hann ákvarðar.
+    Þó ber honum að hlýta eftirfarandi takmörkunum.
 
     - Staðfesta skal fundargerð fyrri fundar áður en gengið er til dagskrár og án umræðu.
       Breytingatillögur skal afgreiða án umræðu.
