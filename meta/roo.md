@@ -19,7 +19,7 @@
 
     Fundarstjóri tilnefnir fundarritara úr röðum viðstaddra sem ekki hafa atkvæðisrétt.
     Fundarstjóra og -ritara er einungis heimilt að taka til máls varðandi fundarsköp, efni fundargerðar og til beinna svara við spurningum.
-    Fundarstjóra er ekki heimilt að leggja fram tillögur til dagskrár.
+    Fundarstjóra er ekki heimilt að leggja fram tillögur.
 
     Fundarstjóri sker úr ágreiningi um fundarsköp. Fundarmönnum ber að hlýta ákvörðun fundarstjóra.
 
@@ -44,9 +44,10 @@
 
  6. Fundarstjóri og fundarritari halda mælendaskrá, og skulu skrá mælendur í þeirri röð sem þeir óska orðsins.
     Fundarstjóri veitir fundarmönnum orðið eftir mælendaskrá sinni, eða gefur það laust sé hún auð.
+    Sé því ekki andmælt við tilkynningu fundarstjóra þess efnis, er honum heimilt að loka mælendaskrá.
     Sé gerð athugasemd við mælendaskrá skal fundarritari skera úr um röð mælenda.
 
-    Fundarstjóra ber að gæta þess að mælendur haldi sig við umræðuefni skv. dagskrá og er honum heimilt að áminna mælenda og krefjast skýringa á tengslum ræðu við dagskrárefni telji hann tilefni til.
+    Fundarstjóra ber að gæta þess að mælendur haldi sig við umræðuefni skv. dagskrá og er honum heimilt að áminna mælanda og krefjast skýringa á tengslum ræðu við dagskrárefni telji hann tilefni til.
     Hafi fundarstjóri krafist slíkrar skýringar og þótt ófullnægjandi er honum heimilt að veita næsta mælanda orðið.
 
     Telji fundarmaður að sér vegið skal honum heimilt að gera athugasemd.
@@ -59,6 +60,8 @@
     Mælanda er heimilt að svara andsvari, og skal svartími hans takmarkast við tvær mínútur.
     Fundarmanni er einungis heimilt að veita andsvör einu sinni við hverri ræðu.
 
+    Tillaga gengur til atkvæðagreiðslu þegar mælendaskrá er auð og enginn kveður sér hljóðs.
+
  7. Fundarritari heldur fundargerð.
     Í fundargerð skal rita nöfn eða vel þekkt dulnefni viðstaddra og auðkenna þá sem atkvæðisrétt hafa.
     Í fundargerð skal einnig rita dagskrármál í þeirri röð sem þau voru tekin fyrir, og frummælendur þeirra.
@@ -66,20 +69,27 @@
 
     Allar tillögur sem bornar eru fram á fundi og lagðar til atkvæðagreiðslu skal rita orðrétt í fundargerð.
     Einnig skal tilgreina hvernig atkvæði féllu.
+    Þó skal aðeins nauðsynlegt að tilgreina fjölda atkvæða um tillögur um fundarstörf, nema færri en átta séu viðstaddir eða fleiri en fjórir óski þess.
 
     Óski mælandi þess sérstaklega að bókun sé færð í fundargerð skal rita hana orðrétt.
 
     Ekki er heimilt að víkja frá ákvæðum um fundargerð með tillögu til afbrigða.
 
  8. Mælanda er heimilt að bera fram tillögu um fundarstörf, og skal greiða atkvæði um hana án umræðu og án tafar.
-    
+
+    Atkvæðarétt um tillögur um fundarstörf hafa allir fundarmenn.
+
     Til tillagna um fundarstörf teljast tillögur um eftirfarandi:
-    
+
     - afbrigði frá fundarsköpum
     - fundarhlé
     - frestun fundar
     - vísun til tafarlausrar atkvæðagreiðslu
+    - frávísun máls
 
     Sé fundi frestað án þess að skilgreina stund og stað fyrir áframhald hans skulu þau dagskrármál sem ekki hafa hlotið afgreiðslu færast til næsta boðaða fundar framkvæmdaráðs.
 
- 9. Hafi öll dagskrármál hlotið afgreiðslu og enginn kvatt sér hljóðs utan dagskrár er fundarstjóra heimilt að slíta fundi án atkvæðagreiðslu.
+ 9. Atkvæðagreiðslur fara fram með handauppréttingum.
+    Sérstaklega skal spurt hverjir séu fylgjandi tillögu og hverjir séu mótfallnir tillögu.
+
+10. Hafi öll dagskrármál hlotið afgreiðslu og enginn kvatt sér hljóðs utan dagskrár er fundarstjóra heimilt að slíta fundi án atkvæðagreiðslu.
