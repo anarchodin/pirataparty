@@ -30,18 +30,15 @@
 
  5. Fundarstjóri tekur dagskrármál fyrir í þeirri röð sem hann ákvarðar, þó með þeim takmörkunum sem hér greinir.
 
-      - Staðfesta skal fundargerð fyrri fundar áður en gengið er til dagskrár og án umræðu.
-        Breytingatillögur skal afgreiða án umræðu.
-        Athugasemdir við fundargerð skal bóka í lok hennar, og skal nafn þess sem gerir athugasemdina fylgja.
-
-      - Sé ágreiningur um réttmæti dagskráratriða skal greiða atkvæði um þau áður en gengið er til dagskrár.
-        Umræða skal takmarkast við formgalla, og hver ræða ekki lengri en fimm mínútur.
-
-      - Sé þess óskað, skal taka fyrir athugasemdir við fundarstjórn án tafar.
-        Þó skal ræðutími frummælenda takmarkaður við tvær mínútur.
-
-      - Mál sem ekki eru á auglýstri dagskrá fundar ber að taka fyrir undir liðnum „Önnur mál“ eftir að öll auglýst dagskrármál eru útrædd.
-        Samþykkja þarf fyrirtöku slíkra mála með minnst fjórum atkvæðum.
+    - Staðfesta skal fundargerð fyrri fundar áður en gengið er til dagskrár og án umræðu.
+      Breytingatillögur skal afgreiða án umræðu.
+      Athugasemdir við fundargerð skal bóka í lok hennar, og skal nafn þess sem gerir athugasemdina fylgja.
+    - Sé ágreiningur um réttmæti dagskráratriða skal greiða atkvæði um þau áður en gengið er til dagskrár.
+      Umræða skal takmarkast við formgalla, og hver ræða ekki lengri en fimm mínútur.
+    - Sé þess óskað, skal taka fyrir athugasemdir við fundarstjórn án tafar.
+      Þó skal ræðutími frummælenda takmarkaður við tvær mínútur.
+    - Mál sem ekki eru á auglýstri dagskrá fundar ber að taka fyrir undir liðnum „Önnur mál“ eftir að öll auglýst dagskrármál eru útrædd.
+      Samþykkja þarf fyrirtöku slíkra mála með minnst fjórum atkvæðum.
 
  6. Fundarstjóri og fundarritari halda mælendaskrá, og skulu skrá mælendur í þeirri röð sem þeir óska orðsins.
     Fundarstjóri veitir fundarmönnum orðið eftir mælendaskrá sinni, eða gefur það laust sé hún auð.
