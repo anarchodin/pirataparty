@@ -72,29 +72,7 @@
 
 16. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdaráði og samþykktar á félagsfundi.
 
-## 5. Fundarhald (félagsfundir)
-
- 1. Fundir félagsins skulu að jafnaði vera opnir öllum.
-
- 2. Allir hafa málfrelsi á fundum.
-
- 3. Meðlimir geta lagt fram tillögur á fundum.
-
- 4. Aðrir en meðlimir geta lagt fram tillögur, fái þeir til þess samþykki 5% fundarmanna en aldrei færri en þriggja.
-
- 5. Kosningar á fundum skulu að jafnaði fara fram með handauppréttingu.
-
- 6. Sé óskað eftir því má fundarstjóri ákveða að hafa atkvæðagreiðslur skriflegar eða rafrænar.
-
- 7. Sé óskað eftir því, og 5% fundarmanna en aldrei færri en þrír samþykkja það, skulu kosningar vera leynilegar.
-
- 8. Í kosningum á fundum eru ákvarðanir teknar með einföldum meirihluta.
-
- 9. Fundir félagsins skulu fara fram samkvæmt hefðbundnum fundarskapareglum.
-
-10. Boða skal til almennra félagsfunda með viku fyrirvara með óvefengjanlegum hætti.
-
-## 6. Lög og stefnumál
+## 5. Lög og stefnumál
 
  1. Þessi lög eru öll lög félagsins, en þeim má breyta á aðalfundi með ⅔ hlutum atkvæða.
 
@@ -128,7 +106,7 @@
 
 14. Málefnahópur skilar reglulega skýrslu til félagsmanna um störf sín, í það minnsta þegar starf hópsins lýkur.
 
-## 7. Framkvæmdaráð
+## 6. Framkvæmdaráð
 
  1. Framkvæmdaráð annast almenna stjórn og rekstur félagsins.
 
@@ -154,7 +132,7 @@
 
 10. Ef þrír fundir framkvæmdaráðs í röð falla niður vegna vanskipunar skal boðað til aukaaðalfundar.
 
-## 8. Úrskurðarnefnd
+## 7. Úrskurðarnefnd
 
  1. Misbresti í framkvæmd eða brot á lögum þessum skal vísa til úrskurðarnefndar sem úrskurðar í málinu.
 
@@ -170,7 +148,7 @@
 
  7. Úrskurður úrskurðarnefndar er bindandi.
 
-## 9. Starfsmenn
+## 8. Starfsmenn
 
  1. Framkvæmdaráð er heimilt að ráða framkvæmdastjóra fyrir hönd félagsins ef fjárreiður leyfa.
 
@@ -184,7 +162,7 @@
 
  6. Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
-## 10. Félagsdeildir og nefndir
+## 9. Félagsdeildir og nefndir
 
  1. Stuðla skal að stofnun sérstakra félagsdeilda sem vinna að kosningabaráttu og efla starf félagsins.
     Þær skulu stofnaðar í samráði við framkvæmdaráð.
@@ -207,7 +185,7 @@
 
  9. Ef kjördæmisdeild eða sveitarfélagsdeild er ekki starfandi á ákveðnu svæði er félagsmönnum þar heimilt að stofna hana í samvinnu við framkvæmdaráð.
 
-## 11. Fjármál
+## 10. Fjármál
 
  1. Bókhaldsár félagsins er almanaksárið.
 
@@ -227,7 +205,7 @@
 
  8. Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
-## 12. Þáttaka í sveitarstjórnar- og alþingiskosningum
+## 11. Þáttaka í sveitarstjórnar- og alþingiskosningum
 
  1. Kjördæmisdeildir og sveitarfélagsdeildir skulu hafa umsjón með kosningabaráttu á sínu svæði.
 
@@ -242,7 +220,7 @@
 
  6. Raðað skal á framboðslista eftir niðurstöðum STV forgangskosningar.
 
-## 13. Störf þingflokks og sveitarstjórnarflokka
+## 12. Störf þingflokks og sveitarstjórnarflokka
 
  1. Fundir þingflokka og sveitarstjórnarflokka mega vera lokaðir þrátt fyrir ákvæði 5. gr. séu málefnalegar ástæður fyrir því.
 
@@ -259,7 +237,7 @@
 
  6. Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
 
-## 14. Framfarafundur
+## 13. Framfarafundur
 
  1. Framafarafundur skal haldin á 8 vikna fresti.
 
@@ -271,7 +249,7 @@
 
  5. Á fundinum skal fara fram umræða um störf þinghóps, framkvæmdaráðs og málefnahópa.
 
-## 15. Félagsslit
+## 14. Félagsslit
 
  1. Félagsslit geta aðeins farið fram sé tillaga um slíkt á auglýstri dagskrá löglegs aðalfundar og samþykkt með ¾ hluta fundarmanna.
 
