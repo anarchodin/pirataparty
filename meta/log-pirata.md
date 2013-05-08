@@ -260,6 +260,8 @@
 
  6. Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
 
+ 7. Þingflokkur skal setja sér reglur og skulu þær vera opinberar.
+
 ## 14. Framfarafundur
 
  1. Framafarafundur skal haldin á 8 vikna fresti.
