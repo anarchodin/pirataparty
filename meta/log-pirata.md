@@ -239,6 +239,10 @@
 
  3. Framkvæmdaráð getur óskað eftir því að kjörnir fulltrúar á Alþingi og/eða í sveitarstjórnum mæti á sinn fund eða á almenna félagsfundi.
 
+99. Þingflokki ber, þegar kjördæmadagar eru á þingi, að halda opinn fund í einu af kjördæmum landsins.
+    Funda skal til skiptis í kjördæmum, og víxla staðsetningum innan kjördæma.
+    Framkvæmdaráð skipuleggur fundi í samráði við félagsdeildir á svæðinu þar sem fundur er haldinn.
+
  4. Fulltrúar í þingflokkum og sveitarstjórnarflokkum skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
 
  5. Tilheyri þingflokkur minni hluta á Alþingi og geti ekki fengið aðstoðarmann til starfa á þinginu nema með því að hafa formann, skal einn þingmaður gegna embætti formanns félagsins, eitt þing í senn.
