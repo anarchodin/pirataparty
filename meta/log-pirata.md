@@ -239,6 +239,7 @@
  4. Sveitarfélagsdeildum er heimilt að stofna til kosningabandalaga með öðrum stjórnmálaflokkum.
 
  5. Allir félagsmenn geta gefið kost á sér á framboðslista.
+    Þó getur félagsmaður er hefur setið tvö næstliðnu kjörtímabil í ákveðnu embætti ekki boðið sig fram á framboðslista til sama embættis.
 
  6. Raðað skal á framboðslista eftir niðurstöðum STV forgangskosningar.
 
