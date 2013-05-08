@@ -119,7 +119,7 @@
  3. Félagsmenn aðrir en kjörnir fulltrúar geta átt sæti í framkvæmdaráði.
     Þó skal enginn sitja meira en tvö ár samfleytt í framkvæmdaráði.
 
- 4. Fimm meðlimir framkvæmdaráðs eru kjörnir í kosningu á aðalfundi, og fimm til vara.
+ 4. Fimm meðlimir framkvæmdaráðs eru kjörnir í almennri kosningu, og fimm til vara.
     Kosning skal fara fram með STV forgangskosningu.
 
  5. Condorcet sigurvegari skal vera formaður, sé hann til.
@@ -160,7 +160,7 @@
 
  4. Laun framkvæmdastjóra og annara starfsfólks skal ekki vera hærra en þingfararkaup.
 
- 5. Fastráðning starfsfólks er háð samþykkt almennrar kosningar.
+ 5. Víkja má starfsmönnum úr starfi með ályktun.
 
  6. Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
