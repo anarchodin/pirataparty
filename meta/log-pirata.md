@@ -250,18 +250,6 @@
 
  7. Þingflokkur skal setja sér reglur og skulu þær vera opinberar.
 
-## 13. Framfarafundur
-
- 1. Framafarafundur skal haldin á 8 vikna fresti.
-
- 2. Framkvæmdaráð skal boða til fundarins með amk. viku fyrirfara og skal hann auglýstur samkvæmt reglum flokksins sem varða tilkynninga og auglýsingaskyldu fundarhalda.
-
- 3. Framkvæmdaráð sér um að skipuleggja fundinn ásamt kjörnum fulltrúum og málefnahópum séu þeir til staðar.
-
- 4. Á framfarafundi skal koma fram ítarleg úttekt á störfum þinghóps, framkvæmdaráðs og málefnahópa.
-
- 5. Á fundinum skal fara fram umræða um störf þinghóps, framkvæmdaráðs og málefnahópa.
-
 ## 14. Félagsslit
 
  1. Félagsslit geta aðeins farið fram sé tillaga um slíkt á auglýstri dagskrá löglegs aðalfundar og samþykkt með ¾ hluta fundarmanna.
