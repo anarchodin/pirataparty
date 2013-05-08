@@ -221,7 +221,11 @@
  5. Allir félagsmenn geta gefið kost á sér á framboðslista.
     Þó getur félagsmaður er hefur setið tvö næstliðnu kjörtímabil í ákveðnu embætti ekki boðið sig fram á framboðslista til sama embættis.
 
- 6. Raðað skal á framboðslista eftir niðurstöðum STV forgangskosningar.
+ 6. Raða skal á framboðslista samkvæmt úrslitum forgangskosningar með Schulze-aðferð.
+    Þó skal frambjóðendum heimilt að víkja sæti og taka lægra sæti á lista en kjör hans segir til um, og færast þá aðrir frambjóðendur ofar á lista.
+    Hafni frambjóðandi sæti eða geti af öðrum sökum ekki tekið því skal raða á lista með endurtalningu atkvæða að brottfelldum frambjóðanda.
+
+    Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
 ## 12. Störf þingflokks og sveitarstjórnarflokka
 
@@ -241,18 +245,6 @@
  6. Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
 
  7. Þingflokkur skal setja sér reglur og skulu þær vera opinberar.
-
-## 13. Framfarafundur
-
- 1. Framafarafundur skal haldin á 8 vikna fresti.
-
- 2. Framkvæmdaráð skal boða til fundarins með amk. viku fyrirfara og skal hann auglýstur samkvæmt reglum flokksins sem varða tilkynninga og auglýsingaskyldu fundarhalda.
-
- 3. Framkvæmdaráð sér um að skipuleggja fundinn ásamt kjörnum fulltrúum og málefnahópum séu þeir til staðar.
-
- 4. Á framfarafundi skal koma fram ítarleg úttekt á störfum þinghóps, framkvæmdaráðs og málefnahópa.
-
- 5. Á fundinum skal fara fram umræða um störf þinghóps, framkvæmdaráðs og málefnahópa.
 
 ## 14. Félagsslit
 
