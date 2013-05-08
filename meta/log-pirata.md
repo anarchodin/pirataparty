@@ -121,6 +121,7 @@
 
  4. Fimm meðlimir framkvæmdaráðs eru kjörnir í almennri kosningu, og fimm til vara.
     Kosning skal fara fram með STV forgangskosningu.
+    Kosningin skal standa í viku og ljúka við upphaf aðalfundar.
 
  5. Condorcet sigurvegari skal vera formaður, sé hann til.
     Annars skal hann ráðinn út frá Schulze-aðferðinni.
@@ -234,6 +235,10 @@
  2. Haldi þingflokkur eða sveitarstjórnarflokkur lokaðan fund hefur hann tilkynningarskyldu til félagsmanna um efni fundarins og ástæður fyrir lokun.
 
  3. Framkvæmdaráð getur óskað eftir því að kjörnir fulltrúar mæti á fund sinn.
+
+99. Þingflokki ber, þegar kjördæmadagar eru á þingi, að halda opinn fund í einu af kjördæmum landsins.
+    Funda skal til skiptis í kjördæmum, og víxla staðsetningum innan kjördæma.
+    Framkvæmdaráð skipuleggur fundi í samráði við félagsdeildir á svæðinu þar sem fundur er haldinn.
 
  4. Fulltrúar í þingflokkum og sveitarstjórnarflokkum skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
 
