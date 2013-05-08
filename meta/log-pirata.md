@@ -32,7 +32,7 @@
 
  7. Skráningar og úrsagnir skulu gilda frá tímasetningu staðfestingar á móttöku.
 
- 8. Félagsmaður telst virkur hafi hann tekið þátt í rafrænu kosningakerfi félagsins á undangengnum þremur mánuðum.
+ 8. Félagsmaður telst virkur hafi hann tekið þátt í almennri kosningu á undangengnum þremur mánuðum.
 
  9. Ákveða má félagsgjöld á aðalfundi.
 
@@ -103,20 +103,20 @@
 
  3. Tillögum að breytingum á lögum og grunnstefnu skal skilað framkvæmdaráðs eigi síðar en tveimur vikum fyrir aðalfund.
 
- 4. Stefnu má ákveða með einföldum meirihluta í gegnum rafræn kosningakerfi félagsins.
+ 4. Stefnu má ákveða með einföldum meirihluta í almennri kosningu.
 
  5. Stefna má aldrei ganga gegn grunnstefnu félagsins.
 
  6. Stefna skal alltaf rökstudd og hafa tilvísun í fyrri ákvarðanir félagsins.
 
- 7. Með samþykki 5% fundarmanna á almennum félagsfundi, en lágmark þriggja, skal vísa tillögu að stefnu til rafrænna kosninga.
+ 7. Með samþykki 5% fundarmanna á almennum félagsfundi, en lágmark þriggja, skal vísa tillögu að stefnu til almennra kosninga.
 
- 8. Stefna er ákveðin með einföldum meirihluta í rafrænni kosningu þar sem lágmark 10% virkra félagsmanna taka þátt.
+ 8. Stefna er ákveðin með einföldum meirihluta í almennri kosningu þar sem lágmark 10% virkra félagsmanna taka þátt.
 
- 9. Að jafnaði skulu rafrænar kosningar standa yfir í 6 daga.
+ 9. Að jafnaði skal almenn kosning standa yfir í 6 daga.
 
 10. Sé þörf á skjótri ákvarðanatöku má leggja til, með samþykki framkvæmdaráðs, hraðmeðferð á tillögu, en hún stendur þá yfir í sólarhring.
-    Slíka ákvörðun þarf að staðfesta með hefðbundnum kosningum sem fara af stað samtímis.
+    Slíka ákvörðun þarf að staðfesta með almennri kosningu sem fara af stað samtímis.
     Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar.
 
 11. Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál.
@@ -276,3 +276,4 @@
  1. Félagsslit geta aðeins farið fram sé tillaga um slíkt á auglýstri dagskrá löglegs aðalfundar og samþykkt með ¾ hluta fundarmanna.
 
  2. Við félagsslit skulu eignir félagsins renna til Pirate Parties International.
+
