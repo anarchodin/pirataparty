@@ -16,6 +16,12 @@
 
  3. Félagið skal leitast við að bjóða fram undir listabókstafnum P, bjóði það fram undir sínu eigin nafni.
 
+## ?. Verklag
+
+ 1. Firmaritun félagsins er í höndum meirihluta framkvæmdaráðs.
+
+ 2. Fundarsköp allra reglulegra ráða á vegum Pírata skulu skilgreind og aðgengileg félagsmönnum.
+
 ## 3. Félagsmenn
 
  1. Hver sem er 16 ára á árinu eða eldri getur fengið fulla aðild að félaginu.
