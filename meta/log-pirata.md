@@ -121,8 +121,9 @@
  3. Félagsmenn aðrir en kjörnir fulltrúar geta átt sæti í framkvæmdaráði.
     Þó skal enginn sitja meira en tvö ár samfleytt í framkvæmdaráði.
 
- 4. Fimm meðlimir framkvæmdaráðs eru kjörnir í kosningu á aðalfundi, og fimm til vara.
+ 4. Fimm meðlimir framkvæmdaráðs eru kjörnir í rafrænu kosningakerfi Pírata, og fimm til vara.
     Kosning skal fara fram með STV forgangskosningu.
+    Kosningin skal standa í viku og ljúka við upphaf aðalfundar.
 
  5. Condorcet sigurvegari skal vera formaður, sé hann til.
     Annars skal hann ráðinn út frá Schulze-aðferðinni.
