@@ -174,7 +174,7 @@
 
  1. Framkvæmdaráð er heimilt að ráða framkvæmdastjóra fyrir hönd félagsins ef fjárreiður leyfa.
 
- 2. Framkvæmdastjóri skal hafa frumkvæði um að ráða almennt starfsfólk félagsins, en framkvæmdaráð skal samþykkja allar ráðningar.
+ 2. Framkvæmdastjóri skal hafa frumkvæði um að ráða almennt starfsfólk félagsins, en þær skulu háðar samþykki framkvæmdaráðs.
 
  3. Félagsdeildum er heimilt að ráða til sín starfsfólk í tengslum við kosningabaráttu eða önnur tímabundin verkefni.
 
