@@ -76,7 +76,7 @@
 
 15. Hagsmunaskráningar eru birtar á vefsíðu félagsins.
 
-16. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdaráði og samþykktar á félagsfundi.
+16. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdaráði og samþykktar í almennri kosningu.
 
 ## 5. Lög og stefnumál
 
@@ -92,8 +92,6 @@
  5. Stefna má aldrei ganga gegn grunnstefnu félagsins.
 
  6. Stefna skal alltaf rökstudd og hafa tilvísun í fyrri ákvarðanir félagsins.
-
- 7. Með samþykki 5% fundarmanna á almennum félagsfundi, en lágmark þriggja, skal vísa tillögu að stefnu til almennra kosninga.
 
  8. Stefna er ákveðin með einföldum meirihluta í almennri kosningu þar sem lágmark 10% virkra félagsmanna taka þátt.
 
@@ -142,9 +140,7 @@
 
  1. Misbresti í framkvæmd eða brot á lögum þessum skal vísa til úrskurðarnefndar sem úrskurðar í málinu.
 
- 2. Tveir eru slembivaldir á aðalfundi til að sitja í úrskurðarnefnd til næsta aðalfundar.
-
- 3. Þrír eru slembivaldir að auki á félagsfundi þegar upp kemur misbrestur til að úrskurða um það efni.
+ 2. Fimm eru slembivaldir á aðalfundi til að sitja í úrskurðarnefnd til næsta aðalfundar.
 
  4. Úrskurðarnefnd tekur ákvarðanir aðeins í samræmi við lög félagsins og landslög.
 
@@ -164,7 +160,7 @@
 
  4. Laun framkvæmdastjóra og annara starfsfólks skal ekki vera hærra en þingfararkaup.
 
- 5. Fastráðning starfsfólks er háð samþykki félagsfundar.
+ 5. Fastráðning starfsfólks er háð samþykkt almennrar kosningar.
 
  6. Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
@@ -237,7 +233,7 @@
 
  2. Haldi þingflokkur eða sveitarstjórnarflokkur lokaðan fund hefur hann tilkynningarskyldu til félagsmanna um efni fundarins og ástæður fyrir lokun.
 
- 3. Framkvæmdaráð getur óskað eftir því að kjörnir fulltrúar á Alþingi og/eða í sveitarstjórnum mæti á sinn fund eða á almenna félagsfundi.
+ 3. Framkvæmdaráð getur óskað eftir því að kjörnir fulltrúar mæti á fund sinn.
 
 99. Þingflokki ber, þegar kjördæmadagar eru á þingi, að halda opinn fund í einu af kjördæmum landsins.
     Funda skal til skiptis í kjördæmum, og víxla staðsetningum innan kjördæma.
