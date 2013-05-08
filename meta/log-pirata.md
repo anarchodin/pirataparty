@@ -12,7 +12,11 @@
 
  1. Félagið er stjórnmálaflokkur.
 
- 2. Félagið skal reyna að bjóða fram lista til alþingiskosninga og sveitarstjórnarkosninga til að ná fram markmiðum sínum.
+99. Félagið mótar sér stefnu í opnu ferli.
+
+99. Hlutverk félagsins er að vinna stefnu sinni framgang.
+
+ 2. Félagið reynir að leggja fram framboðslista til Alþingis- og sveitarstjórnarkosninga.
 
  3. Félagið skal leitast við að bjóða fram undir listabókstafnum P, bjóði það fram undir sínu eigin nafni.
 
