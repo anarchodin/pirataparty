@@ -23,7 +23,7 @@
 5.  Skrifstofa félagsins og starfsmenn þess hafa engin réttindi eða stöðu umfram aðra félagsmenn.
     Hlutverk þeirra er að greiða fyrir stefnumótun og starfi félagsins.
 
-## ?. Verklag
+## 3. Verklag
 
 1.  Firmaritun félagsins er í höndum meirihluta framkvæmdaráðs.
 
@@ -39,7 +39,7 @@
 
 5.  Rekstur kosningakerfis félagsins og nánari skilgreining á reglum þess er í höndum framkvæmdaráðs.
 
-## 3. Félagsmenn
+## 4. Félagsmenn
 
 1.  Hver sem er 16 ára á árinu eða eldri getur fengið fulla aðild að félaginu.
 
@@ -59,7 +59,7 @@
 
 9.  Ákveða má félagsgjöld á aðalfundi.
 
-## 4. Aðalfundur
+## 5. Aðalfundur
 
 1.  Aðalfundur skal vera haldinn fyrir lok ágústmánaðar ár hvert.
 
@@ -95,7 +95,7 @@
 
 16. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdaráði og samþykktar í almennri kosningu.
 
-## 5. Lög
+## 6. Lög
 
 1.  Þessi lög eru öll lög félagsins, en þeim má breyta á aðalfundi með ⅔ hlutum atkvæða.
 
@@ -104,7 +104,7 @@
 
 3.  Tillögum að breytingum á lögum og grunnstefnu skal skilað framkvæmdaráðs eigi síðar en tveimur vikum fyrir aðalfund.
 
-## Stefnumótun
+## 7. Stefnumótun
 
 1.  Stefna félagsins er ákvörðuð með ályktunum.
 
@@ -117,7 +117,7 @@
 5.  Stefna má aldrei ganga gegn grunnstefnu félagsins.
     Úrskurðarnefnd er heimilt að ógilda ályktun sem gengur gegn grunnstefnu.
 
-## Málefnastarf
+## 8. Málefnastarf
 
 1.  Málefnahópar safna upplýsingum varðandi afmarkað málefni.
     Málefnahópur starfar um takmarkaðan tíma.
@@ -138,7 +138,7 @@
 6.  Málefnahópur skilar skýrslu um störf sín og þær upplýsingar sem aflað var.
     Málefnahópur skipar ritstjóra fyrir skýrsluna.
 
-## 6. Framkvæmdaráð
+## 9. Framkvæmdaráð
 
 1.  Framkvæmdaráð annast almenna stjórn og rekstur félagsins.
 
@@ -165,7 +165,7 @@
 
 10. Ef þrír fundir framkvæmdaráðs í röð falla niður vegna vanskipunar skal boðað til aukaaðalfundar.
 
-## 7. Úrskurðarnefnd
+## 10. Úrskurðarnefnd
 
 1.  Misbresti í framkvæmd eða brot á lögum þessum skal vísa til úrskurðarnefndar sem úrskurðar í málinu.
 
@@ -179,7 +179,7 @@
 
 6.  Úrskurður úrskurðarnefndar er bindandi.
 
-## 8. Starfsmenn
+## 11. Starfsmenn
 
 1.  Framkvæmdaráð er heimilt að ráða framkvæmdastjóra fyrir hönd félagsins ef fjárreiður leyfa.
 
@@ -191,7 +191,7 @@
 
 5.  Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
-## 9. Aðildarfélög
+## 12. Aðildarfélög
 
 1.  Heimilt er að líta svo á að lögaðilar séu aðildarfélög Pírata að uppfylltum ákveðnum skilyrðum.
     Félag sem óskar eftir að teljast aðildarfélag Pírata sendir umsókn um slíkt til framkvæmdaráðs, ásamt lögum sínum.
@@ -223,7 +223,7 @@
 7.  Aðildarfélagi er heimilt að skipta starfsemi sinni frekar.
     Aðildarfélagi ber að gera framkvæmdaráði grein fyrir slíkri skiptingu og áhrifum hennar á félagaskráningu.
 
-## 10. Fjármál
+## 13. Fjármál
 
 1.  Bókhaldsár félagsins er almanaksárið.
 
@@ -243,7 +243,7 @@
 
 8.  Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
-## 11. Þátttaka í kosningum
+## 14. Þátttaka í kosningum
 
 1.  Þátttaka í kosningum er á ábyrgð aðildarfélaga á kjörsvæði.
 
@@ -265,7 +265,7 @@
 
     Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
-## 12. Störf þingflokks og sveitarstjórnarflokka
+## 15. Störf þingflokks og sveitarstjórnarflokka
 
 1.  Fundir þingflokka og sveitarstjórnarflokka mega vera lokaðir þrátt fyrir ákvæði 5. gr. séu málefnalegar ástæður fyrir því.
 
@@ -288,7 +288,7 @@
 
 8.  Þingflokkur skal setja sér reglur og skulu þær vera opinberar.
 
-## 14. Félagsslit
+## 16. Félagsslit
 
 1.  Félagsslit geta aðeins farið fram sé tillaga um slíkt á auglýstri dagskrá löglegs aðalfundar og samþykkt með ¾ hluta fundarmanna.
 
