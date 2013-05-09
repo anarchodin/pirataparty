@@ -193,28 +193,32 @@
 
  6. Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
-## 9. Félagsdeildir og nefndir
+## 9. Aðildarfélög
 
- 1. Stuðla skal að stofnun sérstakra félagsdeilda sem vinna að kosningabaráttu og efla starf félagsins.
-    Þær skulu stofnaðar í samráði við framkvæmdaráð.
+ 1. Heimilt er að líta svo á að lögaðilar séu aðildarfélög Pírata að uppfylltum ákveðnum skilyrðum.
+    Félag sem óskar eftir að teljast aðildarfélag Pírata sendir umsókn um slíkt til framkvæmdaráðs, ásamt lögum sínum.
 
- 2. Félagsdeildir skipa sínar eigin stjórnir og hafa sínar eigin samþykktir, en þær skulu ekki ganga gegn lögum eða grunnstefnu félagsins.
+    Uppfylli félagið þau skilyrði sem sett eru í lögum þessum skal framkvæmdaráð bera fram tillögu til ályktunar um aðild þess.
 
- 3. Félagsdeildum er heimilt að halda úti sínum eigin sjóðum sem og samþykkja og senda út sínar eigin ályktanir.
+ 2. Aðildarfélögum er óheimilt að ganga gegn lögum eða grunnstefnu Pírata.
+    Úrskurðarnefnd er heimilt að fella niður aðild félags sem brýtur gegn lögum eða grunnstefnu.
 
- 4. Félagsdeildir skulu halda aðalfundi fyrir lok maímánuðar á hverju ári og skila fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum til framkvæmdaráðs.
-    Uppfylli félagsdeild þessi skilyrði telst deildin virk.
+ 3. Framkvæmdaráð heldur sameiginlega félagaskrá fyrir öll aðildarfélög Pírata.
+    Allir félagar aðildarfélags verða jafnframt að vera félagar í Pírötum.
 
- 5. Aðalfundur félagsins getur lagt niður óvirkar eða óstarfhæfar félagsdeildir eða boðað til nýrra aðalfunda þeirra.
+ 4. Aðildarfélagi ber að skila fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum sínum til framkvæmdaráðs.
+    Hafi slík gögn borist fyrir lok júnímánaðar telst aðildarfélag vera virkt.
 
- 6. Ef félagsdeild er leyst upp tekur framkvæmdaráð ákvörðun um skiptingu eigna.
+ 5. Aðildarfélagi ber að skilgreina í lögum sínum hvenær það teljist starfhæft.
+    Uppfylli aðildarfélag ekki eigin skilyrði um starfhæfni skal því slitið.
+    Einnig skal aðalfundi Pírata heimilt að boða aðalfund í eða slíta óvirku aðildarfélagi.
 
- 7. Ef félagsdeild er sameinuð annari skulu eignir, ábyrgðir og félagsmenn færast úr þeirri sem minni er og í þá stærri.
-    Sú minni yrði síðan lögð niður.
+    Eignir aðildarfélaga skulu renna til Pírata við félagsslit.
 
- 8. Ein kjördæmisdeild og sveitarfélagsdeild skal starfa í hverju kjördæmi og sveitarfélagi þar sem félagið býður fram, nema í Reykjavík, þar sem sameiginleg kjördæmisdeild skal starfa.
+ 6. Starfssvæði svæðisbundins aðildarfélags skal vera minnst eitt sveitarfélag.
+    Einungis skal eitt aðildarfélag starfa í hverju sveitarfélagi.
 
- 9. Ef kjördæmisdeild eða sveitarfélagsdeild er ekki starfandi á ákveðnu svæði er félagsmönnum þar heimilt að stofna hana í samvinnu við framkvæmdaráð.
+    Úrskurðarnefnd sker úr um ágreining um starfssvæði.
 
 ## 10. Fjármál
 
