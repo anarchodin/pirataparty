@@ -239,7 +239,9 @@
 
 6.  Félaginu er ekki heimilt að lána öðrum lögaðilum fé.
 
-7.  Öll fjárútlát sem fara yfir 200.000 kr, miðað við neysluvísitölu 1. október 2012 skulu vera skriflega samþykkt af framkvæmdastjóra eða gjaldkera.
+7.  Framkvæmdastjóri ber ábyrgð á útgjöldum félagsins.
+
+    Öll fjárútlát sem fara yfir 200.000 kr, miðað við neysluvísitölu 1. október 2012 skulu vera skriflega samþykkt af framkvæmdaráði.
 
 8.  Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
