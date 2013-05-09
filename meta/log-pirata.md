@@ -18,7 +18,10 @@
 
  2. Félagið reynir að leggja fram framboðslista til Alþingis- og sveitarstjórnarkosninga.
 
- 3. Félagið skal leitast við að bjóða fram undir listabókstafnum P, bjóði það fram undir sínu eigin nafni.
+    Félagið skal leitast við að bjóða fram undir listabókstafnum P, bjóði það fram undir sínu eigin nafni.
+
+99. Skrifstofa félagsins og starfsmenn þess hafa engin réttindi eða stöðu umfram aðra félagsmenn.
+    Hlutverk þeirra er að greiða fyrir stefnumótun og starfi félagsins.
 
 ## ?. Verklag
 
