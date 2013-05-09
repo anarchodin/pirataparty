@@ -26,6 +26,16 @@
 
  2. Fundarsköp allra reglulegra ráða á vegum Pírata skulu skilgreind og aðgengileg félagsmönnum.
 
+ 3. Félagið getur ályktað í gegnum kosningakerfi sitt.
+    Ályktanir teljast samþykktar ef þær ná einföldum meirihluta og minnst 10% virkra félagsmanna tók þátt í kosningunni.
+
+ 4. Tillögur að ályktunum skulu lagðar fram á kosningakerfi félagsins.
+    Hljóti þær stuðning minnst 1% virkra félagsmanna skal formælenda ályktunarinnar heimilt að hefja kosningu.
+
+    Almenn kosning skal standa yfir í 6 daga.
+
+ 5. Rekstur kosningakerfis félagsins og nánari skilgreining á reglum þess er í höndum framkvæmdaráðs.
+
 ## 3. Félagsmenn
 
  1. Hver sem er 16 ára á árinu eða eldri getur fengið fulla aðild að félaginu.
@@ -82,7 +92,7 @@
 
 16. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdaráði og samþykktar í almennri kosningu.
 
-## 5. Lög og stefnumál
+## 5. Lög
 
  1. Þessi lög eru öll lög félagsins, en þeim má breyta á aðalfundi með ⅔ hlutum atkvæða.
 
@@ -90,16 +100,6 @@
     Gilda sömu reglur um breytingar á grunnstefnu og á lögum.
 
  3. Tillögum að breytingum á lögum og grunnstefnu skal skilað framkvæmdaráðs eigi síðar en tveimur vikum fyrir aðalfund.
-
- 4. Stefnu má ákveða með einföldum meirihluta í almennri kosningu.
-
- 5. Stefna má aldrei ganga gegn grunnstefnu félagsins.
-
- 6. Stefna skal alltaf rökstudd og hafa tilvísun í fyrri ákvarðanir félagsins.
-
- 8. Stefna er ákveðin með einföldum meirihluta í almennri kosningu þar sem lágmark 10% virkra félagsmanna taka þátt.
-
- 9. Að jafnaði skal almenn kosning standa yfir í 6 daga.
 
 10. Sé þörf á skjótri ákvarðanatöku má leggja til, með samþykki framkvæmdaráðs, hraðmeðferð á tillögu, en hún stendur þá yfir í sólarhring.
     Slíka ákvörðun þarf að staðfesta með almennri kosningu sem fara af stað samtímis.
@@ -113,6 +113,19 @@
 13. Málefnahópur skal velja sér ábyrgðarmann og fundarritara.
 
 14. Málefnahópur skilar reglulega skýrslu til félagsmanna um störf sín, í það minnsta þegar starf hópsins lýkur.
+
+## Stefnumótun
+
+ 1. Stefna félagsins er ákvörðuð með ályktunum.
+
+ 2. Ályktanir um stefnu skulu tilgreina að þær séu stefnumótandi.
+
+ 6. Stefna skal ætíð hafa tilvísun í fyrri ályktanir félagsins.
+
+ 3. Ályktun um stefnu skal fylgja greinargerð með skýringum og rökstuðningi.
+
+ 5. Stefna má aldrei ganga gegn grunnstefnu félagsins.
+    Úrskurðarnefnd er heimilt að ógilda ályktun sem gengur gegn grunnstefnu.
 
 ## 6. Framkvæmdaráð
 
