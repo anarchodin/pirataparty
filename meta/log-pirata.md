@@ -101,15 +101,6 @@
 
  3. Tillögum að breytingum á lögum og grunnstefnu skal skilað framkvæmdaráðs eigi síðar en tveimur vikum fyrir aðalfund.
 
-11. Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál.
-    Tilkynna skal félagsmönnum um stofnun vinnuhóps.
-
-12. Öllum er heimilt að taka þátt í málefnahóp, fundir þeirra skulu alltaf vera opnir.
-
-13. Málefnahópur skal velja sér ábyrgðarmann og fundarritara.
-
-14. Málefnahópur skilar reglulega skýrslu til félagsmanna um störf sín, í það minnsta þegar starf hópsins lýkur.
-
 ## Stefnumótun
 
  1. Stefna félagsins er ákvörðuð með ályktunum.
@@ -122,6 +113,27 @@
 
  5. Stefna má aldrei ganga gegn grunnstefnu félagsins.
     Úrskurðarnefnd er heimilt að ógilda ályktun sem gengur gegn grunnstefnu.
+
+## Málefnastarf
+
+ 1. Málefnahópar safna upplýsingum varðandi afmarkað málefni.
+    Málefnahópur starfar um takmarkaðan tíma.
+
+11. Málefnahóp er sett stofnskrá með ályktun.
+    Í stofnskrá skal koma fram hvaða málefni hópnum ber að fjalla um, hvaða tímamörk honum eru ætluð og hverju honum ber að skila af sér.
+
+    Málefnahóp er heimilt að bera fram tillögu að ályktun til að breyta stofnskrá sinni.
+
+12. Öllum er heimilt að taka þátt í málefnahóp.
+    Fundir þeirra skulu vera opnir og auglýstir á vettvangi félagsins.
+
+99. Starfsmenn og kjörnir fulltrúar skulu vera málefnahópum innan handar við upplýsingaöflun.
+    Málefnahópi er heimilt að krefjast þess að kjörnir fulltrúar beiti lögbundnum réttindum stöðu sinnar til aðstoðar við upplýsingaöflun.
+
+13. Málefnahópur skal velja sér ábyrgðarmann og fundarritara.
+
+14. Málefnahópur skilar skýrslu um störf sín og þær upplýsingar sem aflað var.
+    Málefnahópur skipar ritstjóra fyrir skýrsluna.
 
 ## 6. Framkvæmdaráð
 
