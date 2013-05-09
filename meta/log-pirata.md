@@ -215,13 +215,13 @@
 
 6.  Starfssvæði svæðisbundins aðildarfélags skal vera minnst eitt sveitarfélag.
 
-    Einungis skal eitt aðildarfélag starfa í hverju sveitarfélagi.
+    Einungis skal eitt svæðisbundið aðildarfélag starfa í hverju sveitarfélagi.
     Þó skal heimilt að stofna aðildarfélag sem nær yfir heilt kjördæmi með aðkomu allra virkra aðildarfélaga innan þess kjördæmis.
 
     Úrskurðarnefnd sker úr um ágreining um starfssvæði.
 
 7.  Aðildarfélagi er heimilt að skipta starfsemi sinni frekar.
-    Aðildarfélagi ber að gera framkvæmdaráði grein fyrir slíkri skiptingu og áhrifum hennar á félagaskráningu.
+    Aðildarfélagi ber að gera framkvæmdaráði grein fyrir slíkri skiptingu að því leyti sem hún hefur áhrif á félagaskráningu.
 
 ## 13. Fjármál
 
