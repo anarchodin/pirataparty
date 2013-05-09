@@ -101,10 +101,6 @@
 
  3. Tillögum að breytingum á lögum og grunnstefnu skal skilað framkvæmdaráðs eigi síðar en tveimur vikum fyrir aðalfund.
 
-10. Sé þörf á skjótri ákvarðanatöku má leggja til, með samþykki framkvæmdaráðs, hraðmeðferð á tillögu, en hún stendur þá yfir í sólarhring.
-    Slíka ákvörðun þarf að staðfesta með almennri kosningu sem fara af stað samtímis.
-    Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar.
-
 11. Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál.
     Tilkynna skal félagsmönnum um stofnun vinnuhóps.
 
