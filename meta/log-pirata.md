@@ -185,8 +185,6 @@
 
  2. Framkvæmdastjóri skal hafa frumkvæði um að ráða almennt starfsfólk félagsins, en þær skulu háðar samþykki framkvæmdaráðs.
 
- 3. Félagsdeildum er heimilt að ráða til sín starfsfólk í tengslum við kosningabaráttu eða önnur tímabundin verkefni.
-
  4. Laun framkvæmdastjóra og annara starfsfólks skal ekki vera hærra en þingfararkaup.
 
  5. Víkja má starfsmönnum úr starfi með ályktun.
@@ -216,9 +214,14 @@
     Eignir aðildarfélaga skulu renna til Pírata við félagsslit.
 
  6. Starfssvæði svæðisbundins aðildarfélags skal vera minnst eitt sveitarfélag.
+
     Einungis skal eitt aðildarfélag starfa í hverju sveitarfélagi.
+    Þó skal heimilt að stofna aðildarfélag sem nær yfir heilt kjördæmi með aðkomu allra virkra aðildarfélaga innan þess kjördæmis.
 
     Úrskurðarnefnd sker úr um ágreining um starfssvæði.
+
+ 7. Aðildarfélagi er heimilt að skipta starfsemi sinni frekar.
+    Aðildarfélagi ber að gera framkvæmdaráði grein fyrir slíkri skiptingu og áhrifum hennar á félagaskráningu.
 
 ## 10. Fjármál
 
@@ -240,18 +243,20 @@
 
  8. Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
-## 11. Þáttaka í sveitarstjórnar- og alþingiskosningum
+## 11. Þátttaka í kosningum
 
- 1. Kjördæmisdeildir og sveitarfélagsdeildir skulu hafa umsjón með kosningabaráttu á sínu svæði.
+ 1. Þátttaka í kosningum er á ábyrgð aðildarfélaga á kjörsvæði.
 
- 2. Framkvæmdaráði er heimilt að útbúa kosningastefnuskrá fyrir Alþingiskosningar út frá samþykktri stefnu.
+    Hafi aðildarfélögum innan kjördæmis til Alþingiskosninga ekki komist saman um annað skal starfa kjördæmisráð skipað einum fulltrúa fyrir hvert sveitarfélag þar sem Píratar hafa starfsemi.
 
- 3. Sveitarfélagsdeildum er heimilt að útbúa sína eigin kosningastefnuskrá fyrir sveitarstjórnarkosningar.
-    Kosningastefnuskráin skal ekki ganga gegn grunnstefnu félagsins.
+ 2. Framkvæmdaráð annast samræmingu kosningabaráttu á landsvísu í samráði við aðildarfélögin.
 
- 4. Sveitarfélagsdeildum er heimilt að stofna til kosningabandalaga með öðrum stjórnmálaflokkum.
+    Framkvæmdaráði er heimilt að útbúa kosningastefnuskrá fyrir Alþingiskosningar út frá samþykktri stefnu.
 
- 5. Allir félagsmenn geta gefið kost á sér á framboðslista.
+ 4. Heimilt er að stofna til kosningabandalags.
+    Ályktun um slíkt ber að samþykkja með minnst ¾ atkvæða.
+
+ 5. Allir kjörgengir félagsmenn geta gefið kost á sér á framboðslista.
     Þó getur félagsmaður er hefur setið tvö næstliðnu kjörtímabil í ákveðnu embætti ekki boðið sig fram á framboðslista til sama embættis.
 
  6. Raða skal á framboðslista samkvæmt úrslitum forgangskosningar með Schulze-aðferð.
@@ -270,7 +275,7 @@
 
 99. Þingflokki ber, þegar kjördæmadagar eru á þingi, að halda opinn fund í einu af kjördæmum landsins.
     Funda skal til skiptis í kjördæmum, og víxla staðsetningum innan kjördæma.
-    Framkvæmdaráð skipuleggur fundi í samráði við félagsdeildir á svæðinu þar sem fundur er haldinn.
+    Framkvæmdaráð skipuleggur fundi í samráði við aðildarfélög á svæðinu þar sem fundur er haldinn.
 
  4. Fulltrúar í þingflokkum og sveitarstjórnarflokkum skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
 
@@ -288,4 +293,3 @@
  1. Félagsslit geta aðeins farið fram sé tillaga um slíkt á auglýstri dagskrá löglegs aðalfundar og samþykkt með ¾ hluta fundarmanna.
 
  2. Við félagsslit skulu eignir félagsins renna til Pirate Parties International.
-
