@@ -169,17 +169,28 @@
 
 ## 10. Úrskurðarnefnd
 
-1.  Misbresti í framkvæmd eða brot á lögum þessum skal vísa til úrskurðarnefndar sem úrskurðar í málinu.
+1.  Innan félagsins skal starfa úrskurðarnefnd.
+    Úrskurðarnefnd sker úr um öll ágreiningsefni sem upp koma varðandi starf Pírata.
 
-2.  Fimm eru slembivaldir á aðalfundi til að sitja í úrskurðarnefnd til næsta aðalfundar.
+2.  Í úrskurðarnefnd skulu fimm aðilar eiga varanlegt sæti.
+    Forseti úrskurðarnefndar skal skipaður af framkvæmdaráði.
+    Tveir skulu kjörnir með STV forgangskosningu á aðalfundi.
+    Tveir skulu slembivaldir úr tölu meðlima á aðalfundi.
 
-3.  Úrskurðarnefnd tekur ákvarðanir aðeins í samræmi við lög félagsins og landslög.
+    Að auki skulu málsaðilar skipa sinn fulltrúann hvor í hverju máli sem upp kemur.
 
-4.  Komi upp grunur um saknæmt athæfi skal úrskurðarnefnd vísa málinu til lögreglu.
+3.  Dómreglur úrskurðarnefndar skulu ákvarðaðar með ályktun félagsins.
+
+    Leggi úrskurðarnefnd fram ályktunartillögu um dómreglur þarf hún samþykki einfalds meirihluta í almennri kosningu.
+    Leggi aðrir fram ályktunartillögu um dómreglur þarf hún samþykki ¾ greiddra atkvæða í almennri kosningu.
+
+4.  Komi upp rökstuddur grunur um saknæmt athæfi skal úrskurðarnefnd vísa málinu til lögreglu.
 
 5.  Komi upp ágreiningur um brottrekstur skal úrskurðarnefnd úrskurða um málið.
 
-6.  Úrskurður úrskurðarnefndar er bindandi.
+6.  Ákvörðun úrskurðarnefndar er bindandi.
+
+    Þó skal heimilt að óska breytingar á ákvörðun ef sýnt þykir að hún leiði til þess að framboð uppfylli ekki kröfur landslaga.
 
 ## 11. Starfsmenn
 
