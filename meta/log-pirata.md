@@ -29,6 +29,8 @@
 
 2.  Fundarsköp allra reglulegra ráða á vegum Pírata skulu skilgreind og aðgengileg félagsmönnum.
 
+    Fundir Pírata skulu vera opnir.
+
 3.  Félagið getur ályktað í gegnum kosningakerfi sitt.
     Ályktanir teljast samþykktar ef þær ná einföldum meirihluta og minnst 10% virkra félagsmanna tók þátt í kosningunni.
 
@@ -267,11 +269,18 @@
 
     Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
-## 15. Störf þingflokks og sveitarstjórnarflokka
+## 15. Störf þingflokks og annarra kjörinna fulltrúa
 
-1.  Fundir þingflokka og sveitarstjórnarflokka mega vera lokaðir þrátt fyrir ákvæði 5. gr. séu málefnalegar ástæður fyrir því.
+1.  Þingmenn Pírata eru ábyrgir gagnvart félaginu í heild.
 
-2.  Haldi þingflokkur eða sveitarstjórnarflokkur lokaðan fund hefur hann tilkynningarskyldu til félagsmanna um efni fundarins og ástæður fyrir lokun.
+    Sveitarstjórnarfulltrúar eru ábyrgir gagnvart því svæðisbundna aðildarfélagi sem starfar í sveitarfélagi þeirra.
+
+2.  Þingflokki er heimilt að halda lokaða fundi þrátt fyrir gr. 3.2.
+    Lokaðan fund má eingöngu halda ef lögbundin þagnarskylda hvílir á dagskrárefni hans.
+
+    Tilkynna ber um efni fundarins og ástæður fyrir lokun hans til félagsmanna.
+
+    Svæðisbundnum aðildarfélögum er heimilt að veita sveitarstjórnarfulltrúum sínum sömu undanþágu frá gr. 3.2.
 
 3.  Framkvæmdaráð getur óskað eftir því að kjörnir fulltrúar mæti á fund sinn.
 
@@ -279,14 +288,14 @@
     Funda skal til skiptis í kjördæmum, og víxla staðsetningum innan kjördæma.
     Framkvæmdaráð skipuleggur fundi í samráði við aðildarfélög á svæðinu þar sem fundur er haldinn.
 
-5.  Fulltrúar í þingflokkum og sveitarstjórnarflokkum skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
+5.  Fulltrúar í þingflokki skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
 
 6.  Tilheyri þingflokkur minni hluta á Alþingi og geti ekki fengið aðstoðarmann til starfa á þinginu nema með því að hafa formann, skal einn þingmaður gegna embætti formanns félagsins, eitt þing í senn.
     Skal hann slembivalinn eftir þingkosningar, en gangi það í keðju þar eftir.
     Hann hafi ekki aukin pólitísk völd og afþakki formannsálag á þingfararkaup.
     Þingflokksformaður getur ekki einnig verið formaður félagsins.
 
-7.  Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
+7.  Aðstoðarmenn þingflokks skulu að jafnaði starfa fyrir flokkinn sem heild.
 
 8.  Þingflokkur skal setja sér reglur og skulu þær vera opinberar.
 
