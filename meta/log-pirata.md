@@ -69,7 +69,9 @@
 
 3.  Boða skal til aðalfundar með þriggja vikna fyrirvara og með öruggum hætti.
 
-4.  Framkvæmdaráð hefur heimild til að fresta landsfundi eða aukalandsfundi um viku frá auglýstri dagsetningu, en aðeins í eitt skipti.
+4.  Framkvæmdaráð hefur heimild til að fresta aðalfundi um viku frá auglýstri dagsetningu, en aðeins í eitt skipti.
+    Frestun verður að vera tilkynnt minnst viku fyrir auglýsta dagsetningu.
+    Þeir skila- og framboðsfrestir sem ekki hafa runnið út þegar frestun á sér stað framlengjast.
 
 5.  ⅓ hluti félagsmanna getur hvenær sem er farið skriflega fram á að boðað sé til auka-aðalfundar.
     Framkvæmdaráð skal þá boða til hans innan þriggja vikna.
