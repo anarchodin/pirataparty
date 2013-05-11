@@ -313,6 +313,8 @@
     Titillinn skal ganga í keðju milli þingmanna, og skal færast milli þeirra á sama tíma og embætti þingflokks.
     Hafi allir þingmenn formlegt embætti innan þingflokks skal ritari þingflokks einnig hafa titil formanns Pírata.
 
+    Þingmaður sem ber titil formanns Pírata hefur ekki aukin pólitísk völd og skal afþakka formannsálag á þingfararkaup.
+
 7.  Þingflokkur skal setja sér starfsreglur og skulu þær vera opinberar.
 
 ## 16. Félagsslit
