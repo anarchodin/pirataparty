@@ -194,6 +194,7 @@
 6.  Ákvörðun úrskurðarnefndar er bindandi.
 
     Þó skal heimilt að óska breytingar á ákvörðun ef sýnt þykir að hún leiði til þess að framboð uppfylli ekki kröfur landslaga.
+    Einnig skal heimilt að skilgreina sérstakar reglur um endurupptöku mála í dómreglum úrskurðarnefndar.
 
 ## 11. Starfsmenn
 
