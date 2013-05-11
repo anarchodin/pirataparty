@@ -154,13 +154,10 @@
     Kosning skal fara fram með STV forgangskosningu.
     Kosningin skal standa í viku og ljúka við upphaf aðalfundar.
 
-5.  Condorcet sigurvegari skal vera formaður, sé hann til.
-    Annars skal hann ráðinn út frá Schulze-aðferðinni.
+    Condorcet sigurvegari kosninganna, sé hann til, skal vera formaður framkvæmdaráðs.
 
 6.  Tveir meðlimir framkvæmdaráðs eru valdir með slembivali, og tveir til vara.
-    Allir félagsmenn sem hafa ekki verið slembivaldir í framkvæmdaráð eru í slembivalinu.
-
-7.  Slembival skal fara fram á eftir kosningu
+    Ekki skal velja félagsmenn sem áttu sæti í framkvæmdaráði á undanförnu ári eða hafa hlotið kjör til þess framkvæmdaráðs sem verið er að skipa.
 
 8.  Framkvæmdaráð skal funda að lágmarki mánaðarlega, og skal boðað til fundarins með viku fyrirvara.
 
