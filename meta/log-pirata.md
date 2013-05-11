@@ -166,9 +166,9 @@
 
 8.  Framkvæmdaráð skal funda að lágmarki mánaðarlega, og skal boðað til fundarins með viku fyrirvara.
 
-9.  Framkvæmdaráðsfundur telst löglegur ef a.m.k. 4 aðalmenn mæta eða senda varamenn sína.
+9.  Framkvæmdaráðsfundur telst löglegur ef a.m.k. 4 meðlimir framkvæmdaráðs eru viðstaddir.
 
-10. Ef þrír fundir framkvæmdaráðs í röð falla niður vegna vanskipunar skal boðað til aukaaðalfundar.
+10. Falli þrír fundir framkvæmdaráðs í röð niður vegna vanskipunar skal boðað til aukaaðalfundar.
 
 ## 10. Úrskurðarnefnd
 
