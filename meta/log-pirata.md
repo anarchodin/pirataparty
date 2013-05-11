@@ -62,24 +62,27 @@
 
 7.  Skráningar og úrsagnir skulu gilda frá tímasetningu staðfestingar á móttöku.
 
-8.  Félagsmaður telst virkur hafi hann tekið þátt í almennri kosningu á undangengnum þremur mánuðum.
+8.  Félagsmaður telst virkur hafi hann tekið þátt í almennri kosningu á undangengnum mánuði.
 
 9.  Ákveða má félagsgjöld á aðalfundi.
 
 ## 5. Aðalfundur
 
-1.  Aðalfundur skal vera haldinn fyrir lok ágústmánaðar ár hvert.
+1.  Á aðalfundi er mörkuð stefna félagsins og teknar ákvarðanir um starf þess, skipulag og fjárreiður.
 
-2.  Á aðalfundi er mörkuð stefna félagsins og teknar ákvarðanir um starf þess, skipulag og fjárreiður.
+2.  Aðalfundur skal vera haldinn fyrir lok janúarmánaðar ár hvert.
+    Tilkynna skal áætlaða dagsetningu aðalfundar í síðasta lagi 1. desember.
 
-3.  Boða skal til aðalfundar með þriggja vikna fyrirvara og með öruggum hætti.
+3.  Endanlegt fundarboð til aðalfundar með áætlaðri dagskrá og staðsetningu skal sent öllum félagsmönnum með ábyggilegum hætti minnst þremur vikum fyrir auglýsta dagsetningu.
 
 4.  Framkvæmdaráð hefur heimild til að fresta aðalfundi um viku frá auglýstri dagsetningu, en aðeins í eitt skipti.
     Frestun verður að vera tilkynnt minnst viku fyrir auglýsta dagsetningu.
     Þeir skila- og framboðsfrestir sem ekki hafa runnið út þegar frestun á sér stað framlengjast.
 
-5.  ⅓ hluti félagsmanna getur hvenær sem er farið skriflega fram á að boðað sé til auka-aðalfundar.
-    Framkvæmdaráð skal þá boða til hans innan þriggja vikna.
+5.  Félaginu er heimilt að álykta um boðun auka-aðalfundar.
+    Styðji ⅓ hluti félagsmanna ályktunartillögu um slíkt skal hún teljast samþykkt.
+
+    Framkvæmdaráð skal boða til auka-aðalfundar innan þriggja vikna frá samþykkt ályktunar þess efnis.
 
 6.  Framkvæmdaráð skipuleggur dagskrá aðalfundar.
 
