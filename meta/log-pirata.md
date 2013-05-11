@@ -309,13 +309,13 @@
 5.  Fulltrúar í þingflokki skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
 
 6.  Tilheyri þingflokkur minni hluta á Alþingi og geti ekki fengið aðstoðarmann til starfa á þinginu nema með því að hafa formann, skal einn þingmaður gegna embætti formanns félagsins, eitt þing í senn.
-    Skal hann slembivalinn eftir þingkosningar, en gangi það í keðju þar eftir.
-    Hann hafi ekki aukin pólitísk völd og afþakki formannsálag á þingfararkaup.
-    Þingflokksformaður getur ekki einnig verið formaður félagsins.
+    Skal hann slembivalinn úr hópi þeirra þingmanna sem ekki hafa formlegt embætti innan þingflokks.
+    Titillinn skal ganga í keðju milli þingmanna, og skal færast milli þeirra á sama tíma og embætti þingflokks.
+    Hafi allir þingmenn formlegt embætti innan þingflokks skal ritari þingflokks einnig hafa titil formanns Pírata.
 
 7.  Aðstoðarmenn þingflokks skulu að jafnaði starfa fyrir flokkinn sem heild.
 
-8.  Þingflokkur skal setja sér reglur og skulu þær vera opinberar.
+8.  Þingflokkur skal setja sér starfsreglur og skulu þær vera opinberar.
 
 ## 16. Félagsslit
 
