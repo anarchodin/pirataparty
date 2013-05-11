@@ -200,7 +200,7 @@
 
 1.  Framkvæmdaráð er heimilt að ráða framkvæmdastjóra fyrir hönd félagsins ef fjárreiður leyfa.
 
-2.  Framkvæmdastjóri skal hafa frumkvæði um að ráða almennt starfsfólk félagsins, en þær skulu háðar samþykki framkvæmdaráðs.
+2.  Framkvæmdastjóri skal hafa frumkvæði um að ráða annað starfsfólk félagsins, en þær skulu háðar samþykki framkvæmdaráðs.
 
 3.  Laun framkvæmdastjóra og annars starfsfólks skal ekki vera hærra en þingfararkaup.
 
