@@ -128,7 +128,7 @@
 ## 8. Málefnastarf
 
 1.  Málefnahópar safna upplýsingum varðandi afmarkað málefni.
-    Málefnahópur starfar um takmarkaðan tíma.
+    Starfstíma málefnahóps eru einnig sett ákveðin takmörk.
 
 2.  Málefnahóp er sett stofnskrá með ályktun.
     Í stofnskrá skal koma fram hvaða málefni hópnum ber að fjalla um, hvaða tímamörk honum eru ætluð og hverju honum ber að skila af sér.
