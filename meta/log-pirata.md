@@ -31,15 +31,20 @@
 
     Fundir Pírata skulu vera opnir.
 
+5.  Á vegum félagsins skal rekið kosningakerfi sem allir félagsmenn hafa aðgang að.
+    Með almennri kosningu í lögum þessum er átt við kosningar í kerfi þessu sem allir félagsmenn hafa kosningarétt í.
+    Auk almennra kosninga er heimilt er að nýta kosningakerfi Pírata til kosninga innan aðildarfélaga.
+
+    Framkvæmdaráð ber ábyrgð á rekstri og umsjón kosningakerfisins.
+    Líta skal á kosningakerfið sem standandi félagsfund og setja því sérstök fundarsköp.
+
 3.  Félagið getur ályktað í gegnum kosningakerfi sitt.
     Ályktanir teljast samþykktar ef þær ná einföldum meirihluta og minnst 10% virkra félagsmanna tók þátt í kosningunni.
 
 4.  Tillögur að ályktunum skulu lagðar fram á kosningakerfi félagsins.
-    Hljóti þær stuðning minnst 1% virkra félagsmanna skal formælenda ályktunarinnar heimilt að hefja kosningu.
+    Hljóti þær stuðning minnst 1% virkra félagsmanna skal formælenda ályktunarinnar heimilt að hefja almenna kosningu.
 
     Almenn kosning skal standa yfir í 6 daga.
-
-5.  Rekstur kosningakerfis félagsins og nánari skilgreining á reglum þess er í höndum framkvæmdaráðs.
 
 ## 4. Félagsmenn
 
