@@ -85,19 +85,18 @@
 
 9.  Allir félagsmenn sem skráðir eru 30 dögum fyrir aðalfund hafa aðgang að honum.
 
-10. Á aðalfundi er framkvæmdaráð ákveðið í samræmi við 7. grein.
+10. Á aðalfundi eru tveir skoðunarmenn reikninga kjörnir með STV forgangskosningu.
 
-11. Á aðalfundi eru tveir skoðunarmenn reikninga kjörnir með STV forgangskosningu.
+11. Framkvæmdaráð tekur við framboðum í öll embætti, og tryggir að allir frambjóðendur fái sanngjarna kynningu.
 
-12. Framkvæmdaráð tekur við framboðum í öll embætti, og tryggir að allir frambjóðendur fái sanngjarna kynningu.
+12. Frambjóðendur í embætti skulu skila inn hagsmunaskráningu til sitjandi framkvæmdaráðs, tveimur vikum fyrir aðalfund.
 
-13. Frambjóðendur í embætti skulu skila inn hagsmunaskráningu til sitjandi framkvæmdaráðs, tveimur vikum fyrir aðalfund.
+13. Slembivaldir framkvæmdaráðsmenn skulu skila inn hagsmunaskráningu eigi síðar en tveimur vikum eftir val þeirra.
+    Verði brestur á þessu skulu þeir víkja fyrir varamönnum.
 
-14. Slembivaldir framkvæmdaráðsmenn skulu skila inn hagsmunaskráningu eigi síðar en tveimur vikum eftir val þeirra.
+14. Hagsmunaskráningar eru birtar á vefsíðu félagsins.
 
-15. Hagsmunaskráningar eru birtar á vefsíðu félagsins.
-
-16. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdaráði og samþykktar í almennri kosningu.
+15. Nánari reglur um hagsmunaskráningu skulu útfærðar af framkvæmdaráði og samþykktar í almennri kosningu.
 
 ## 6. Lög
 
