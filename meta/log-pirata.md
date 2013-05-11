@@ -202,9 +202,9 @@
 
 2.  Framkvæmdastjóri skal hafa frumkvæði um að ráða almennt starfsfólk félagsins, en þær skulu háðar samþykki framkvæmdaráðs.
 
-3.  Laun framkvæmdastjóra og annara starfsfólks skal ekki vera hærra en þingfararkaup.
+3.  Laun framkvæmdastjóra og annars starfsfólks skal ekki vera hærra en þingfararkaup.
 
-4.  Víkja má starfsmönnum úr starfi með ályktun.
+4.  Víkja má starfsfólki úr starfi með ályktun.
 
 5.  Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
