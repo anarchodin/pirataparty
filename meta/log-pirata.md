@@ -272,8 +272,10 @@
 
     Framkvæmdaráði er heimilt að útbúa kosningastefnuskrá fyrir Alþingiskosningar út frá samþykktri stefnu.
 
-3.  Heimilt er að stofna til kosningabandalags.
+3.  Heimilt er að stofna til kosningabandalags við Alþingiskosningar með ályktun.
     Ályktun um slíkt ber að samþykkja með minnst ¾ atkvæða.
+
+    Aðildarfélögum er heimilt að hafa samskonar heimild varðandi sveitarstjórnarkosningar.
 
 4.  Allir kjörgengir félagsmenn geta gefið kost á sér á framboðslista.
     Þó getur félagsmaður er hefur setið tvö næstliðnu kjörtímabil í ákveðnu embætti ekki boðið sig fram á framboðslista til sama embættis.
