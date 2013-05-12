@@ -155,7 +155,7 @@
 
 2.  Í framkvæmdaráði sitja sjö manns, sem skipta með sér verkum.
 
- 3. Félagsmenn aðrir en kjörnir fulltrúar, efstu tveir menn hvers framboðslista og starfsmenn geta átt sæti í framkvæmdaráði.
+3.  Félagsmenn aðrir en kjörnir fulltrúar, efstu tveir menn hvers framboðslista og starfsmenn geta átt sæti í framkvæmdaráði.
     Þó skal enginn sitja meira en tvö ár samfleytt í framkvæmdaráði.
 
 4.  Fimm meðlimir framkvæmdaráðs eru kjörnir í almennri kosningu, og fimm til vara.
