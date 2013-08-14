@@ -5,8 +5,9 @@
 1.  Nafn félagsins er Píratar.
     Aðsetur þess og varnarþing skal vera í Reykjavík.
 
-2.  Ensk þýðing á heiti félagsins er Pirate Party Iceland.
-    Nota má hana sem hjáheiti.
+2.  Enskt heiti félagsins er Pirate Party Iceland.
+    Nota má það sem hjáheiti.
+    Skammstöfun þess er PP-IS.
 
 ## 2. Hlutverk
 
@@ -48,17 +49,25 @@
 
 ## 4. Félagsmenn
 
-1.  Hver sem er 16 ára á árinu eða eldri getur fengið fulla aðild að félaginu.
+1.  Aðild að félaginu er opin öllum einstaklingum sem hafa íslenska kennitölu.
+    Þó skal framkvæmdaráði heimilt að veita einstaklingi sem ekki hefur íslenska kennitölu aðild að félaginu berist sérstaklega ósk um það með sérstökum rökstuðningi.
 
-2.  Félagsmenn skulu hafa aðgang að félagatali, en aðrir ekki.
+2.  Félagar skulu velja sér notandanafn.
+    Notandanafn skal vera innan við 64 tákn, samanstanda af latneskum bókstöfum utan hinna séríslensku, tölustöfum og bandstriki, hefjast með bókstaf eða tölustaf og ekki ljúka með bandstriki.
+    Ekki skal heimilt að nota notandanafn sem greinist frá  öðru eingöngu með notkun há- eða lágstafa.
 
-3.  Félagar mega vera skráðir með dulnefni í félagatali.
+3.  Framkvæmdaráð heldur utan um félagatal.
+    Í félagatal skulu skráðar upplýsingar um alla félaga.
+    Notandanöfn allra félaga skulu vera opinber, en hver félagi ákveður hvaða upplýsingar aðrar eru opinberlega aðgengilegar um sig.
+    Framkvæmdaráð stjórnar öðrum aðgangi að félagatali.
 
-4.  Listi yfir trúnaðarmenn félagsins skal þó vera aðgengilegur almenningi.
+4.  Trúnaðarmönnum félagsins skal skylt að gera a.m.k. nafn sitt opinbert.
+    Framkvæmdaráð skal gera lista yfir trúnaðarmenn aðgengilegan.
 
-5.  Inntökubeiðnir í félagið, sem og úrsagnir skulu fara fram skriflega eða með rafrænum hætti.
+5.  Inntökubeiðnir í félagið, sem og úrsagnir úr því, skulu fara fram skriflega eða með rafrænum hætti.
 
 6.  Þeir sem vilja ganga í félagið skulu auðkenna sig með aðferð sem ákveðin er af framkvæmdaráði.
+    Framkvæmdaráði er ekki heimilt að víkja frá þessari kröfu.
 
 7.  Skráningar og úrsagnir skulu gilda frá tímasetningu staðfestingar á móttöku.
 
@@ -89,7 +98,7 @@
 7.  Fundargögn aðalfundar skulu afhent félagsmönnum með rafrænum hætti samhliða fundarboði.
     Verði fundargögn til eftir að boðað er til fundar skal afhenda félagsmönnum uppfærðan fundarboðspakka minnst þremur sólarhringum fyrir aðalfund.
 
-8.  Árskýrsla félagsins og ársreikningur fylgja öðrum fundargögnum.
+8.  Ársskýrsla félagsins og ársreikningur fylgja öðrum fundargögnum.
 
 9.  Allir félagsmenn sem skráðir eru 30 dögum fyrir aðalfund hafa aðgang að honum.
 
