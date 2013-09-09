@@ -77,6 +77,13 @@ Samkvæmt tillögum þessum er frelsi aðildarfélaga talsvert, en aðildarfél�
 Þetta er gert til að draga úr líkum á því að stöðnun í einhverskonar kjarna verði þess valdandi að Píratar í heild festist í sama farinu og taki ekki áhættu þegar kemur að því að vinna að málefnum félagsins.
 Frelsi til þess að gera tilraunir er forsenda þess að starfshættir haldi áfram að þróast.
 
+Þegar stuðst er við aðildarfélög, frekar en félagsdeildir, eru nokkur atriði sem nauðsynlegt er að hafa í huga.
+Helst þessara atriða er hættan á því að aðildarfélag verði óstarfhæft, þ.e., að félagið sé enn til og eigi jafnvel eignir, en ekkert gerist í því, þar sem félagsmenn eru orðnir of fáir eða stjórn félagsins bregðist ekki við.
+Tvær aðskildar ráðstafanir eru gerðar til að bregðast við þessu.
+Annars vegar er gerð krafa um að aðildarfélög skili ákveðnum lágmarksgögnum til Pírata (framkvæmdaráðs) í tæka tíð fyrir aðalfund Pírata; hins vegar að aðildarfélög setji sér lágmarksskilgreiningu á starfhæfni.
+Uppfylli aðildarfélag ekki þessi skilyrði er veitt heimild til að slíta því.
+Til að tryggja að Píratar missi ekki ráðstöfunarrétt á eignum aðildarfélaga er þess krafist að eignir aðildarfélaga renni til Pírata við slit þeirra.
+
 Að öðru leyti snýr breytingartillagan að atriðum sem varða skipulag á aðkomu Pírata að kosningum og tengsl milli flokksins og kjörinna fulltrúa sem honum tengjast.
 Gert er ráð fyrir að alþingismenn Pírata muni starfa fyrir flokkinn í heild – það er, fyrir öll aðildarfélög hans.
 Aðildarfélögum er eftirlátið að skilgreina hlutverk sveitarstjórnarfulltrúa, og bera þeir engar skyldur gagnvart framkvæmdaráði.
