@@ -184,28 +184,38 @@
 
 6.  Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
-## 10. Félagsdeildir og nefndir
+## 10. Aðildarfélög
 
-1.  Stuðla skal að stofnun sérstakra félagsdeilda sem vinna að kosningabaráttu og efla starf félagsins.
-    Þær skulu stofnaðar í samráði við framkvæmdaráð.
+ 1.  Heimilt er að líta svo á að lögaðilar séu aðildarfélög Pírata að uppfylltum ákveðnum skilyrðum.
+     Félag sem óskar eftir að teljast aðildarfélag Pírata sendir umsókn um slíkt til framkvæmdaráðs, ásamt lögum sínum.
 
-2.  Félagsdeildir skipa sínar eigin stjórnir og hafa sínar eigin samþykktir, en þær skulu ekki ganga gegn lögum eða grunnstefnu félagsins.
+     Framkvæmdaráð úrskurðar hvort tilvonandi aðildarfélag uppfylli þau skilyrði sem hér eru lögð fram.
+     Sé svo skal aðildarfélagið tafarlaust hljóta aðild, en að öðrum kosti skal því tilkynnt um þá ágalla sem á umsókninni eru.
 
-3.  Félagsdeildum er heimilt að halda úti sínum eigin sjóðum sem og samþykkja og senda út sínar eigin ályktanir.
+ 2.  Aðildarfélögum er óheimilt að ganga gegn lögum eða grunnstefnu Pírata.
+     Úrskurðarnefnd er heimilt að fella niður aðild félags sem brýtur gegn lögum eða grunnstefnu.
 
-4.  Félagsdeildir skulu halda aðalfundi fyrir lok maímánuðar á hverju ári og skila fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum til framkvæmdaráðs.
-    Uppfylli félagsdeild þessi skilyrði telst deildin virk.
+ 3.  Framkvæmdaráð heldur sameiginlega félagaskrá fyrir öll aðildarfélög Pírata.
+     Allir félagar aðildarfélags teljast jafnframt félagar í Pírötum.
 
-5.  Aðalfundur félagsins getur lagt niður óvirkar eða óstarfhæfar félagsdeildir eða boðað til nýrra aðalfunda þeirra.
+ 4.  Aðildarfélagi ber að skila fundargerð aðalfundar, ársskýrslu og bókhaldsgögnum sínum til framkvæmdaráðs.
+     Hafi slík gögn borist fyrir lok júnímánaðar telst aðildarfélag vera virkt.
 
-6.  Ef félagsdeild er leyst upp tekur framkvæmdaráð ákvörðun um skiptingu eigna.
+ 5.  Aðildarfélagi ber að skilgreina í lögum sínum hvenær það teljist starfhæft.
+     Uppfylli aðildarfélag ekki eigin skilyrði um starfhæfni skal því slitið.
+     Einnig skal aðalfundi Pírata heimilt að boða aðalfund í eða slíta óvirku aðildarfélagi.
 
-7.  Ef félagsdeild er sameinuð annari skulu eignir, ábyrgðir og félagsmenn færast úr þeirri sem minni er og í þá stærri.
-    Sú minni yrði síðan lögð niður.
+     Eignir aðildarfélaga skulu renna til Pírata við félagsslit.
 
-8.  Ein kjördæmisdeild og sveitarfélagsdeild skal starfa í hverju kjördæmi og sveitarfélagi þar sem félagið býður fram, nema í Reykjavík, þar sem sameiginleg kjördæmisdeild skal starfa.
+ 6.  Starfssvæði svæðisbundins aðildarfélags skal vera minnst eitt sveitarfélag.
 
-9.  Ef kjördæmisdeild eða sveitarfélagsdeild er ekki starfandi á ákveðnu svæði er félagsmönnum þar heimilt að stofna hana í samvinnu við framkvæmdaráð.
+     Einungis skal eitt svæðisbundið aðildarfélag starfa í hverju sveitarfélagi.
+     Þó skal heimilt að stofna aðildarfélag sem nær yfir heilt kjördæmi með aðkomu allra virkra aðildarfélaga innan þess kjördæmis.
+
+     Úrskurðarnefnd sker úr um ágreining um starfssvæði.
+
+ 7.  Aðildarfélagi er heimilt að skipta starfsemi sinni frekar.
+        Aðildarfélagi ber að gera framkvæmdaráði grein fyrir slíkri skiptingu að því leyti sem hún hefur áhrif á félagaskráningu.
 
 ## 11. Fjármál
 
@@ -227,28 +237,34 @@
 
 8.  Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
-## 12. Þáttaka í sveitarstjórnar- og alþingiskosningum
+## 12. Þáttaka í kosningum
 
-1.  Kjördæmisdeildir og sveitarfélagsdeildir skulu hafa umsjón með kosningabaráttu á sínu svæði.
+1.  Þátttaka í kosningum er á ábyrgð aðildarfélaga á kjörsvæði.
 
-2.  Framkvæmdaráði er heimilt að útbúa kosningastefnuskrá fyrir Alþingiskosningar út frá samþykktri stefnu.
+    Hafi aðildarfélögum innan kjördæmis til Alþingiskosninga ekki komist saman um annað skal starfa kjördæmisráð skipað einum fulltrúa fyrir hvert sveitarfélag þar sem Píratar hafa starfsemi.
 
-3.  Sveitarfélagsdeildum er heimilt að útbúa sína eigin kosningastefnuskrá fyrir sveitarstjórnarkosningar.
-    Kosningastefnuskráin skal ekki ganga gegn grunnstefnu félagsins.
+2.  Framkvæmdaráð annast samræmingu kosningabaráttu á landsvísu í samráði við aðildarfélögin.
+    Framkvæmdaráði er heimilt að útbúa kosningastefnuskrá fyrir Alþingiskosningar út frá samþykktri stefnu.
 
-4.  Sveitarfélagsdeildum er heimilt að stofna til kosningabandalaga með öðrum stjórnmálaflokkum.
+4.  Heimilt er að stofna til kosningabandalags við Alþingiskosningar.
 
-5.  Allir félagsmenn geta gefið kost á sér á framboðslista.
+    Aðildarfélögum er heimilt að veita samskonar heimild í lögum sínum hvað varðar sveitarstjórnarkosningar.
+
+5.  Allir félagsmenn, sem kjörgengir eru til þeirra kosninga sem um ræðir, geta gefið kost á sér á framboðslista.
 
 6.  Raðað skal á framboðslista eftir niðurstöðum STV forgangskosningar.
 
-## 13. Störf þingflokks og sveitarstjórnarflokka
+## 13. Störf þingflokks og annarra kjörinna fulltrúa
+
+1.  Þingmenn Pírata eru ábyrgir gagnvart félaginu í heild.
+
+    Sveitarstjórnarfulltrúar eru ábyrgir gagnvart því svæðisbundna aðildarfélagi sem starfar í sveitarfélagi þeirra.
 
 1.  Fundir þingflokka og sveitarstjórnarflokka mega vera lokaðir þrátt fyrir ákvæði 5. gr. séu málefnalegar ástæður fyrir því.
 
 2.  Haldi þingflokkur eða sveitarstjórnarflokkur lokaðan fund hefur hann tilkynningarskyldu til félagsmanna um efni fundarins og ástæður fyrir lokun.
 
-3.  Framkvæmdaráð getur óskað eftir því að kjörnir fulltrúar á Alþingi og/eða í sveitarstjórnum mæti á sinn fund eða á almenna félagsfundi.
+3.  Framkvæmdaráð getur óskað eftir því að kjörnir fulltrúar mæti á fund sinn.
 
 4.  Fulltrúar í þingflokkum og sveitarstjórnarflokkum skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
 
@@ -265,7 +281,7 @@
 
 2.  Framkvæmdaráð skal boða til fundarins með amk. viku fyrirfara og skal hann auglýstur samkvæmt reglum flokksins sem varða tilkynninga og auglýsingaskyldu fundarhalda.
 
-3.  Framkvæmdaráð sér um að skipuleggja fundinn ásamt kjörnum fulltrúum og málefnahópum séu þeir til staðar.
+3.  Framkvæmdaráð sér um að skipuleggja fundinn ásamt þingmönnum og málefnahópum séu þeir til staðar.
 
 4.  Á framfarafundi skal koma fram ítarleg úttekt á störfum þinghóps, framkvæmdaráðs og málefnahópa.
 
