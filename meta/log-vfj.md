@@ -1,22 +1,22 @@
 # Tillaga að lögum Pírata á Vestfjörðum
 
- 1. Nafn félagsins er Píratar á Vestfjörðum. Varnarþing þess er Héraðsdómur Vestfjarða.
+1.  Nafn félagsins er Píratar á Vestfjörðum. Varnarþing þess er Héraðsdómur Vestfjarða.
 
- 2. Félagið starfar sem aðildarfélag Pírata.
+2.  Félagið starfar sem aðildarfélag Pírata.
 
- 4. Starfssvæði félagsins eru sveitarfélögin Árneshreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær, Kaldrananeshreppur, Reykhólahreppur, Strandabyggð, Súðavíkurhreppur, Tálknafjarðarhreppur og Vesturbyggð.
+4.  Starfssvæði félagsins eru sveitarfélögin Árneshreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær, Kaldrananeshreppur, Reykhólahreppur, Strandabyggð, Súðavíkurhreppur, Tálknafjarðarhreppur og Vesturbyggð.
 
- 5. Starfstímabil félagsins er almanaksárið.
+5.  Starfstímabil félagsins er almanaksárið.
 
- 6. Félagsaðild er opin öllum sem geta átt félagsaðild að Pírötum, og hafa tengingu við starfssvæði félagsins.
+6.  Félagsaðild er opin öllum sem geta átt félagsaðild að Pírötum, og hafa tengingu við starfssvæði félagsins.
     Atkvæðisrétt í kosningum á framboðslista skulu þó aðeins hafa þeir sem lögheimili hafa í viðkomandi sveitarfélagi.
 
- 7. Framkvæmdaráð Pírata annast skráningu og staðfestingu félaga í samræmi við þær reglur sem almennt gilda um skráningu Pírata.
+7.  Framkvæmdaráð Pírata annast skráningu og staðfestingu félaga í samræmi við þær reglur sem almennt gilda um skráningu Pírata.
 
- 8. Firmaritun er í hönd meirihluta stjórnar félagsins.
+8.  Firmaritun er í hönd meirihluta stjórnar félagsins.
     Öll ráðstöfun eigna skal fara fram á grundvelli skriflegrar heimildar frá stjórn.
 
- 9. Fundarsköp allra fastra nefnda og ráða skulu vera opinber.
+9. Fundarsköp allra fastra nefnda og ráða skulu vera opinber.
 
     Fundir Pírata á Vestfjörðum skulu vera opnir áheyrnar.
 
@@ -93,13 +93,7 @@
 27. Aðalfundur skal haldinn fyrir lok marsmánaðar ár hvert.
     Til hans skal boðað með tveggja vikna fyrirvara hið minnsta.
 
-    Dagskrá aðalfundar skal ákveðin af stjórn, en á henni skulu vera hið minnsta eftirfarandi atriði:
-
-      - Ársskýrsla stjórnar.
-
-      - Staðfesting ársreiknings.
-
-      - Kjör stjórnar.
+    Dagskrá aðalfundar skal ákveðin af stjórn, en á henni skulu vera hið minnsta ársskýrsla stjórnar, staðfesting ársreiknings og kjör nýrrar stjórnar.
 
     Leitast skal við að tryggja að félagsmenn hafi aðgengi að aðalfundi án tillits til búsetu þeirra.
     Vegna ástands fjarskiptatenginga og samgangna á starfssvæði félagsins skal gefið rúmt tækifæri til að andmæla ákvörðunum aðalfundar.
