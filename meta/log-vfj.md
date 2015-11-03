@@ -4,12 +4,14 @@
 
 2.  Félagið starfar sem aðildarfélag Pírata.
 
+    Félagið mótar sér stefnu í opnu ferli og leitast við að framfylgja henni með þeim leiðum sem standa til boða.
+
 4.  Starfssvæði félagsins eru sveitarfélögin Árneshreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær, Kaldrananeshreppur, Reykhólahreppur, Strandabyggð, Súðavíkurhreppur, Tálknafjarðarhreppur og Vesturbyggð.
 
 5.  Starfstímabil félagsins er almanaksárið.
 
-6.  Félagsaðild er opin öllum sem geta átt félagsaðild að Pírötum, og hafa tengingu við starfssvæði félagsins.
-    Atkvæðisrétt í kosningum á framboðslista skulu þó aðeins hafa þeir sem lögheimili hafa í viðkomandi sveitarfélagi.
+6.  Aðild að félaginu er opin öllum þeim sem uppfylla kröfur um skráningu í Pírata og eiga lögheimili innan starfssvæðis þess við skráningu í félagið.
+    Stjórn félagsins er einnig heimilt að samþykkja aðild einstaklinga á grundvelli annarra tengsla við svæðið.
 
 7.  Framkvæmdaráð Pírata annast skráningu og staðfestingu félaga í samræmi við þær reglur sem almennt gilda um skráningu Pírata.
 
@@ -57,10 +59,13 @@
 
     Tilkynna ber um ástæður fyrir lokun til félagsmanna.
 
-20. Heimilt er að stofna svæðisbundnar félagsdeildir innan Pírata á Vestfjörðum með ályktun.
-    Starfssvæði félagsdeildar skal afmarkast af byggðasvæðum.
+20. Heimilt er að stofna svæðisbundnar félagsdeildir innan Pírata á Vestfjörðum.
 
-    Félagsdeildir geta haft eingöngu eyðibyggð sem starfssvæði sitt.
+    Félagsdeild skal stofnuð með einfaldri atkvæðagreiðslu meðal þerra sem ættu kost á aðild að deildinni.
+    Slík atkvæðagreiðsla skal fara fram óski minnst tveir félagsmenn þess skriflega við stjórn.
+    Skrifi helmingur væntanlegra deildarmeðlima eða fleiri undir slíka beiðni skal óþarft að láta atkvæðagreiðslu fara fram.
+
+    Félagsdeild getur haft eingöngu eyðibyggð sem starfssvæði sitt.
     Til slíkra félagsdeilda geta talist landeigendur í eyðibyggð og aðrir sem verulegra hagsmuna hafa að gæta af ráðstöfunum sveitarfélagsins í eyðibyggð.
 
 21. Félagsdeild hefur sjálfstæða stefnumótun.
@@ -72,7 +77,7 @@
 23. Nái félagsdeild yfir sveitarfélag í heild skal hún alfarið bera ábyrgð á þátttöku Pírata í sveitarstjórnarkosningum.
     Séu fleiri en ein félagsdeild í sveitarfélagi skal starfa sveitarfélagsnefnd.
 
-24. Í sveitarfélagsnefnd eiga sæti jafn margir fulltrúar frá hverri félagsdeild sem starfar innan sveitarfélagsins.
+    Í sveitarfélagsnefnd eiga sæti jafn margir fulltrúar frá hverri félagsdeild sem starfar innan sveitarfélagsins.
     Sveitarfélagsnefnd ber ábyrgð á þátttöku Pírata í sveitarstjórnarkosningum.
     Sveitarfélagsnefnd mótar einnig stefnu Pírata í málum sem vegna stjórnskipunar er óhjákvæmilega sameiginleg innan sveitarfélagsins.
 
@@ -84,21 +89,29 @@
     Félagsdeild er heimilt að fela sérstöku félagi starfsemi sína.
     Slíkt félag skal teljast aðildarfélag Pírata á Vestfjörðum.
 
-    Félagsdeild skal lögð niður samþykki þrír fjórðu hlutar þátttakenda í kosningu meðal Pírata á Vestfjörðum ályktun þess efnis.
+    Félagsdeild skal lögð niður samþykki þrír fjórðu hlutar þátttakenda í kosningu meðal meðlima félagsdeildarinnar ályktun þess efnis.
 
 26. Rekstrarafgangur félagsins skal sitja í sjóðum þess.
     Félagið lýtur reglum um fjármál stjórnmálasamtaka sem hluti af Pírötum.
     Bókhald þess skal birt opinberlega, sem hluti af bókhaldi Pírata.
 
-27. Aðalfundur skal haldinn fyrir lok marsmánaðar ár hvert.
+27. Aðalfundur skal haldinn hið síðasta 17. júní ár hvert.
     Til hans skal boðað með tveggja vikna fyrirvara hið minnsta.
+    Í fundarboði skal tilgreint hvar stjórn félagsins fundi, en heimilt er að fjölga fundarstöðum síðar.
 
     Dagskrá aðalfundar skal ákveðin af stjórn, en á henni skulu vera hið minnsta ársskýrsla stjórnar, staðfesting ársreiknings og kjör nýrrar stjórnar.
 
-    Leitast skal við að tryggja að félagsmenn hafi aðgengi að aðalfundi án tillits til búsetu þeirra.
-    Vegna ástands fjarskiptatenginga og samgangna á starfssvæði félagsins skal gefið rúmt tækifæri til að andmæla ákvörðunum aðalfundar.
+28. Leitast skal við að tryggja að félagsmenn hafi aðgengi að aðalfundi án tillits til búsetu þeirra.
+    Í því skyni skal heimilt að halda aðalfund samtímis á fleiri en einum stað innan starfssvæðisins.
+    Tryggja skal að hljóði og mynd sé miðlað á milli fundarstaða með þeim hætti að allir fundarmenn sjái og heyri til ræðumanns hverju sinni.
+    Ekki er heimilt að skipta fundi svo upp, að hann fari fram á fleiri en fimm stöðum.
 
-    Framkvæmdaráði Pírata skal heimilt að boða aðalfund í Pírötum á Vestfjörðum hafi aðalfundargögnum ekki verið skilað á tilskyldum tíma.
+    Á hverjum fundarstað skal vera fulltrúi fundarstjóra og fulltrúi fundarritara.
+    Skulu þeir sinna skyldum fundarstjóra og fundarritara gagnvart fundarmönnum á hverjum stað og miðla upplýsingum sín á milli.
+
+    Forsenda fyrir skiptingu fundar skal vera sú að ekki sé unnt að gera ráð fyrir að félagsmenn geti gert sér dagsferð til næsta fundarstaðar.
+
+29. Framkvæmdaráði Pírata skal heimilt að boða aðalfund í Pírötum á Vestfjörðum hafi aðalfundargögnum ekki verið skilað á tilskyldum tíma.
 
 28. Félagið telst ekki starfhæft ef félagar þess eru færri en þrír.
     Einnig telst félagið óstarfhæft ef enginn félaga hefur lögheimili á Vestfjörðum.
@@ -108,4 +121,4 @@
     Félaginu skal einnig slitið sé það óstarfhæft lengur en í hálft ár.
     Þá skal aðalfundi Pírata heimilt að slíta félaginu hafi aðalfundargögnum ekki verið skilað á tilskyldum tíma.
 
-30. Við félagsslit skulu eignir félagsins renna til Pírata, kt. 461212-0690.
+30. Við félagsslit skulu eignir félagsins renna til Pírata.
