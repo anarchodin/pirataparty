@@ -1,4 +1,4 @@
-# Tillaga að lögum Pírata á Vestfjörðum
+# Lög Pírata á Vestfjörðum
 
 1.  Nafn félagsins er Píratar á Vestfjörðum. Varnarþing þess er Héraðsdómur Vestfjarða.
 
