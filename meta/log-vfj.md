@@ -54,7 +54,7 @@
 18. Sveitarstjórnarmenn Pírata á Vestfjörðum skulu setja sér starfsreglur.
     Í þeim reglum skal kveðið á um aðferðir almennra flokksmanna til að hafa áhrif á starf sveitarstjórnarmanna.
 
-19. Þrátt fyrir ákvæði greinar [yadda] skal sveitarstjórnarmönnum heimilt að halda lokaðan fund.
+19. Þrátt fyrir ákvæði 8. greinar skal sveitarstjórnarmönnum heimilt að halda lokaðan fund.
     Skal slíkt einungis heimilt ef um er að ræða mál sem bundið er trúnaði lögum samkvæmt.
 
     Tilkynna ber um ástæður fyrir lokun til félagsmanna.
