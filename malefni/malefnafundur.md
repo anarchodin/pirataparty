@@ -20,3 +20,6 @@ daginn — og hversu margir þeir reynast. Þó má búast við að fundinum ver
 í verkefnahópa sem fjalli hver um sinn málaflokkinn. Þannig má sem dæmi nefna að
 allnokkrar samþykktar stefnur fjalla um efnahagsmál af ýmsu tagi, nokkrar koma
 að utanríkismálum, og annað sett fjallar um jafnréttismál.
+
+Allir sem áhuga hafa á að taka þátt í þessu starfi eru boðnir velkomnir á
+fundinn.
