@@ -1,5 +1,6 @@
 Helgina 5. og 6. mars næstkomandi verður haldinn vinnufundur um stefnumálastarf
-Pírata. Markmið fundarins er tvíþætt: Annars vegar verður farið yfir ýmis
+Pírata. Fundurinn verður haldinn frá kl. 9 til kl 5, í fundarsalnum Heklu á
+Hótel Sögu. Markmið fundarins er tvíþætt: Annars vegar verður farið yfir ýmis
 stefnumál sem samþykkt voru fyrir síðustu Alþingiskosningar, með það fyrir augum
 að uppfæra þær og endurnýja stuðning flokksins í ljósi mikillar fjölgunar
 meðlima. Hins vegar er ætlunin að á fundinum verði fjallað um uppbyggingu stefnu
