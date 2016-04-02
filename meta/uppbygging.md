@@ -26,8 +26,8 @@ Birgitta Jónsdóttir, Helgi Hrafn Gunnarsson og Jón Þór Ólafsson. Þeim til
 og trausts er Aðalheiður Ámundadóttir, sem formsins vegna er skráð sem
 aðstoðarmaður formanns flokksins en er í reynd starfsmaður flokksins á
 þingi. Hlutverk þingflokksins er að koma stefnu Pírata til framkvæmda í gegnum
-starf þingskins — endurskoðun laga, öflun upplýsinga og þar fram eftir
-götunum. Í núverandi skipa er þingflokkur Pírata eini hluti flokksins sem hefur
+starf þingsins — endurskoðun laga, öflun upplýsinga og þar fram eftir
+götunum. Í núverandi skipan er þingflokkur Pírata eini hluti flokksins sem hefur
 að fullu starfi að sinna málefnum hans.
 
 Þingflokkurinn er aftur á móti — eðlilega — of upptekinn við þingstörf til að
@@ -83,5 +83,32 @@ eru _ekki_ þeir sem minnst er á í lögum Pírata — eins og fjallað verður
 næsta kafla.
 
 ## Píratalög
+
+Í lögum Pírata er gert ráð fyrir tveimur mikilvægum þáttum í skipulagi Pírata
+til viðbótar, sem hafa því miður ekki verið virkir í starfi flokksins í
+reynd. Annars vegar er hér um að ræða skrifstofu flokksins – starfsfólk sem
+vinnur að rekstri flokksins og framfylgd innra starfs – en hins vegar
+svokallaðir _málefnahópar_, sem er ætlað að spila mikilvægt hlutverk í
+stefnumótunarferli flokksins. Auk þessara tveggja alfarið óvirku hluta
+skipulagsins eins og það er lagt fram í lögum Pirata eru tveir þættir sem vert
+er að skoða aðeins: Hvað aðildarfélögunum er ætlað að gera, og hvernig er gert
+ráð fyrir að deilur verði útkljáðar.
+
+Í lögum Pírata er hlutverk framkvæmdaráðs í raun afar þröngt skilgreint. Það ber
+endanlega ábyrgð á framkvæmd ákveðinna hluta, sér í lagi rekstur
+kosningakerfisins og félagatals flokksins. Þá ber ráðið hlutverk stjórnar félags
+gagnvart landslögum, sem m.a. þýðir að það þarf að tryggja að farið sé að
+landslögum varðandi bókhald og aðra svipaða hluti. Ráðinu er loks veitt heimild
+til þess að ráða framkvæmdastjóra fyrir flokkinn, og fela honum þætti af
+hlutverki framkvæmdaráðs. Framkvæmdastjóra er síðan heimilað að ráða aðra
+starfsmenn með samþykki framkvæmdaráðs.
+
+Við stofnun Pírata var gert ráð fyrir því að ríkisstyrkur í tengslum við setu
+flokksins á Alþingi yrði nægilegur til að unnt yrði að ráða þá þrjá til fjóra
+starfsmenn sem eru allt að því lágmarkskrafa fyrir starfsemi
+flokksins. Lauslegir útreikningar okkar eftir kosningar benda til þess að ef
+kjörfylgið hefði verið þó ekki nema um prósentustiginu hærra hefði það getað
+gengið upp. Í staðinn hafa þau hlutverk sem ákjósanlegast væri að yrði sinnt af
+starfsmönnum fallið til sjálfboðaliða úr framkvæmdaráði.
 
 ## Píratapæling
