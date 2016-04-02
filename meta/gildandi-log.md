@@ -269,10 +269,10 @@
 
     Úrskurðarnefnd sker úr um ágreining um starfssvæði.
 
- 7. Aðildarfélagi er heimilt að skipta starfsemi sinni frekar.
+7.  Aðildarfélagi er heimilt að skipta starfsemi sinni frekar.
     Aðildarfélagi ber að gera framkvæmdaráði grein fyrir slíkri skiptingu að því leyti sem hún hefur áhrif á félagaskráningu.
 
- 8. Aðildarfélögum skal heimilt að kveða á um í lögum sínum að kjörstjórn Pírata hafi yfirumsjón með persónukjöri á vegum aðildarfélagsins.
+8.  Aðildarfélögum skal heimilt að kveða á um í lögum sínum að kjörstjórn Pírata hafi yfirumsjón með persónukjöri á vegum aðildarfélagsins.
     Sé heimildin nýtt skal kjörstjórn Pírata þá taka að sér það hlutverk í samræmi við lög aðildarfélagsins.
     Nú er kosningarferli innan aðildarfélags í gangi þegar ný kjörstjórn Pírata er valin og skal hún þá taka við framkvæmd þeirra kosninga sem í gangi eru ásamt þeim gögnum er fyrri kjörstjórn höfðu borist.
 
