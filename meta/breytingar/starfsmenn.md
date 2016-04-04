@@ -7,10 +7,11 @@
     Starfslýsing stöðunnar skal fylgja tillögunni.
     Sé tillögunni hafnað er ráðinu óheimilt að skrifa undir ráðningarsamning.“
 
-2.  Grein 9.5 orðist svo: „Með samþykki meirihluta fundarmanna á almennum félagsfundi skal vísa tillögu um brottvikningu starfsmanns til rafrænna kosninga.
+2.  Grein 9.3 fellur brott. Tölusetning annarra liða breytist til samræmis.
+
+3.  Grein 9.5, sem verður grein 9.4, orðist svo: „Með samþykki meirihluta fundarmanna á almennum félagsfundi skal vísa tillögu um brottvikningu starfsmanns til rafrænna kosninga.
     Sé slík tillaga samþykkt í kosningakerfinu með meira en ⅔ hluta atkvæða er framkvæmdastjóra eða framkvæmdaráði skylt að segja viðkomandi starfsmanni upp störfum.“
 
-3.  Grein 9.3 fellur brott.
 
 ## Athugasemdir
 
