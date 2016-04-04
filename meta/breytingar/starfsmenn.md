@@ -16,7 +16,7 @@
 ## Athugasemdir
 
 Í lögum Pírata er eins og stendur einungis heimild fyrir framkvæmdaráð til að ráða framkvæmdastjóra til starfa.
-Þetta hefur valdið nokkrum erfiðleikum, þar sem fjárhagur flokksins leyfir varla ráðningu eins starfsmanns eins og stendur.
+Þetta hefur valdið nokkrum erfiðleikum.
 Fyrir síðustu kosningar til Alþingis var þetta leyst með því að ráða framkvæmdastjóra tímabundið.
 Sá framkvæmdastjóri gekk síðan frá samningum við kosningastjóra og aðra sem gerðu víkjandi verktökusamninga við flokkinn.
 
