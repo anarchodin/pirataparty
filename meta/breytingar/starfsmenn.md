@@ -3,12 +3,12 @@
 1.  Grein 9.2 orðist svo: „Framkvæmdastjóri skal hafa frumkvæði að ráðningu annars starfsfólk félagsins.
     Endanleg ráðning skal vera háð samþykki framkvæmdaráðs.
 
-    Sé framkvæmdastjóri ekki starfandi skal framkvæmdaráði heimilt að leggja tillögu um að ráðið skuli í aðra stöðu fyrir rafrænt kosningakerfi félagsins.
+    Sé framkvæmdastjóri ekki starfandi skal framkvæmdaráði heimilt að leggja tillögu fyrir rafrænt kosningakerfi félagsins um að ráðið skuli í aðra stöðu.
     Starfslýsing stöðunnar skal fylgja tillögunni.
     Sé tillögunni hafnað er ráðinu óheimilt að skrifa undir ráðningarsamning.“
 
-2.  Grein 9.5 orðist svo: „Leggja má tillögu um brottvikningu starfsmanns fram í gegnum rafrænt kosningakerfi félagsins.
-    Sé slík tillaga samþykkt með meira en ⅔ hluta atkvæða er framkvæmdastjóra eða framkvæmdaráði skylt að segja viðkomandi starfsmanni upp störfum.“
+2.  Grein 9.5 orðist svo: „Með samþykki meirihluta fundarmanna á almennum félagsfundi skal vísa tillögu um brottvikningu starfsmanns til rafrænna kosninga.
+    Sé slík tillaga samþykkt í kosningakerfinu með meira en ⅔ hluta atkvæða er framkvæmdastjóra eða framkvæmdaráði skylt að segja viðkomandi starfsmanni upp störfum.“
 
 3.  Grein 9.3 fellur brott.
 
@@ -36,7 +36,8 @@ Vert er að hafa í huga að framkvæmdaráð þarf ekki að fá staðfestingu f
 
 Krafa um staðfestingu félagsfundar á ráðningu er einnig felld á brott.
 Í stað hennar kemur heimild til vantraustsyfirlýsingar á starfsmann.
-Ef slík yfirlýsing er samþykkt í kosningakerfinu er skylt að segja viðkomandi upp störfum.
+Slíka tillögu þarf að samþykkja með einföldum meirihluta á félagsfundi, og fer hún þá áfram í kosningu í kosningakerfinu.
+Ef tillagan er svo samþykkt þar, með auknum meirihluta atkvæða, er skylt að segja viðkomandi upp störfum.
 Fer þar að sjálfsögðu eftir ákvæðum samninga og laga um uppsagnarfrest.
 Þessi breyting er gerð m.a. til að draga úr líkindunum á því að hægt sé að beita þessu úrræði í innanflokkserjum.
 
