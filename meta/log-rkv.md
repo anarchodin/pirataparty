@@ -130,59 +130,31 @@
 
 ## 8. Framboð
 
-1.  Löglegur félagsfundur samkvæmt 7. kafla má ákveða að félagið bjóði fram lista til sveitarstjórnarkosninga og þingkosninga á starfssvæðinu.
+1.  Félaginu er heimilt að stofna til kosningabandalags vegna sveitarstjórnakosninga með öðrum stjórnmálaflokkum.
+    Slíka ákvörðun má taka með atkvæðagreiðslu í rafrænu kosningakerfi Pírata.
 
-2.  Sé tekin ákvörðun um að félagið bjóði sig fram í tilteknum kosningum skal tilkynna ákvörðun félagsfundar samkvæmt grein 8.1 og auglýsa eftir framboðum.
-    Allir félagar sem kjörgengir eru við kosningarnar skulu eiga rétt á að bjóða sig fram á lista.
-    Rétt er og skylt að takmarka þann rétt ef landslög kveða á um að frambjóðendur þurfi að uppfylla tiltekin hæfnisskilyrði til að vera kjörgengir, hvort sem um sé að ræða lög þessi eða landslög.
+2.  Þegar ákvörðun hefur verið tekin um að félagið bjóði sig fram í tilteknum kosningum skal tilkynna hana á vettvangi félagsins svo skjótt sem auðið er.
+    Auglýst skal eftir framboðum innan tveggja vikna frá slikri ákvörðun.
 
-3.  Atkvæðagreiðslur um framboðslista skulu fara fram í rafrænu kosningakerfi Pírata sem standa skulu yfir í að minnsta kosti 7 sólarhringa en þó aldrei lengur en 10 sólarhringa.
-    Með atkvæðarétt skal fara eftir grein 6.4 og skal þeim félögum er atkvæðarétt hafa tilkynnt að slík framboðslistakosning sé í gangi.
+3.  Ef atkvæðagreiðslur um framboðslista fara fram í rafrænu kosningakerfi Pírata skal sú kosning standa yfir í að minnsta kosti 7 sólarhringa, en þó aldrei lengur en 10 sólarhringa.
+    Með atkvæðisrétt við kosningar á framboðslista skal fara eftir grein 6.4.
+    Skal þeim meðlimum er atkvæðisrétt hafa tilkynnt um framboðslistakosningu.
+
+    Undir sérstökum kringumstæðum getur stjórn félagsins þó ákveðið að allir sem hafa verið meðlimir í Pírötum í 30 daga eða lengur hafi atkvæðarétt í atkvæðagreiðslu um framboðslista fyrir kosningar til Alþingis.
+    Slíka ákvörðun þarf að staðfesta með að minnsta kosti 4/5 hluta sitjandi aðalmanna.
+    Slíka ákvörðun þarf að bóka sérstaklega í fundargerð ásamt greinargóðum rökstuðningi.
+
     Við framkvæmd kosninganna skal að öðru leyti fara eftir lögum Pírata um framboðslistakosningar.
 
-4.  Á löglegum félagsfundi er heimilt að leggja fram tillögu um að kjósa skuli aftur um framboðslista samkvæmt grein 8.3.
-    Sé sú tillaga samþykkt á þeim félagsfundi skal hún borin undir atkvæðagreiðslu í rafrænu kosningakerfi Pírata til samþykktar eða synjunar.
-    Hljóti hún samþykki þar skal auglýst eftir framboðum samkvæmt grein 8.2 og framboðslistakosning endurtekin samkvæmt grein 8.3.
+7.  Stjórn skipar tvo umboðsmenn fyrir framboðslista.
+    Að framboðslistakosningu lokinni bera umboðsmenn ábyrgð á að skila framboðsgögnum til kjörstjórnar.
 
-5.  Á löglegum félagsfundi er heimilt að leggja fram tillögu um að draga framboðslista félagsins til baka.
-    Sé sú tillaga samþykkt á þeim félagsfundi skal hún sett í atkvæðagreiðslu í rafrænu kosningakerfi Pírata til samþykktar eða synjunar.
-    Sé hún samþykkt í rafrænu kosningakerfi Pírata skal framboðslisti félagsins dreginn tilbaka hafi hann verið lagður fram en ella skal honum ekki skilað inn.
-    Það skal gjört án tafar en þó eigi fyrr en sólarhringur er liðinn frá því úrslitin voru opinberlega tilkynnt.
-    Hafi ágreiningi um lögmæti ákvörðunarinnar verið tilkynntur stjórn félagsins með formlegum hætti innan sólarhrings frá því úrslitin voru tilkynnt skal bíða með þá framkvæmd þar til endanleg niðurstaða málsins liggur fyrir.
-    Félagsfundur þar sem tillaga samkvæmt þessari grein er borin upp þarf að fara fram að minnsta kosti 21 sólarhring áður en auglýstur kjördagur hefst, fyrsti kjördagur ef þeir eru fleiri en einn.
-    Hafi framboðslisti verið dreginn til baka samkvæmt þessari grein er þó heimilt að kjósa annan framboðslista samkvæmt lögum þessum.
+10. Frambjóðendur til lista skulu, áður en framboðslistakosning hefst, skila umboðsmönnum þeim lágmarksupplýsingum um sig sem þarf til að skila inn framboði í þeim kosningum sem framboðslistinn er fyrir.
+    Hafi frambjóðandi ekki skilað inn nauðsynlegum upplýsingum fjórum sólarhringum áður en skila á framboðslista er stjórn félagsins heimilt að fella hann út.
+    Einnig mega þeir skila inn kynningu á sjálfum sér sem koma skal á framfæri til allra atkvæðisbærra aðila í félaginu áður en framboðslistakosning hefst.
 
-6.  Hafi ekki nógu margir frambjóðendur boðið sig fram á framboðslistann til að fylla þann lágmarksfjölda sem kveðið er á um í landslögum skal samt sem áður halda framboðslistakosninguna.
-    Stjórn félagsins er heimilt að raða í neðstu sæti listans eftir að kosning var haldin, upp að þeim hámarksfjölda sæta sem landslög kveða á um.
-    Notfæri hún sér þá heimild má hún eingöngu raða þeim sem hafa veitt henni skriflegt leyfi til þess ásamt því að uppfylla kjörskilyrði þau sem aðrir frambjóðendur á listann þurftu að uppfylla.
-
-7.  Þegar framboðslistakosningu lýkur skal stjórn félagsins skila framboðslista félagsins inn til þeirra yfirvalda sem taka við framboðslista fyrir kosningar áður en framboðsfresti lýkur.
-    Skal stjórn félagsins, eftir hennar bestu getu, sjá til þess að framboðslistinn uppfylli öll þau skilyrði sem sett eru svo framboðið sé gilt.
-    Sé framboðslistanum hafnað af yfirvöldum og félaginu gefið færi á að skila inn leiðréttum framboðslista eða að öðru leyti bæta úr annmörkum, skal hún hafa heimild til þess en ekki ganga lengra en nauðsyn krefur í því sambandi.
-    Er kemur að röðun frambjóðenda skal hún einvörðungu hafa heimild til þess að fella út frambjóðendur af listanum vegna skorts á kjörgengi og færa neðri frambjóðendur í efri sæti sem útfellingum nemur.
-    Hún skal eigi hafa heimild til þess að endurraða frambjóðendum með öðrum hætti.
-
-8.  Atkvæðagreiðslur samkvæmt þessum kafla skulu ætíð vera leynilegar.
-    Fari kosningar fram á félagsfundi skulu þær vera skriflegar og að öðru leyti fara þær eftir tilhögun félagsfunda samkvæmt lögum þessum.
-    Ákvarðanir samkvæmt þessum kafla má eingöngu taka þegar tilgreint er í fundarboði að tiltekin tillaga liggi fyrir.
-    Þegar niðurstaða félagsfundar liggur fyrir skal tilkynna hana á viðeigandi Píratavettvangi innan tveggja sólarhringa frá því fundi var slitið.
-    Framboðslistakosningar sem félagsfundur ákveður á grundvelli þessa kafla skulu hefjast innan tveggja mánaða frá því að tilkynning barst.
-
-9.  Ekki má halda atkvæðagreiðslu um framboð til sömu kosninga oftar en einu sinni á sama félagsfundi ef öll formskilyrði atkvæðagreiðslunnar hafi verið uppfyllt.
-    Sama gildir um tillögur um að kjósa aftur á framboðslista eða draga framboð tilbaka.
-    Sé ágreiningur um lögmæti atkvæðagreiðslunnar tekur fundarstjóri ákvörðun um lögmæti hennar en niðurstöðunni má áfrýja samkvæmt 9. kafla.
-    Sé atkvæðagreiðsla dæmd ólögmæt skal hún ógilduð sem og aðrar atkvæðagreiðslur sem niðurstaðan heimilaði.
-
-10. Frambjóðendur til lista skulu vera skráðir félagar þegar framboð þeirra er lagt fram, ellegar telst framboð þeirra ógilt.
-    Þeir þurfa, áður en framboðslistakosning hefst, að minnsta kosti að skila þeim lágmarksupplýsingum um sig sem þarf til að skila inn framboði í þeim kosningum sem framboðslistinn er fyrir.
-    Séu þeir staðsettir á starfssvæðinu þurfa þeir einnig að skila inn annarri pappírsvinnu áður en framboðslistakosning hefst innan Pírata, eins og undirritaðri yfirlýsingu, sem kjörstjórn krefst á grundvelli landslaga, ellegar þurfa þeir að skila þeim eins fljótt og auðið er.
-    Hafi frambjóðandi ekki skilað inn framangreindum upplýsingum tveim vikum áður en skila á framboðslista er stjórn félagsins heimilt að fella hann út af honum.
-    Þá mega þeir skila inn kynningu á sjálfum sér sem koma skal á framfæri til allra atkvæðisbærra aðila í félaginu áður en framboðslistakosning hefst.
-
-11. Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram á grundvelli greinar 8.7, til þess að óska eftir að hann sjálfur verði felldur út af listanum eða færður niður í lægra sæti að eigin vali.
-    Stjórn félagsins er rétt og skylt að verða við slíkri ósk og hliðra til öðrum frambjóðendum á lista í samræmi við hana.
-    Ef fleiri en einn frambjóðandi óskar þess að verða færður niður í tiltekið sæti er það á ábyrgð þeirra frambjóðenda og stjórnar að leysa úr því í sameiningu.
-    Stjórn skal þó hafa úrslitavald í þessum efnum.
+11. Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram á grundvelli greinar 8.7, til þess að óska eftir að verða felldur út af listanum eða færður niður í lægra sæti.
+    Umboðsmönnum framboðs er skylt að verða við slíkri ósk.
 
 ## 9. Ágreiningur
 
