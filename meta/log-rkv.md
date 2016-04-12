@@ -139,11 +139,13 @@
 3.  Með atkvæðisrétt við kosningar á framboðslista skal fara eftir grein 6.4.
     Skal þeim meðlimum er atkvæðisrétt hafa tilkynnt um framboðslistakosningu.
 
-4.  Ef atkvæðagreiðslur um framboðslista fara fram í rafrænu kosningakerfi Pírata skal sú kosning standa yfir í að minnsta kosti 7 sólarhringa, en þó aldrei lengur en 10 sólarhringa.
+4.  Stjórn félagsins getur ákveðið að allir meðlimir í Pírötum hafi atkvæðisrétt í framboðslistakosningu fyrir Alþingiskosningar.
+    Þó skulu tímamörk gr. 6.4 haldast.
 
-5.  Undir sérstökum kringumstæðum getur stjórn félagsins þó ákveðið að allir sem hafa verið meðlimir í Pírötum í 30 daga eða lengur hafi atkvæðarétt í atkvæðagreiðslu um framboðslista fyrir kosningar til Alþingis.
-    Slíka ákvörðun þarf að staðfesta með að minnsta kosti 4/5 hluta sitjandi aðalmanna.
-    Slíka ákvörðun þarf að bóka sérstaklega í fundargerð ásamt greinargóðum rökstuðningi.
+    Slíka ákvörðun þarf að staðfesta með að minnsta kosti ⅘ hluta sitjandi aðalmanna.
+    Sérstaklega ber að bóka greinargóðan rökstuðning fyrir slíkri ákvörðun.
+
+5.  Ef atkvæðagreiðslur um framboðslista fara fram í rafrænu kosningakerfi Pírata skal sú kosning standa yfir í að minnsta kosti 7 sólarhringa, en þó aldrei lengur en 10 sólarhringa.
 
 6.  Skipa skal tvo umboðsmenn fyrir framboðslista.
     Umboðsmenn bera ábyrgð á móttöku framboða til framboðslistakosninga.
