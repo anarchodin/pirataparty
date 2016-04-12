@@ -140,21 +140,19 @@
     Með atkvæðisrétt við kosningar á framboðslista skal fara eftir grein 6.4.
     Skal þeim meðlimum er atkvæðisrétt hafa tilkynnt um framboðslistakosningu.
 
-    Undir sérstökum kringumstæðum getur stjórn félagsins þó ákveðið að allir sem hafa verið meðlimir í Pírötum í 30 daga eða lengur hafi atkvæðarétt í atkvæðagreiðslu um framboðslista fyrir kosningar til Alþingis.
+4.  Undir sérstökum kringumstæðum getur stjórn félagsins þó ákveðið að allir sem hafa verið meðlimir í Pírötum í 30 daga eða lengur hafi atkvæðarétt í atkvæðagreiðslu um framboðslista fyrir kosningar til Alþingis.
     Slíka ákvörðun þarf að staðfesta með að minnsta kosti 4/5 hluta sitjandi aðalmanna.
     Slíka ákvörðun þarf að bóka sérstaklega í fundargerð ásamt greinargóðum rökstuðningi.
 
-    Við framkvæmd kosninganna skal að öðru leyti fara eftir lögum Pírata um framboðslistakosningar.
-
-7.  Stjórn skipar tvo umboðsmenn fyrir framboðslista.
+5.  Skipa skal tvo umboðsmenn fyrir framboðslista.
+    Umboðsmenn bera ábyrgð á móttöku framboða til framboðslistakosninga.
     Að framboðslistakosningu lokinni bera umboðsmenn ábyrgð á að skila framboðsgögnum til kjörstjórnar.
 
-10. Frambjóðendur til lista skulu, áður en framboðslistakosning hefst, skila umboðsmönnum þeim lágmarksupplýsingum um sig sem þarf til að skila inn framboði í þeim kosningum sem framboðslistinn er fyrir.
-    Hafi frambjóðandi ekki skilað inn nauðsynlegum upplýsingum fjórum sólarhringum áður en skila á framboðslista er stjórn félagsins heimilt að fella hann út.
-    Einnig mega þeir skila inn kynningu á sjálfum sér sem koma skal á framfæri til allra atkvæðisbærra aðila í félaginu áður en framboðslistakosning hefst.
+6.  Hafi frambjóðandi ekki skilað inn nauðsynlegum upplýsingum fjórum sólarhringum áður en skila á framboðslista er heimilt að fella hann út.
 
-11. Frambjóðandi hefur rétt, allt fram að þeim tíma sem framboðslisti er lagður fram á grundvelli greinar 8.7, til þess að óska eftir að verða felldur út af listanum eða færður niður í lægra sæti.
-    Umboðsmönnum framboðs er skylt að verða við slíkri ósk.
+7.  Frambjóðendur mega skila kynningu á sjálfum sér, sem koma skal á framfæri við alla atkvæðisbæra aðila í félaginu.
+
+8.  Við framkvæmd kosninganna skal að öðru leyti fara eftir lögum Pírata um framboðslistakosningar.
 
 ## 9. Ágreiningur
 
