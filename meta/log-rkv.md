@@ -130,11 +130,11 @@
 
 ## 8. Framboð
 
-1.  Félaginu er heimilt að stofna til kosningabandalags vegna sveitarstjórnakosninga með öðrum stjórnmálaflokkum.
+1.  Félaginu er heimilt að stofna til kosningabandalags vegna sveitarstjórnarkosninga með öðrum stjórnmálaflokkum.
     Slíka ákvörðun má taka með atkvæðagreiðslu í rafrænu kosningakerfi Pírata.
 
 2.  Þegar ákvörðun hefur verið tekin um að félagið bjóði sig fram í tilteknum kosningum skal tilkynna hana á vettvangi félagsins svo skjótt sem auðið er.
-    Auglýst skal eftir framboðum innan tveggja vikna frá slikri ákvörðun.
+    Auglýst skal eftir framboðum innan tveggja vikna frá slíkri ákvörðun.
 
 3.  Ef atkvæðagreiðslur um framboðslista fara fram í rafrænu kosningakerfi Pírata skal sú kosning standa yfir í að minnsta kosti 7 sólarhringa, en þó aldrei lengur en 10 sólarhringa.
     Með atkvæðisrétt við kosningar á framboðslista skal fara eftir grein 6.4.
@@ -148,7 +148,7 @@
     Umboðsmenn bera ábyrgð á móttöku framboða til framboðslistakosninga.
     Að framboðslistakosningu lokinni bera umboðsmenn ábyrgð á að skila framboðsgögnum til kjörstjórnar.
 
-6.  Hafi frambjóðandi ekki skilað inn nauðsynlegum upplýsingum fjórum sólarhringum áður en skila á framboðslista er heimilt að fella hann út.
+6.  Hafi frambjóðandi ekki skilað inn nauðsynlegum upplýsingum fjórum sólarhringum áður en skila á framboðslista er heimilt að fella hann út af listanum.
 
 7.  Frambjóðendur mega skila kynningu á sjálfum sér, sem koma skal á framfæri við alla atkvæðisbæra aðila í félaginu.
 
