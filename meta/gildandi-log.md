@@ -238,8 +238,13 @@
 
 3.  Laun framkvæmdastjóra og annars starfsfólks skal ekki vera hærra en þingfararkaup.
 
-4.  Með samþykki meirihluta fundarmanna á almennum félagsfundi skal vísa tillögu um brottvikningu starfsmanns til rafrænna kosninga.
-    Sé slík tillaga samþykkt í kosningakerfinu með meira en ⅔ hluta atkvæða er framkvæmdastjóra eða framkvæmdaráði skylt að segja viðkomandi starfsmanni upp störfum.
+4.  Með samþykki ⅔ fundarmanna á almennum félagsfundi skal vísa tillögu um brottvikningu starfsmanns til rafrænna kosninga.
+    Koma þarf fram í fundarboði félagsfundar að tillaga um slíkt verði á dagskrá fundarins.
+    Aldrei má bera slíka tillögu fram nema að undangenginni tilraun til sáttamiðlunar trúnaðarráðs skv. kafla 8.a..
+    Trúnaðarráði skal þó heimilt að vísa tillögu um brottrekstur til rafrænnar kosningar án félagsfundar.
+
+    Sé tillagan samþykkt í kosningakerfinu með meira en ⅔ hluta atkvæða er framkvæmdastjóra eða framkvæmdaráði skylt að segja viðkomandi starfsmanni upp störfum.
+    Framkvæmdaráði eða framkvæmdastjóra er heimilt að segja starfsfólki upp störfum án aðkomu félagsfundar.
 
 5.  Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
