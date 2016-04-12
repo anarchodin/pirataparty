@@ -136,23 +136,27 @@
 2.  Þegar ákvörðun hefur verið tekin um að félagið bjóði sig fram í tilteknum kosningum skal tilkynna hana á vettvangi félagsins svo skjótt sem auðið er.
     Auglýst skal eftir framboðum innan tveggja vikna frá slíkri ákvörðun.
 
-3.  Ef atkvæðagreiðslur um framboðslista fara fram í rafrænu kosningakerfi Pírata skal sú kosning standa yfir í að minnsta kosti 7 sólarhringa, en þó aldrei lengur en 10 sólarhringa.
-    Með atkvæðisrétt við kosningar á framboðslista skal fara eftir grein 6.4.
+3.  Með atkvæðisrétt við kosningar á framboðslista skal fara eftir grein 6.4.
     Skal þeim meðlimum er atkvæðisrétt hafa tilkynnt um framboðslistakosningu.
 
-4.  Undir sérstökum kringumstæðum getur stjórn félagsins þó ákveðið að allir sem hafa verið meðlimir í Pírötum í 30 daga eða lengur hafi atkvæðarétt í atkvæðagreiðslu um framboðslista fyrir kosningar til Alþingis.
+4.  Ef atkvæðagreiðslur um framboðslista fara fram í rafrænu kosningakerfi Pírata skal sú kosning standa yfir í að minnsta kosti 7 sólarhringa, en þó aldrei lengur en 10 sólarhringa.
+
+5.  Undir sérstökum kringumstæðum getur stjórn félagsins þó ákveðið að allir sem hafa verið meðlimir í Pírötum í 30 daga eða lengur hafi atkvæðarétt í atkvæðagreiðslu um framboðslista fyrir kosningar til Alþingis.
     Slíka ákvörðun þarf að staðfesta með að minnsta kosti 4/5 hluta sitjandi aðalmanna.
     Slíka ákvörðun þarf að bóka sérstaklega í fundargerð ásamt greinargóðum rökstuðningi.
 
-5.  Skipa skal tvo umboðsmenn fyrir framboðslista.
+6.  Skipa skal tvo umboðsmenn fyrir framboðslista.
     Umboðsmenn bera ábyrgð á móttöku framboða til framboðslistakosninga.
     Að framboðslistakosningu lokinni bera umboðsmenn ábyrgð á að skila framboðsgögnum til kjörstjórnar.
 
-6.  Hafi frambjóðandi ekki skilað inn nauðsynlegum upplýsingum fjórum sólarhringum áður en skila á framboðslista er heimilt að fella hann út af listanum.
+7.  Hafi frambjóðandi ekki skilað inn nauðsynlegum upplýsingum fjórum sólarhringum áður en skila á framboðslista er heimilt að fella hann út af listanum.
 
-7.  Frambjóðendur mega skila kynningu á sjálfum sér, sem koma skal á framfæri við alla atkvæðisbæra aðila í félaginu.
+8.  Frambjóðendur mega skila kynningu á sjálfum sér, sem koma skal á framfæri við alla atkvæðisbæra aðila í félaginu.
 
-8.  Við framkvæmd kosninganna skal að öðru leyti fara eftir lögum Pírata um framboðslistakosningar.
+9.  Ákvarðanir skv. þessum kafla má taka með ákvörðun stjórnar eða með ályktun félagsfundar nema annað sé sérstaklega tilgreint.
+    Staðfesta skal ályktun félagsfundar í rafrænu kosningakerfi Pírata.
+
+10. Við framkvæmd kosninganna skal að öðru leyti fara eftir lögum Pírata um framboðslistakosningar.
 
 ## 9. Ágreiningur
 
