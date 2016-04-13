@@ -130,9 +130,8 @@
 
 ## 8. Framboð
 
-1.  Félaginu er heimilt að stofna til kosningabandalags vegna sveitarstjórnarkosninga með öðrum stjórnmálaflokkum.
-    Slíka ákvörðun má taka með atkvæðagreiðslu í rafrænu kosningakerfi Pírata.
-
+1.  Félagið má ákveða að stofna til kosningabandalags vegna sveitarstjórnarkosninga með öðrum stjórnmálaflokkum.
+    
 2.  Þegar ákvörðun hefur verið tekin um að félagið bjóði sig fram í tilteknum kosningum skal tilkynna hana á vettvangi félagsins svo skjótt sem auðið er.
     Auglýst skal eftir framboðum innan tveggja vikna frá slíkri ákvörðun.
 
