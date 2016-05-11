@@ -7,6 +7,7 @@
     Félagið mótar sér stefnu í opnu ferli og leitast við að framfylgja henni með þeim leiðum sem standa til boða.
 
 4.  Starfssvæði félagsins eru sveitarfélögin Árneshreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær, Kaldrananeshreppur, Reykhólahreppur, Strandabyggð, Súðavíkurhreppur, Tálknafjarðarhreppur og Vesturbyggð.
+    Verði einhver þessara sveitarfélaga sameinuð skal hið nýja sveitarfélag sjálfkrafa teljast til starfssvæðis félagsins.
 
 5.  Starfstímabil félagsins er almanaksárið.
 
@@ -18,14 +19,13 @@
 8.  Firmaritun er í hönd meirihluta stjórnar félagsins.
     Öll ráðstöfun eigna skal fara fram á grundvelli skriflegrar heimildar frá stjórn.
 
-9. Fundarsköp allra fastra nefnda og ráða skulu vera opinber.
+9.  Fundarsköp allra fastra nefnda og ráða skulu vera opinber.
 
     Fundir Pírata á Vestfjörðum skulu vera opnir áheyrnar.
 
 10. Stjórn skal skipuð þremur félagsmönnum og skulu þeir titlaðir formaður, ritari, og gjaldkeri.
-    Stjórn er kjörin í einu lagi með hlutfallsbundinni forgangskosningu, STV.
-    Condorcet-sigurvegari kosninganna, ef hann er til, skal vera formaður.
-    Að öðru leyti skiptir stjórn með sér verkum.
+    Stjórn er kjörin í einu lagi á aðalfundi með hlutfallsbundinni forgangskosningu, STV.
+    Stjórn skiptir með sér verkum.
 
     Stjórnarmenn tilnefna varamenn sína.
 
@@ -44,7 +44,7 @@
     Stefna Pírata á Vestfjörðum er ákveðin með ályktunum.
     Tilgreint skal í ályktun um stefnu að hún sé stefnumótandi.
 
-15. Stefnumótun Pírata fylgir að öðru leyti reglum um stefnumótun Pírata.
+15. Stefnumótun Pírata á Vestfjörðum fylgir að öðru leyti reglum um stefnumótun Pírata.
 
 16. Félaginu er heimilt með ályktun að stofna til kosningabandalags með öðrum stjórnmálaflokkum.
     Heimilt er að taka slíka ákvörðun í hverju sveitarfélagi fyrir sig.
@@ -91,6 +91,12 @@
 
     Félagsdeild skal lögð niður samþykki þrír fjórðu hlutar þátttakenda í kosningu meðal meðlima félagsdeildarinnar ályktun þess efnis.
 
+25. Píratar á Vestfjörðum skipa fulltrúa í kjördæmisráð Pírata í Norðvesturkjördæmi.
+    Í sveitarfélögum þar sem virk félagsdeild starfar skal félagsdeild eða sveitarfélagsnefnd skipa fulltrúa.
+    Í sveitarfélögum þar sem virkir Píratar eru, en engin félagsdeild, skal stjórn skipa fulltrúa.
+
+    Heimilt er að víkja frá þessari skipan fulltrúa í kjördæmisráð með samhljóða ályktunum allra félagsdeilda og stjórnar.
+
 26. Rekstrarafgangur félagsins skal sitja í sjóðum þess.
     Félagið lýtur reglum um fjármál stjórnmálasamtaka sem hluti af Pírötum.
     Bókhald þess skal birt opinberlega, sem hluti af bókhaldi Pírata.
@@ -100,6 +106,16 @@
     Í fundarboði skal tilgreint hvar stjórn félagsins fundi, en heimilt er að fjölga fundarstöðum síðar.
 
     Dagskrá aðalfundar skal ákveðin af stjórn, en á henni skulu vera hið minnsta ársskýrsla stjórnar, staðfesting ársreiknings og kjör nýrrar stjórnar.
+
+27. Á aðalfundi skal heimilt að bera fram tillögur til breytinga á lögum félagsins.
+    Skulu slíkar tillögur liggja fyrir á vettvangi félagsins tveimur vikum fyrir aðalfund hið minnsta.
+    Komi tillögur að lagabreytingum fram eftir að fundarboð aðalfundar hefur verið sent út skal einnig senda tilkynningu um fyrirliggjandi lagabreytingar þegar frestur rennur út.
+
+    Einnig skal heimilt að leggja tillögur til lagabreytinga fram í gegnum kosningakerfi félagsins.
+    Skulu tillögur liggja fyrir hið minnsta jafn lengi áður en atkvæðagreiðsla hefst.
+    Að öðru leyti skal kveðið á um meðferð slíkra tillagna í fundarsköpum kosningakerfis.
+
+    Tillögur til lagabreytingar þurfa að hljóta stuðning meira en ⅔ atkvæða í atkvæðagreiðslu.
 
 28. Leitast skal við að tryggja að félagsmenn hafi aðgengi að aðalfundi án tillits til búsetu þeirra.
     Í því skyni skal heimilt að halda aðalfund samtímis á fleiri en einum stað innan starfssvæðisins.
@@ -111,7 +127,7 @@
 
     Forsenda fyrir skiptingu fundar skal vera sú að ekki sé unnt að gera ráð fyrir að félagsmenn geti gert sér dagsferð til næsta fundarstaðar.
 
-29. Framkvæmdaráði Pírata skal heimilt að boða aðalfund í Pírötum á Vestfjörðum hafi aðalfundargögnum ekki verið skilað á tilskyldum tíma.
+29. Aðalfundi Pírata skal heimilt að boða aðalfund í Pírötum á Vestfjörðum hafi aðalfundargögnum ekki verið skilað á tilskyldum tíma.
 
 28. Félagið telst ekki starfhæft ef félagar þess eru færri en þrír.
     Einnig telst félagið óstarfhæft ef enginn félaga hefur lögheimili á Vestfjörðum.
