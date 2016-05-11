@@ -19,8 +19,6 @@
 
 4.  Félagið reynir að leggja fram framboðslista til Alþingis- og sveitarstjórnarkosninga.
 
-    Félagið skal leitast við að bjóða fram undir listabókstafnum P, bjóði það fram undir sínu eigin nafni.
-
 5.  Skrifstofa félagsins og starfsmenn þess hafa engin réttindi eða stöðu umfram aðra félagsmenn.
     Hlutverk þeirra er að greiða fyrir stefnumótun og starfi félagsins.
 
@@ -53,8 +51,10 @@
     Þó skal framkvæmdaráði heimilt að veita einstaklingi sem ekki hefur íslenska kennitölu aðild að félaginu berist sérstaklega ósk um það með sérstökum rökstuðningi.
 
 2.  Félagar skulu velja sér notandanafn.
-    Notandanafn skal vera innan við 64 tákn, samanstanda af latneskum bókstöfum utan hinna séríslensku, tölustöfum og bandstriki, hefjast með bókstaf eða tölustaf og ekki ljúka með bandstriki.
-    Ekki skal heimilt að nota notandanafn sem greinist frá  öðru eingöngu með notkun há- eða lágstafa.
+    Notandanafn skal vera innan við 64 tákn, samanstanda af latneskum bókstöfum utan hinna séríslensku, tölustöfum og bandstriki, og hvorki hefjast né ljúka með bandstriki.
+    Ekki skal heimilt að nota notandanafn sem greinist frá öðru eingöngu með notkun há- eða lágstafa.
+
+    Notendanöfnum er úthlutað varanlega, og skal saman notendanafn ætíð vísa til sama einstaklings.
 
 3.  Framkvæmdaráð heldur utan um félagatal.
     Í félagatal skulu skráðar upplýsingar um alla félaga.
@@ -71,16 +71,15 @@
 
 7.  Skráningar og úrsagnir skulu gilda frá tímasetningu staðfestingar á móttöku.
 
-8.  Félagsmaður telst virkur hafi hann tekið þátt í almennri kosningu á undangengnum mánuði.
+8.  Félagsmaður telst virkur sé liðinn skemmri tími en mánuður frá því að hann tók síðast þátt í almennri kosningu.
 
 9.  Ákveða má félagsgjöld á aðalfundi.
 
 ## 5. Aðalfundur
 
-1.  Á aðalfundi er mörkuð stefna félagsins og teknar ákvarðanir um starf þess, skipulag og fjárreiður.
+1.  Á aðalfundi eru teknar ákvarðanir um starf félagsins, skipulag þess og fjárreiður.
 
-2.  Aðalfundur skal vera haldinn fyrir lok janúarmánaðar ár hvert.
-    Tilkynna skal áætlaða dagsetningu aðalfundar í síðasta lagi 1. desember.
+2.  Aðalfundur skal vera haldinn fyrir lok septembermánaðar ár hvert.
 
 3.  Endanlegt fundarboð til aðalfundar með áætlaðri dagskrá og staðsetningu skal sent öllum félagsmönnum með ábyggilegum hætti minnst þremur vikum fyrir auglýsta dagsetningu.
 
@@ -89,7 +88,7 @@
     Þeir skila- og framboðsfrestir sem ekki hafa runnið út þegar frestun á sér stað framlengjast.
 
 5.  Félaginu er heimilt að álykta um boðun auka-aðalfundar.
-    Styðji ⅓ hluti félagsmanna ályktunartillögu um slíkt skal hún teljast samþykkt.
+    Styðji ⅓ hluti virkra félagsmanna ályktunartillögu um slíkt skal hún teljast samþykkt.
 
     Framkvæmdaráð skal boða til auka-aðalfundar innan þriggja vikna frá samþykkt ályktunar þess efnis.
 
@@ -130,7 +129,7 @@
 
 2.  Ályktanir um stefnu skulu tilgreina að þær séu stefnumótandi.
 
-3.  Stefna skal ætíð hafa tilvísun í fyrri ályktanir félagsins.
+3.  Stefna skal ætíð hafa tilvísun í fyrri stefnur félagsins.
 
 4.  Ályktun um stefnu skal fylgja greinargerð með skýringum og rökstuðningi.
 
@@ -163,6 +162,7 @@
 1.  Framkvæmdaráð annast almenna stjórn og rekstur félagsins.
 
 2.  Í framkvæmdaráði sitja sjö manns, sem skipta með sér verkum.
+    Skipa skal hið minnsta stöður formanns, ritara, gjaldkera og alþjóðafulltrúa.
 
 3.  Félagsmenn aðrir en kjörnir fulltrúar, efstu tveir menn hvers framboðslista og starfsmenn geta átt sæti í framkvæmdaráði.
     Þó skal enginn sitja meira en tvö ár samfleytt í framkvæmdaráði.
@@ -170,8 +170,6 @@
 4.  Fimm meðlimir framkvæmdaráðs eru kjörnir í almennri kosningu, og fimm til vara.
     Kosning skal fara fram með STV forgangskosningu.
     Kosningin skal standa í viku og ljúka við upphaf aðalfundar.
-
-    Condorcet sigurvegari kosninganna, sé hann til, skal vera formaður framkvæmdaráðs.
 
 6.  Tveir meðlimir framkvæmdaráðs eru valdir með slembivali, og tveir til vara.
     Ekki skal velja félagsmenn sem áttu sæti í framkvæmdaráði á undanförnu ári eða hafa hlotið kjör til þess framkvæmdaráðs sem verið er að skipa.
@@ -210,7 +208,7 @@
 
 ## 11. Starfsmenn
 
-1.  Framkvæmdaráð er heimilt að ráða framkvæmdastjóra fyrir hönd félagsins ef fjárreiður leyfa.
+1.  Framkvæmdaráði er heimilt að ráða framkvæmdastjóra fyrir hönd félagsins ef fjárreiður leyfa.
 
 2.  Framkvæmdastjóri skal hafa frumkvæði um að ráða annað starfsfólk félagsins, en þær skulu háðar samþykki framkvæmdaráðs.
 
