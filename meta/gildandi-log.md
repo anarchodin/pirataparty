@@ -47,16 +47,16 @@
 
 1.  Aðalfundur skal haldinn á hverju ári, fyrir lok septembermánaðar.
 
-2.  Á aðalfundi er mörkuð stefna félagsins og teknar ákvarðanir um starf þess, skipulag og fjárreiður.
+2.  Á aðalfundi eru teknar ákvarðanir um starf félagsins, skipulag þess og fjárreiður.
 
 3.  Boða skal til aðalfundar með þriggja vikna fyrirvara og með öruggum hætti.
 
 4.  Framkvæmdaráð hefur heimild til að fresta aðalfundi eða aukaaðalfundi um viku frá auglýstri dagsetningu, en aðeins í eitt skipti.
 
-5.  ⅓ hluti félagsmanna getur hvenær sem er farið skriflega fram á að boðað sé til auka-aðalfundar.
-    Framkvæmdaráð skal þá boða til hans innan þriggja vikna.
+5.  Samþykki minnst ⅓ hluti virkra félagsmanna ályktun um boðun auka-aðalfundar skal framkvæmdaráð boða til hans innan þriggja vikna frá samþykkt ályktunarinnar.
 
 6.  Framkvæmdaráð skipuleggur dagskrá aðalfundar.
+    Hafi ályktun um boðun auka-aðalfundar innifalið skilyrði um dagskrá fundarins skal ráðið þó fylgja þeim.
 
 7.  Fundargögn aðalfundar skulu afhent félagsmönnum með rafrænum hætti samhliða fundarboði.
     Verði fundargögn til eftir að boðað er til fundar skal afhenda félagsmönnum uppfærðan fundarboðspakka minnst þremur sólarhringum fyrir aðalfund.
@@ -93,28 +93,36 @@
     Kjörstjórn ber ábyrgð á framkvæmd kosningar í framkvæmdaráð ásamt öðrum hlutverkum sem henni er falið með lögum.
     Ákvarðanir hennar skulu teknar með óháðum og óhlutdrægum hætti.
 
-## 5. Fundarhald (félagsfundir)
+## 5. Fundahald, kosningakerfi og ályktanir
 
 1.  Fundir félagsins skulu að jafnaði vera opnir öllum.
 
 2.  Allir hafa málfrelsi á fundum.
 
-3.  Fundarmenn geta lagt fram tillögur á fundum.
-
-4.  Kosningar á fundum skulu að jafnaði fara fram með handauppréttingu.
-
-5.  Sé óskað eftir því má fundarstjóri ákveða að hafa atkvæðagreiðslur skriflegar eða rafrænar.
-
-6.  Sé óskað eftir því, og 5% fundarmanna en aldrei færri en þrír samþykkja það, skulu kosningar vera leynilegar.
-
-7.  Í kosningum á fundum eru ákvarðanir teknar með einföldum meirihluta.
-
-8.  Fundarsköp allra reglulegra ráða og nefnda á vegum Pírata skulu skilgreind og aðgengileg félagsmönnum.
+3.  Fundarsköp allra reglulegra ráða og nefnda á vegum Pírata skulu skilgreind og aðgengileg félagsmönnum.
     Liggi ekki fyrir skilgreind fundarsköp á fundi Pírata skal stuðst við Robert’s Rules of Order.
 
-9.  Boða skal til almennra félagsfunda með viku fyrirvara með óvefengjanlegum hætti.
+4.  Á vegum félagsins skal rekið kosningakerfi sem allir félagsmenn hafa aðgang að.
+    Með almennri kosningu í lögum þessum er átt við kosningar í kerfi þessu sem allir félagsmenn hafa kosningarétt í.
+    Auk almennra kosninga er heimilt er að nýta kosningakerfi Pírata til kosninga innan aðildarfélaga.
 
-## 6. Lög og stefnumál
+    Framkvæmdaráð ber ábyrgð á rekstri og umsjón kosningakerfisins.
+
+    Líta skal á kosningakerfið sem standandi félagsfund og setja því sérstök fundarsköp.
+
+5.  Virkir félagsmenn í kosningakerfinu teljast þeir sem tekið hafa þátt í almennri kosningu eða stutt mál til kosningar innan 30 daga.
+    Við ákvörðun fjölda virkra félagsmanna skal telja með þá félagsmenn sem tóku þátt í viðkomandi kosningum.
+
+6.  Félagið getur ályktað í gegnum kosningakerfi sitt.
+    Ályktanir teljast samþykktar ef þær ná einföldum meirihluta og minnst 10% virkra félagsmanna tók þátt í kosningunni.
+
+7.  Tillögur að ályktunum skulu lagðar fram á kosningakerfi félagsins.
+    Hljóti þær stuðning minnst 1% virkra félagsmanna skal formælenda ályktunarinnar heimilt að hefja almenna kosningu.
+    Tillögur sem lagðar eru fram samkvæmt sérstakri heimild í lögum þessum þurfa ekki slíkan stuðning.
+
+    Almenn kosning skal standa yfir í 6 daga.
+
+## 6a. Lög
 
 1.  Þessi lög eru öll lög félagsins, en þeim má breyta á aðalfundi með ⅔ hlutum atkvæða.
     Einnig má breyta þeim með 2/3 atkvæða á kosningakerfi flokksins.
@@ -124,28 +132,39 @@
 
 3.  Tillögur að breytingum á lögum eða grunnstefnu skulu liggja opinberlega fyrir á vettvangi flokksins minnst tveimur vikum áður en kosið skal um þær.
 
-4.  Stefnu má ákveða með einföldum meirihluta í gegnum rafræn kosningakerfi félagsins.
+## 6b. Stefnumótun
+
+1.  Stefna félagsins er ákvörðuð með ályktunum.
+
+2.  Ályktanir um stefnu skulu tilgreina að þær séu stefnumótandi.
+
+3.  Stefna skal ætíð hafa tilvísun í fyrri stefnur félagsins.
+
+4.  Ályktun um stefnu skal fylgja greinargerð með skýringum og rökstuðningi.
 
 5.  Stefna má aldrei ganga gegn grunnstefnu félagsins.
+    Úrskurðarnefnd er heimilt að ógilda ályktun sem gengur gegn grunnstefnu.
 
-6.  Stefna skal alltaf rökstudd og hafa tilvísun í fyrri ákvarðanir félagsins.
+## 6c. Málefnavinna
 
-7.  Með samþykki 5% fundarmanna á almennum félagsfundi, en lágmark þriggja, skal vísa tillögu að stefnu til rafrænna kosninga.
+1.  Málefnahópar safna upplýsingum varðandi afmarkað málefni.
+    Starfstíma málefnahóps eru einnig sett ákveðin takmörk.
 
-8.  Að jafnaði skulu rafrænar kosningar standa yfir í 6 daga.
+2.  Málefnahóp er sett stofnskrá með ályktun.
+    Í stofnskrá skal koma fram hvaða málefni hópnum ber að fjalla um, hvaða tímamörk honum eru ætluð og hverju honum ber að skila af sér.
 
-9.  Sé þörf á skjótri ákvarðanatöku má leggja til, með samþykki framkvæmdaráðs, hraðmeðferð á tillögu, en hún stendur þá yfir í sólarhring.
-    Slíka ákvörðun þarf að staðfesta með hefðbundnum kosningum sem fara af stað samtímis.
-    Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar.
+    Málefnahóp er heimilt að bera fram tillögu að ályktun til að breyta stofnskrá sinni.
 
-10. Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál.
-    Tilkynna skal félagsmönnum um stofnun vinnuhóps.
+3.  Öllum er heimilt að taka þátt í málefnahóp.
+    Fundir þeirra skulu vera opnir og auglýstir á vettvangi félagsins.
 
-11. Öllum er heimilt að taka þátt í málefnahóp, fundir þeirra skulu alltaf vera opnir.
+4.  Starfsmenn og kjörnir fulltrúar skulu vera málefnahópum innan handar við upplýsingaöflun.
+    Málefnahópi er heimilt að krefjast þess að kjörnir fulltrúar beiti lögbundnum réttindum stöðu sinnar til aðstoðar við upplýsingaöflun.
 
-12. Málefnahópur skal velja sér ábyrgðarmann og fundarritara.
+5.  Málefnahópur skal velja sér ábyrgðarmann og fundarritara.
 
-13. Málefnahópur skilar reglulega skýrslu til félagsmanna um störf sín, í það minnsta þegar starf hópsins lýkur.
+6.  Málefnahópur skilar skýrslu um störf sín og þær upplýsingar sem aflað var.
+    Málefnahópur skipar ritstjóra fyrir skýrsluna.
 
 ## 7. Framkvæmdaráð
 
@@ -209,7 +228,7 @@
 ## 8.a. Trúnaðarráð
 
 1. Framkvæmdaráð tekur við tilnefningum og skipar þrjá einstaklinga í trúnaðarráð.
-   Skipun ráðsins skal staðfest á gildum félagsfundi.
+   Skipun ráðsins skal staðfest með ályktun.
 
 2. Trúnaðarráð hefur með höndum sáttamiðlun og aðstoð þegar upp kemur ágreiningur eða annar vandi í samskiptum og starfi félagsmanna.
 
@@ -235,7 +254,7 @@
 
 4.  Laun framkvæmdastjóra og annara starfsfólks skal ekki vera hærra en þingfararkaup.
 
-5.  Fastráðning starfsfólks er háð samþykki félagsfundar.
+5.  Fastráðning starfsfólks skal staðfest með ályktun.
 
 6.  Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
