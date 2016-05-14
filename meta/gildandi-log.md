@@ -334,16 +334,27 @@
 
 3.  Haldi þingflokkur eða sveitarstjórnarflokkur lokaðan fund hefur hann tilkynningarskyldu til félagsmanna um efni fundarins og ástæður fyrir lokun.
 
-4.  Framkvæmdaráð getur óskað eftir því að kjörnir fulltrúar mæti á fund sinn.
+4.  Framkvæmdaráð getur óskað eftir því að þingmenn mæti á fund sinn.
 
-5.  Fulltrúar í þingflokkum og sveitarstjórnarflokkum skiptast á að gegna þeim embættum sem skylt er að þau taki sér, eigi lengur en til árs í senn.
+5.  Þingflokkur Pírata skal kjósa sér formann.
+    Þingflokksformaður Pírata kemur fram fyrir hönd Pírata gagnvart stofnunum Alþingis, jafnt formlegum sem óformlegum.
+    Hann starfar í umboði og á ábyrgð þingmanna flokksins.
 
-6.  Tilheyri þingflokkur minni hluta á Alþingi og geti ekki fengið aðstoðarmann til starfa á þinginu nema með því að hafa formann, skal einn þingmaður gegna embætti formanns félagsins, eitt þing í senn.
-    Skal hann slembivalinn eftir þingkosningar, en gangi það í keðju þar eftir.
-    Hann hafi ekki aukin pólitísk völd og afþakki formannsálag á þingfararkaup.
-    Þingflokksformaður getur ekki einnig verið formaður félagsins.
+    Þingflokki Pírata er skylt að skilgreina nánar hvernig kjöri formanns er háttað, kjörtímabil hans og hámarksfjölda kjörtímabila í starfsreglum sínum.
 
-7.  Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
+6.  Að afstöðnum kosningum til Alþingis skal kjósa formann Pírata úr hópi þingmanna flokksins.
+    Formaður er kjörinn til sex mánaða í senn, og skal kosning endurtekin á sex mánaða fresti án undantekninga.
+    Skulu allir þingmenn að undanskildum formanni þingflokks vera í kjöri.
+    Sami þingmaður getur þó ekki verið formaður lengur en tvö ár á hverju fjögurra ára tímabili.
+
+    Formaður skal kjörinn með forgangskosningu með Schulze-aðferð og skulu allir félagsmenn hafa kosningarétt.
+
+7.  Formaður Pírata er tengiliður annarra stofnana flokksins við þingflokk.
+    Hann er áheyrnarfulltrúi í framkvæmdaráði.
+    Formaður Pírata hefur ekki aukin pólitísk völd og ber að afþakka formannsálag á þingfararkaup.
+
+8.  Aðstoðarmanni formanns Pírata ber að veita öllum þingmönnum Pírata aðstoð við þingskyldur þeirra eftir fremsta megni.
+    Séu aðrir starfsmenn ráðnir fyrir hönd þingflokksins skal þó forgangur aðstoðarmanns vera að tryggja formanni tóm til að sinna samskiptum við aðrar einingar flokksins.
 
 ## 14. Framfarafundur
 
