@@ -340,14 +340,13 @@
     Þingflokksformaður Pírata kemur fram fyrir hönd Pírata gagnvart stofnunum Alþingis, jafnt formlegum sem óformlegum.
     Hann starfar í umboði og á ábyrgð þingmanna flokksins.
 
-    Þingflokki Pírata er skylt að skilgreina nánar hvernig kjöri formanns er háttað, kjörtímabil hans og hámarksfjölda kjörtímabila í starfsreglum sínum.
+    Þingflokki Pírata er skylt að skilgreina nánar hvernig kjöri formanns er háttað og hve lengi einstaklingur getur að hámarki setið sem formaður.
 
-6.  Að afstöðnum kosningum til Alþingis skal kjósa formann Pírata úr hópi þingmanna flokksins.
-    Formaður er kjörinn til sex mánaða í senn, og skal kosning endurtekin á sex mánaða fresti án undantekninga.
+6.  Kjósa skal formann Pírata úr hópi þingmanna flokksins.
     Skulu allir þingmenn að undanskildum formanni þingflokks vera í kjöri.
     Sami þingmaður getur þó ekki verið formaður lengur en tvö ár á hverju fjögurra ára tímabili.
 
-    Formaður skal kjörinn með forgangskosningu með Schulze-aðferð og skulu allir félagsmenn hafa kosningarétt.
+    Formaður skal kjörinn með forgangskosningu með Schulze-aðferð og skulu allir félagsmenn hafa atkvæðisrétt.
 
 7.  Formaður Pírata er tengiliður annarra stofnana flokksins við þingflokk.
     Hann er áheyrnarfulltrúi í framkvæmdaráði.
@@ -355,6 +354,12 @@
 
 8.  Aðstoðarmanni formanns Pírata ber að veita öllum þingmönnum Pírata aðstoð við þingskyldur þeirra eftir fremsta megni.
     Séu aðrir starfsmenn ráðnir fyrir hönd þingflokksins skal þó forgangur aðstoðarmanns vera að tryggja formanni tóm til að sinna samskiptum við aðrar einingar flokksins.
+
+9.  Kjör formanns og þingflokksformanns skal fara fram árlega.
+    Skal kosningin tímasett svo að hlutverkaskipti geti átt sér stað við setningu reglulegs Alþingis.
+
+    Þó skal kjörið einnig fara fram þegar að loknum kosningum til Alþingis.
+    Líði minna en hálft ár frá kosningum fram að setningu næsta reglulega Alþingis skal ekki kjörið að nýju.
 
 ## 14. Framfarafundur
 
