@@ -299,12 +299,15 @@
 ## 12. Þáttaka í kosningum
 
 1.  Þátttaka í kosningum er á ábyrgð aðildarfélaga á kjörsvæði.
+    Ábyrgðaraðila ber að setja skýrar reglur um framboð Pírata.
 
     Hafi aðildarfélögum innan kjördæmis til Alþingiskosninga ekki komist saman um annað skal starfa kjördæmisráð skipað einum fulltrúa fyrir hvert sveitarfélag þar sem Píratar hafa starfsemi.
+    Kjördæmisráð, sé það starfandi, ber alfarið ábyrgð á þátttöku Pírata í kosningum til Alþingis innan kjördæmis síns.
 
     Starfi engin aðildarfélög innan kjördæmis til alþingiskosninga er framkvæmdaráði heimilt að standa fyrir kjöri á lista fyrir það kjördæmi.
-    Skulu allir félagsmenn Pírata hafa kosningarétt í slíku kjöri.
-    Þeir sem raðast í fimm efstu sæti listans bera ábyrgð á þátttöku hans í kosningum.
+    Einnig skal framkvæmdaráði heimilt að standa fyrir kjöri á lista ef aðildarfélög innan kjördæmis til alþingiskosninga hafa ekki framkvæmt slíkt kjör mánuði áður en framboðsfrestur rennur út.
+    Skulu allir félagsmenn Pírata hafa kosningarétt í kjöri á vegum framkvæmdaráðs.
+    Þeir sem raðast í fimm efstu sæti slíks lista bera ábyrgð á þátttöku hans í kosningum.
 
 2.  Framkvæmdaráð annast samræmingu kosningabaráttu á landsvísu í samráði við aðildarfélögin.
     Framkvæmdaráði er heimilt að útbúa kosningastefnuskrá fyrir Alþingiskosningar út frá samþykktri stefnu.
@@ -322,13 +325,19 @@
 
     Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
+    Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista.
+    Þó skal skráður félagsmaður sem getur sýnt fram á að hann muni að óbreyttu hafa kosningarétt við þær kosningar sem listinn er til ætíð hafa atkvæðisrétt.
+
 6.  Framkvæmdaráð skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
 
 ## 13. Störf þingflokks og annarra kjörinna fulltrúa
 
-1.  Þingmenn Pírata eru ábyrgir gagnvart félaginu í heild.
+1.  Þingmenn Pírata skulu starfa í þágu alls félagsins.
+    Þingmönnum ber ekki aðeins að taka tillit til stefnu heildarfélagsins, heldur einnig til stefnu aðildarfélaga sem málin varða.
 
-    Sveitarstjórnarfulltrúar eru ábyrgir gagnvart því svæðisbundna aðildarfélagi sem starfar í sveitarfélagi þeirra.
+    Sveitarstjórnarfulltrúar skulu starfa í þágu þess svæðisbundna aðildarfélags sem starfar í sveitarfélagi þeirra.
+    Svæðisbundin aðildarfélög skilgreina með hvaða hætti sveitarstjórnarfulltrúar eiga að taka mið af stefnumálum félagsins.
+    Stefna heildarfélagsins skal þó aðeins geta talist bindandi á sveitarstjórnarfulltrúa ef engin stefna aðildarfélags fjallar um málefnið.
 
 2.  Fundir þingflokka og sveitarstjórnarflokka mega vera lokaðir þrátt fyrir ákvæði 5. gr. séu málefnalegar ástæður fyrir því.
 
