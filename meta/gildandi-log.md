@@ -304,7 +304,7 @@
     Hafi aðildarfélögum innan kjördæmis til Alþingiskosninga ekki komist saman um annað skal starfa kjördæmisráð skipað einum fulltrúa fyrir hvert sveitarfélag þar sem Píratar hafa starfsemi.
     Kjördæmisráð, sé það starfandi, ber alfarið ábyrgð á þátttöku Pírata í kosningum til Alþingis innan kjördæmis síns.
 
-    Starfi engin aðildarfélög innan kjördæmis til alþingiskosninga er framkvæmdaráði heimilt að standa fyrir kjöri á lista fyrir það kjördæmi.
+2.  Starfi engin aðildarfélög innan kjördæmis til alþingiskosninga er framkvæmdaráði heimilt að standa fyrir kjöri á lista fyrir það kjördæmi.
     Einnig skal framkvæmdaráði heimilt að standa fyrir kjöri á lista ef aðildarfélög innan kjördæmis til alþingiskosninga hafa ekki framkvæmt slíkt kjör mánuði áður en framboðsfrestur rennur út.
     Skulu allir félagsmenn Pírata hafa kosningarétt í kjöri á vegum framkvæmdaráðs.
     Þeir sem raðast í fimm efstu sæti slíks lista bera ábyrgð á þátttöku hans í kosningum.
@@ -325,8 +325,13 @@
 
     Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
-    Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista.
-    Félagsmaður, sem getur sýnt fram á að hann muni að óbreyttu hafa kosningarétt við þær kosningar sem listinn er til og er skráður þegar tímasetning kosningar á framboðslista er tilkynnt, skal þó ætíð hafa atkvæðisrétt.
+6.  Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista.
+    Í slíkum reglum er heimilt að kveða á um skilyrði atkvæðisréttar í kosningu á framboðslista.
+
+    Félagsmaður, sem getur sýnt fram á að hann muni að óbreyttu hafa kosningarétt við þær kosningar sem listinn er til, skal ætíð hafa atkvæðisrétt.
+    Þó má gera kröfu um að félagsmaður hafi verið skráður um ákveðið tímabil áður en kosning fer fram.
+
+7.  Kosið skal á framboðslista innan fjögurra mánuða fyrir kjördag þeirra kosninga sem listinn er til.
 
 6.  Framkvæmdaráð skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
 
