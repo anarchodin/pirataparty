@@ -326,7 +326,7 @@
     Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
     Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista.
-    Þó skal skráður félagsmaður sem getur sýnt fram á að hann muni að óbreyttu hafa kosningarétt við þær kosningar sem listinn er til ætíð hafa atkvæðisrétt.
+    Félagsmaður, sem getur sýnt fram á að hann muni að óbreyttu hafa kosningarétt við þær kosningar sem listinn er til og er skráður þegar tímasetning kosningar á framboðslista er tilkynnt, skal þó ætíð hafa atkvæðisrétt.
 
 6.  Framkvæmdaráð skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
 
