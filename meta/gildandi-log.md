@@ -53,8 +53,12 @@
 
 4.  Framkvæmdaráð hefur heimild til að fresta aðalfundi eða aukaaðalfundi um viku frá auglýstri dagsetningu, en aðeins í eitt skipti.
 
-5.  ⅓ hluti félagsmanna getur hvenær sem er farið skriflega fram á að boðað sé til auka-aðalfundar.
-    Framkvæmdaráð skal þá boða til hans innan þriggja vikna.
+5.  Á félagsfundi samkvæmt 5. kafla er hægt að leggja fram tillögu um að boða til auka-aðalfundar. Slík tillaga skal koma fram í fundarboði.
+    Sé hún samþykkt á félagsfundinum skal hún sett í kosningu í kosningakerfi Pírata til samþykktar eða synjunar. Sé hún samþykkt með að minnsta kosti 2/3 atkvæða í kosningakerfi Pírata er framkvæmdaráði skylt að boða auka-aðalfund eins fljótt og mögulegt er.
+    Framkvæmdaráð hefur einnig sjálfstæða heimild til að boða til auka-aðalfundar.
+
+    Á auka-aðalfundi er ekki skylt að taka á dagskrá alla þá liði sem lög þessi segja fyrir um á aðalfundi.
+    Hafi tillaga um boðun auka-aðalfundar innifalið skilyrði um dagskrá fundarins skal ráðið þó fylgja þeim.
 
 6.  Framkvæmdaráð skipuleggur dagskrá aðalfundar.
 
