@@ -45,7 +45,7 @@
 
 ## 4. Aðalfundur
 
-1.  Aðalfundur skal haldinn á hverju ári, fyrir lok septembermánaðar.
+1.  Aðalfundur skal haldinn á hverju ári, fyrir lok septembermánaðar, og telst fundurinn einnig vera almennur félagsfundur.
 
 2.  Á aðalfundi er mörkuð stefna félagsins og teknar ákvarðanir um starf þess, skipulag og fjárreiður.
 
