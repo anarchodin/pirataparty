@@ -160,7 +160,7 @@
     Þó skal enginn sitja meira en tvö ár samfleytt í framkvæmdaráði.
 
 4.  Fimm meðlimir framkvæmdaráðs eru kjörnir í kosningu á aðalfundi, og fimm til vara.
-    Kosning skal fara fram með STV forgangskosningu.
+    Atkvæði og niðurstöður eru talin með Schulze talningaraðferðinni.
 
 5.  Tveir meðlimir framkvæmdaráðs eru valdir með slembivali, og tveir til vara.
     Allir félagsmenn sem hafa ekki verið slembivaldir í framkvæmdaráð eru í slembivalinu.
