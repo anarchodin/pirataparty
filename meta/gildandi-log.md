@@ -299,8 +299,10 @@
 ## 12. Þáttaka í kosningum
 
 1.  Þátttaka í kosningum er á ábyrgð aðildarfélaga á kjörsvæði.
+    Ábyrgðaraðila ber að setja skýrar reglur um framboð Pírata.
 
     Hafi aðildarfélögum innan kjördæmis til Alþingiskosninga ekki komist saman um annað skal starfa kjördæmisráð skipað einum fulltrúa fyrir hvert sveitarfélag þar sem Píratar hafa starfsemi.
+    Kjördæmisráð, sé það starfandi, ber alfarið ábyrgð á þátttöku Pírata í kosningum til Alþingis innan kjördæmis síns.
 
     Starfi engin aðildarfélög innan kjördæmis til alþingiskosninga er framkvæmdaráði heimilt að standa fyrir kjöri á lista fyrir það kjördæmi.
     Skulu allir félagsmenn Pírata hafa kosningarétt í slíku kjöri.
@@ -322,7 +324,13 @@
 
     Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
-6.  Framkvæmdaráð skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
+6.  Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista.
+    Í slíkum reglum er heimilt að kveða á um skilyrði atkvæðisréttar í kosningu á framboðslista.
+
+    Félagsmaður, sem getur sýnt fram á að hann muni að óbreyttu hafa kosningarrétt við Alþingiskosningar, skal ætíð hafa atkvæðisrétt í kosningum á framboðslista í kjördæmi sínu.
+    Þó má gera kröfu um að félagsmaður hafi verið skráður um ákveðið tímabil áður en kosning fer fram.
+
+7.  Framkvæmdaráð skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
 
 ## 13. Störf þingflokks og annarra kjörinna fulltrúa
 
