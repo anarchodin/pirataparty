@@ -430,6 +430,9 @@
 
     Nægi fjöldi frambjóðenda að þessum breytingum loknum ekki lögbundnu lágmarki fyrir fullskipaðan framboðslista er ábyrgðaraðila listans heimilt að bæta nöfnum þeirra sem það samþykkja í sæti á eftir þeim sem kjörnir hafa verið á framboðslistann.
 
+    Þrátt fyrir fyrstu málsgrein skal ábyrgðaraðilum tveggja eða fleiri kjördæma heimilt að halda sameiginlega framboðslistakosningu fyrir kjördæmi sín.
+    Skal þá raðað á framboðslista kjördæmanna þannig að frambjóðendum sameiginlegu kosningarinnar sé dreift á framboðslistana í sem mestu samræmi við úrslit þeirra.
+
 6.  Ábyrgðaraðila er heimilt að setja frekari reglur um framkvæmd kjörs á framboðslista.
     Í slíkum reglum er heimilt að kveða á um skilyrði atkvæðisréttar í kosningu á framboðslista.
 
