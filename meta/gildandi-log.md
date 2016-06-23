@@ -227,17 +227,26 @@
 
 ## 9. Starfsmenn
 
-1.  Framkvæmdaráð er heimilt að ráða framkvæmdastjóra fyrir hönd félagsins ef fjárreiður leyfa.
+1.  Framkvæmdaráði er heimilt að ráða framkvæmdastjóra fyrir hönd félagsins ef fjárreiður leyfa.
 
-2.  Framkvæmdastjóri skal hafa frumkvæði um að ráða almennt starfsfólk félagsins, en framkvæmdaráð skal samþykkja allar ráðningar.
+2.  Framkvæmdastjóri skal hafa frumkvæði að ráðningu annars starfsfólk félagsins.
+    Endanleg ráðning skal vera háð samþykki framkvæmdaráðs.
 
-3.  Félagsdeildum er heimilt að ráða til sín starfsfólk í tengslum við kosningabaráttu eða önnur tímabundin verkefni.
+    Sé framkvæmdastjóri ekki starfandi skal framkvæmdaráði heimilt að leggja tillögu fyrir rafrænt kosningakerfi félagsins um að ráðið skuli í aðra stöðu.
+    Starfslýsing stöðunnar skal fylgja tillögunni.
+    Sé tillögunni hafnað er ráðinu óheimilt að skrifa undir ráðningarsamning.
 
-4.  Laun framkvæmdastjóra og annara starfsfólks skal ekki vera hærra en þingfararkaup.
+3.  Laun framkvæmdastjóra og annars starfsfólks skal ekki vera hærra en þingfararkaup.
 
-5.  Fastráðning starfsfólks er háð samþykki félagsfundar.
+4.  Með samþykki ⅔ fundarmanna á almennum félagsfundi skal vísa tillögu um brottvikningu starfsmanns til rafrænna kosninga.
+    Slík tillaga skal koma fram í fundarboði.
+    Aldrei má bera slíka tillögu fram nema að undangenginni tilraun til sáttamiðlunar trúnaðarráðs skv. kafla 8.a..
+    Trúnaðarráði skal þó heimilt að vísa tillögu um brottrekstur til rafrænnar kosningar án félagsfundar.
 
-6.  Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
+    Sé tillagan samþykkt í kosningakerfinu með meira en ⅔ hluta atkvæða er framkvæmdastjóra eða framkvæmdaráði skylt að segja viðkomandi starfsmanni upp störfum.
+    Framkvæmdaráði eða framkvæmdastjóra er heimilt að segja starfsfólki upp störfum án aðkomu félagsfundar.
+
+5.  Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
 ## 10. Aðildarfélög
 
