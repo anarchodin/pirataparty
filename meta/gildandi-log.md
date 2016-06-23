@@ -334,9 +334,12 @@
 
 ## 13. Störf þingflokks og annarra kjörinna fulltrúa
 
-1.  Þingmenn Pírata eru ábyrgir gagnvart félaginu í heild.
+1.  Þingmenn Pírata skulu starfa í þágu alls félagsins.
+    Þingmönnum ber ekki aðeins að taka tillit til stefnu heildarfélagsins, heldur einnig til stefnu aðildarfélaga sem málin varða.
 
-    Sveitarstjórnarfulltrúar eru ábyrgir gagnvart því svæðisbundna aðildarfélagi sem starfar í sveitarfélagi þeirra.
+    Sveitarstjórnarfulltrúar skulu starfa í þágu þess svæðisbundna aðildarfélags sem starfar í sveitarfélagi þeirra.
+    Svæðisbundin aðildarfélög skilgreina með hvaða hætti sveitarstjórnarfulltrúar eiga að taka mið af stefnumálum félagsins.
+    Stefna heildarfélagsins skal aðeins geta talist leggja skyldur á sveitarstjórnarfulltrúa ef engin stefna aðildarfélags fjallar um málefnið.
 
 2.  Fundir þingflokka og sveitarstjórnarflokka mega vera lokaðir þrátt fyrir ákvæði 5. gr. séu málefnalegar ástæður fyrir því.
 
