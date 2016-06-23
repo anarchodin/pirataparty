@@ -77,7 +77,7 @@
 
 12. Kjörstjórn tekur við framboðum í öll embætti, og tryggir að allir frambjóðendur fái sanngjarna kynningu.
 
-13. Frambjóðendur í embætti skulu skila inn hagsmunaskráningu til kjörstjórnar, tveimur vikum fyrir aðalfund.
+13. Frambjóðendur í embætti skulu skila inn hagsmunaskráningu til kjörstjórnar, einni viku fyrir aðalfund.
 
 14. Slembivaldir framkvæmdaráðsmenn skulu skila inn hagsmunaskráningu eigi síðar en tveimur vikum eftir val þeirra.
 
