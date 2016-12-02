@@ -138,19 +138,14 @@
 
 8.  Að jafnaði skulu rafrænar kosningar standa yfir í 6 daga.
 
-9.  Sé þörf á skjótri ákvarðanatöku má leggja til, með samþykki framkvæmdaráðs, hraðmeðferð á tillögu, en hún stendur þá yfir í sólarhring.
-    Slíka ákvörðun þarf að staðfesta með hefðbundnum kosningum sem fara af stað samtímis.
-    Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar.
-    Þó þarf ekki staðfestingarkosningu til að staðfesta yfirlýsingu félagsins í samræmi við lög um upplýsingaráð, enda er þar ekki um lög eða stefnu félagsins að ræða.
-
-10. Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál.
+9.  Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál.
     Tilkynna skal félagsmönnum um stofnun vinnuhóps.
 
-11. Öllum er heimilt að taka þátt í málefnahóp, fundir þeirra skulu alltaf vera opnir.
+10. Öllum er heimilt að taka þátt í málefnahóp, fundir þeirra skulu alltaf vera opnir.
 
-12. Málefnahópur skal velja sér ábyrgðarmann og fundarritara.
+11. Málefnahópur skal velja sér ábyrgðarmann og fundarritara.
 
-13. Málefnahópur skilar reglulega skýrslu til félagsmanna um störf sín, í það minnsta þegar starf hópsins lýkur.
+12. Málefnahópur skilar reglulega skýrslu til félagsmanna um störf sín, í það minnsta þegar starf hópsins lýkur.
 
 ## 7. Framkvæmdaráð
 
@@ -303,9 +298,10 @@
     Á þann fund þarf að boða alla aðalmenn og varamenn, en það má vera með skemmri fyrirvara en viku.
     Ákvarðanir þess fundar teljast þó ekki gildar nema þær hljóti aukinn meirihluta.
 
-17. Komi upp mál þar sem brýnt þykir að skýra afstöðu félagsins í mikilvægu málefni, þar sem ekki liggur fyrir skýr stefna, hefur upplýsingaráðs heimild til þess að skrifa yfirlýsingu um málið sem senda skal framkvæmdaráði með ósk um að framkvæmdaráð setji það í neyðarkosningu.
-    Geri framkvæmdaráð það og hljóti yfirlýsingin samþykki í kosningu má gefa hana út í nafni félagsins.
+17. Komi upp mál þar sem brýnt þykir að skýra afstöðu félagsins í mikilvægu málefni, þar sem ekki liggur fyrir skýr stefna, hefur upplýsingaráðs heimild til þess að vísa yfirlýsingu um málið til atkvæðagreiðslu í kosningakerfi.
+    Hljóti yfirlýsingin samþykki í kosningu má gefa hana út í nafni félagsins.
     Aukinn meirihluta Upplýsingaráðs þarf til að fara þessa leið.
+    Yfirlýsing af þessu tagi telst ekki samþykkt stefna Pírata, þó hún hljóti samþykki í kosningakerfinu.
 
 18. Takist upplýsingaráði ekki að koma sér saman um úrræði í mikilvægu máli samkvæmt grein 9.13 eða 9.16 er því skylt að gefa yfirlýsingu þess efnis að það óski eftir að það mál fari í stefnumótunarferli innan flokksins.
     Ráðið skal koma því á framfæri við þá hópa innan flokksins sem málefnið varðar, svo sem aðildarfélög, málefnahópa, framkvæmdaráð eða grasrót, með auglýsingu á vefsvæði pírata og öðrum viðeigandi hætti, svo sem með tölvupósti, boðun félagsfundar eða með auglýsingu á netmiðlum eftir því sem við á.
@@ -378,6 +374,10 @@
 12. Almennur félagsfundur eða Aðalfundur geta krafið umboðsmenn um skýrslu um stöðu verkefnis og skal henni skilað innan þriggja vikna frá þvi að hennar er krafist.
 
 13. Hægt er að afturkalla erindisbréf umboðsmanna fyrir þau tímamörk sem bréfið kveður á um með sama hætti og þau eru búin til, sbr. 1. gr. og öðlast afturköllun gildi með sama hætti og erindisbréf, sbr. 5. gr.
+
+14. Heimilt er að veita umboðsmönnum rétt til að vísa málum til atkvæðagreiðslu í kosningakerfi.
+    Um fyrirkomulag slíkrar atkvæðagreiðslu skal tilgreint í embættisbréfi.
+    Feli atkvæðagreiðsla í sér breytingu á samþykktri stefnu skal hún þó standa minnst jafn lengi og almenn atkvæðagreiðsla um stefnumál.
 
 ## 12. Aðildarfélög
 
@@ -498,6 +498,19 @@
     Þingflokksformaður getur ekki einnig verið formaður félagsins.
 
 7.  Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
+
+8.  Krefjist þingstörf eða mál nátengd þeim þess að ákvarðanir séu teknar í skyndi, sem gætu orkað tvímælis út frá samþykktum stefnum, skal þingflokki heimilt að boða til atkvæðagreiðslu í kosningakerfi félagsins.
+    Orðalag tillögu sem hlýtur slíka meðferð skal vera einföld já-eða-nei spurning.
+    2/3 þingflokks skulu samþykkja að leggja fram slíka tillögu, og skal tekið fram í kosningakerfinu hvaða þingmenn samþykktu hana.
+    Atkvæðagreiðslan skal standa í sólarhring.
+    Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar.
+
+    Sé tillaga sem gengur gegn samþykktri stefnu samþykkt með minna en 3/4 atkvæða skal hún staðfest með annarri atkvæðagreiðslu, viku síðar.
+    Sú atkvæðagreiðsla skal standa í viku.
+    Sé tillagan staðfest skal stefnan sem um ræðir felld úr gildi.
+    Að öðru leyti hefur tillaga skv. þessari grein, hvort sem hún er samþykkt eða henni hafnað, ekki áhrif á samþykkta stefnu.
+
+    Veita má sveitarstjórnarflokki samsvarandi heimild í lögum aðildarfélags.
 
 ## 16. Framfarafundur
 
