@@ -345,7 +345,41 @@
 
 5.  Upplýsingar um starfsfólk skulu koma fram á vefsíðu félagsins.
 
-## 11. Aðildarfélög
+
+## 11. Umboðsmenn Pírata
+
+1.  Píratar geta á almennum félagsfundum og Aðalfundi skipað umboðsmenn, einn eða fleiri, til að sinna ákveðnum, vel skilgreindum og tímabundnum verkefnum í umboði flokksins.
+
+2.  Verkefni umboðsmanna, skyldur þeirra til skýrslugjafar og tímamörk verkefnisins skal skilgreint í erindisbréfi sem lagt er fram á Aðalfundi flokksins eða almennum félagsfundi.
+    Tímamörk verkefnis skal samsvara gildistima erindisbréfs.
+
+3.  Tímabinding skipunar  skal vera eins þröng og kostur er og aldrei lengra en eitt ár.
+    Hægt er að endurnýja erindisbréf þegar mest einn mánuður er eftir af gildistima fyrra erindisbréfs.
+    Endurnýjun fer fram eins og um nýtt erindisbréf væri að ræða.
+
+4.  Framkvæmdaráð skal setja erindisbréf í rafrænt atkvæðagreiðslukerfi Pírata innan sólarhrings frá samþykkt félagsfundar eða Aðalfundar.
+
+5.  Erindisbréf öðlast gildi þegar það hefur verið staðfest á þrennan hátt.
+    Fyrst með einföldum meirihluta í atkvæðagreiðslu meðal allra Pírata í rafrænu atkvæðagreiðslukerfi flokksins og svo af einföldum meirihluta aðalmanna í framkvæmdaráði og einföldum meirihluta þingflokks Pírata þegar slíkum flokki er til að dreifa.
+
+6.  Framkvæmdaráð og þingflokkur skulu greiða atkvæði um afdrif erindisbréfs innan 7 daga frá samþykkt erindisbréfs í rafrænni atkvæðagreiðslu.
+    Láti framkvæmdaráð eða þingflokkur undir höfuð leggjast að greiða atkvæði um erindisbréf innan 7 daga frá samþykkt í rafrænni atkvæðagreiðslu skal það tákna samþykkt erindisbréfsins af þeirra hálfu.
+
+7. Erindisbréf skal vera til umræðu í atkvæðagreiðslukerfi Pírata í sjö daga og atkvæðagreiðsla skal standa aðra sjö daga.
+
+8. Fjöldi umboðsmanna verkefnis skal vera oddatala og skal hver umboðsmaður velja sér sinn varamann.
+
+9. Umboðsmenn þurfa ekki að vera Píratar en geta verið sérfræðingar á því sviði sem verkefnið krefst eða eftir atvikum aðrir þeir sem sinnt geta verkinu.
+
+10. Séu umboðsmenn verkefnis fleiri en einn skal þeirra fyrsta verk vera að skipta með sér verkum og kjósa sér fyrsta umboðsmann og einnig annan umboðsmann ef umboðsmenn eru fleiri en einn, úr sínum hópi.
+
+11. Fyrsti umboðsmaður skal jafnan stýra fundum hópsins og sinna almennri verkstjórn hópsins en annar umboðsmaður skal rita fundi og taka við verkstjórn í forföllum fyrsta umboðsmanns.
+
+12. Almennur félagsfundur eða Aðalfundur geta krafið umboðsmenn um skýrslu um stöðu verkefnis og skal henni skilað innan þriggja vikna frá þvi að hennar er krafist.
+
+13. Hægt er að afturkalla erindisbréf umboðsmanna fyrir þau tímamörk sem bréfið kveður á um með sama hætti og þau eru búin til, sbr. 1. gr. og öðlast afturköllun gildi með sama hætti og erindisbréf, sbr. 5. gr.
+
+## 12. Aðildarfélög
 
 1.  Heimilt er að líta svo á að lögaðilar séu aðildarfélög Pírata að uppfylltum ákveðnum skilyrðum.
     Félag sem óskar eftir að teljast aðildarfélag Pírata sendir umsókn um slíkt til framkvæmdaráðs, ásamt lögum sínum.
@@ -382,7 +416,7 @@
     Sé heimildin nýtt skal kjörstjórn Pírata þá taka að sér það hlutverk í samræmi við lög aðildarfélagsins.
     Nú er kosningarferli innan aðildarfélags í gangi þegar ný kjörstjórn Pírata er valin og skal hún þá taka við framkvæmd þeirra kosninga sem í gangi eru ásamt þeim gögnum er fyrri kjörstjórn höfðu borist.
 
-## 12. Fjármál
+## 13. Fjármál
 
 1.  Bókhaldsár félagsins er almanaksárið.
 
@@ -402,7 +436,7 @@
 
 8.  Fé sem situr eftir í sjóðum eftir bókhaldsárið skal renna í sjóð næsta árs.
 
-## 13. Þáttaka í kosningum
+## 14. Þáttaka í kosningum
 
 1.  Þátttaka í kosningum er á ábyrgð aðildarfélaga á kjörsvæði.
     Ábyrgðaraðila ber að setja skýrar reglur um framboð Pírata.
@@ -441,7 +475,7 @@
 
 7.  Framkvæmdaráð skal sjá til þess að kynningarferli á þeim sem gefa kost á sér á framboðslista endurspegli sem best gagnrýna hugsun og vel upplýstar ákvarðanir.
 
-## 14. Störf þingflokks og annarra kjörinna fulltrúa
+## 15. Störf þingflokks og annarra kjörinna fulltrúa
 
 1.  Þingmenn Pírata skulu starfa í þágu alls félagsins.
     Þingmönnum ber ekki aðeins að taka tillit til stefnu heildarfélagsins, heldur einnig til stefnu aðildarfélaga sem málin varða.
@@ -465,7 +499,7 @@
 
 7.  Aðstoðarmenn þingflokka eða sveitarstjórnarflokka skulu að jafnaði starfa fyrir flokkinn sem heild.
 
-## 15. Framfarafundur
+## 16. Framfarafundur
 
 1.  Framfarafundur skal haldin á 8 vikna fresti.
 
@@ -477,7 +511,7 @@
 
 5.  Á fundinum skal fara fram umræða um störf þinghóps, framkvæmdaráðs og málefnahópa.
 
-## 16. Félagsslit
+## 17. Félagsslit
 
 1.  Félagsslit geta aðeins farið fram sé tillaga um slíkt á auglýstri dagskrá löglegs aðalfundar og samþykkt með ¾ hluta fundarmanna.
 
