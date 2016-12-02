@@ -141,8 +141,7 @@
 9.  Sé þörf á skjótri ákvarðanatöku má leggja til, með samþykki framkvæmdaráðs, hraðmeðferð á tillögu, en hún stendur þá yfir í sólarhring.
     Slíka ákvörðun þarf að staðfesta með hefðbundnum kosningum sem fara af stað samtímis.
     Skulu sérstök boð vera send til félagsmanna um að slík tillaga sé til kosningar.
-    Staðfesti upplýsingaráð, með auknum meirihluta (sbr. 9.5), að setja yfirlýsingu í skyndikosningu í samræmi við grein 9.16 má setja slíka kosningu í gang án samþykktar framkvæmdaráðs.
-    Sú heimild gildir eingöngu um tilkynningar eða yfirlýsingar sem þarfnast samþykkis félagsmanna, en veitir ekki heimild til skyndikosninga um stefnumál eða lög félagsins.
+    Þó þarf ekki staðfestingarkosningu til að staðfesta yfirlýsingu félagsins í samræmi við lög um upplýsingaráð, enda er þar ekki um lög eða stefnu félagsins að ræða.
 
 10. Sérhver félagsmaður má stofna málefnahóp í kringum stefnumál.
     Tilkynna skal félagsmönnum um stofnun vinnuhóps.
@@ -243,80 +242,81 @@
     Svæðisfélög í hverju kjördæmi skipa saman einn fulltrúa fyrir kjördæmið og varamann. Þingflokkurinn tilnefnir einn fulltrúa og einn varamann.
     Aðalfundur kýs að lokum tvo fulltrúa í upplýsingaráð og tvo varamenn með Schulze aðferðinni.
 
- 3. Sigurvegari kosningar á aðalfundi verður formaður upplýsingaráðs, en sá sem næstur kemur verður varaformaður.
-    Varamenn þeirra eru þeir tveir sem á eftir fylgja.
+ 3. Fulltrúar kjörnir á aðalfundi kallast landsfélagsfulltrúar.
+    Þeir bera ábyrgð á því að starfsemi ráðsins sé virk og sjá um að senda út fundarboð.
 
- 4. Að auki skipa framkvæmdaráð og fjölmiðlunarnefnd áheyrnarfulltrúa í upplýsingaráð.
-    Það val getur sætt endurskoðun og mega framkvæmdaráð og fjölmiðlunarnefnd velja nýja fulltrúa eftir þörfum.
+ 4. Líði aðalfundur hjá án þess að takist hafi að kjósa landsfélagsfulltrúa í upplýsingaráð skal framkvæmdaráð auglýsa eftir framboðum og láta kjósa milli þeirra í kosningakerfi Pírata, svo fljót sem auðið er.
+    Skipar þá framkvæmdaráð staðgengla, en þeir bera ábyrgð á skyldum landsfélagsfulltrúa þangað til kosning fer fram.
+    Líði lengur en þrír mánuðir frá Aðalfundi án þess að landsfélagsfulltrúar séu kjörnir skal boða til auka-aðalfundar þar sem kosið skal um þá.
+
+ 5. Framkvæmdaráð skipar allt að tvo áheyrnarfulltrúa í upplýsingaráð.
+    Það val getur sætt endurskoðun og má framkvæmdaráð velja nýja fulltrúa eftir þörfum.
     Því þarf ekki að skipa sérstaka varamenn.
-    Slíkir áheyrnarfulltrúar sitja fund áfram þó svo ákveðið sé að loka fundi í samræmi við grein 9.18
+    Slíkir áheyrnarfulltrúar sitja fund áfram þó svo ákveðið sé að loka fundi í samræmi við grein 9.18.
 
- 5. Upplýsingaráð tekur ákvarðanir með einföldum meirihluta atkvæða sitjandi aðalmannna nema annað sé tekið fram.
+ 6. Upplýsingaráð tekur ákvarðanir með einföldum meirihluta atkvæða sitjandi aðalmannna nema annað sé tekið fram.
     Þar sem það kemur fram telst aukinn meirihluti vera atkvæði amk. þriggja af hverjum fjórum sitjandi aðalmanna, námundað upp.
     Þannig þarf sjö aðalmenn til að ná auknum meirihluta á fundi þar sem níu aðalmenn eru á staðnum.
     Kosningarétt á fundum upplýsingaráðs hafa allir viðstaddir aðalmenn eða varamenn þeirra í samræmi við lið 9.11.
     Viðstaddir teljast þeir sem eru staddir á fundinum, eða taka þátt í gegnum fjarfundarbúnað.
 
- 6. Þingflokkur og svæðisfélög ákveða sjálf hvernig þau velja fulltrúa og varafulltrúa þingflokksins eða kjördæmisins í upplýsingaráð.
+ 7. Þingflokkur og svæðisfélög ákveða sjálf hvernig þau velja fulltrúa og varafulltrúa þingflokksins eða kjördæmisins í upplýsingaráð.
     Hafi kjördæmi eða þingflokkur ekki valið sér fulltrúa og varamann mánuði eftir aðalfund Pírata og sitji ekki fulltrúi með gilt umboð frá fyrra tímabili í samræmi við grein 9.9 skal framkvæmdaráð skipa staðgengla þeirra sem skuli sitja þar til kjördæmið eða þingflokkurinn velur fulltrúa.
     Þessir fulltrúar og staðgenglar hafa upplýsingaskyldu við það félag sem þeir sitja fyrir, en skal útfærsla hennar ákveðin af þeim hópum.
 
- 7. Upplýsingaráð velur sér sjálft ritara og önnur embætti sem það telur sig þurfa, utan formanns og varaformanns.
+ 8. Upplýsingaráð velur sér sjálft ritara og önnur embætti sem það telur sig þurfa.
 
- 8. Upplýsingaráð skal setja sér starfsreglur og gera þær opinberar á heimasíðu Pírata.
+ 9. Upplýsingaráð skal setja sér starfsreglur og gera þær opinberar á heimasíðu Pírata.
 
- 9. Þau félög sem skipa fulltrúa í upplýsingaráð ráða hve oft og hvenær sú skipun er endurskoðuð en skal umboðið endurnýjað eigi sjaldnar en árlega.
+10. Þau félög sem skipa fulltrúa í upplýsingaráð ráða hve oft og hvenær sú skipun er endurskoðuð en skal umboðið endurnýjað eigi sjaldnar en árlega.
     Þó skal enginn sitja í upplýsingaráði lengur en tvö ár í senn.
     Seta sem varamaður telur ekki sem seta í upplýsingaráði.
 
-10. Upplýsingaráð skal funda að lágmarki mánaðarlega.
+11. Upplýsingaráð skal funda að lágmarki mánaðarlega.
     Alla aðalfulltrúa og varafulltrúa skal boða til fundarins eigi síðar en viku fyrir fund.
     Fundir upplýsingaráðs skulu vera opnir félagsmönnum nema aukinn meirihluti upplýsingaráðs ákveði að sökum sérstakra aðstæðna skuli fundur eða hluti fundar vera lokaður.
     Sé það mögulegt skal afgreiða slík mál í upphafi eða undir lok fundar.
 
-11. Upplýsingaráðsfundur telst löglegur ef a.m.k. 5 aðalmenn eru viðstaddir eða varamenn þeirra.
+12. Upplýsingaráðsfundur telst löglegur ef a.m.k. 5 aðalmenn eru viðstaddir eða varamenn þeirra.
     Varamaður hvers aðalmanns hefur forgang.
-    Varamenn kjörnir á aðalfundi eru næstir og taka sæti fulltrúa sem er fjarverandi á fundi, sé þeirra varamaður heldur ekki á fundinum.
+    Varamenn landsfundarfulltrúa eru næstir og taka sæti fulltrúa sem er fjarverandi á fundi, sé þeirra varamaður heldur ekki á fundinum.
     Hafi þeir þegar tekið sæti, eða séu ekki til staðar, og þarf enn að manna sæti aðalmanna, mega þeir ráðsmenn sem tekið hafa sæti sjálfir ákveða hver af viðstöddum varamönnum taki þau sæti aðalmanna sem eftir á að fylla með einföldum meirihluta.
 
-12. Haldi upplýsingaráð ekki löglegan fund í 60 daga, skal Framkvæmdaráð boða til neyðarfundar upplýsingaráðs.
-    Falli sá fundur niður sökum vanmönnunar, eða sé það niðurstaða fundarins að ráðið sé óstarfhæft, skal formanni gert að víkja.
-    Þá taki varaformaður sæti formanns og næsti varamaður taki sæti í ráðinu.
-    Nýr formaður ber ábyrgð á að gera kjördæmaráðum og þingmönnum grein fyrir stöðu mála og krefjast endurskoðunar á fulltrúum þeirra.
+13. Haldi upplýsingaráð ekki löglegan fund í 60 daga, skal framkvæmdaráð boða til neyðarfundar upplýsingaráðs.
+    Falli sá fundur niður sökum vanmönnunar, eða sé það niðurstaða fundarins að ráðið sé óstarfhæft, skulu báðir landsfélagsfulltrúar víkja og varamenn þeirra taki sæti.
+    Þeir skulu þá gera kjördæmaráðum og þingflokki grein fyrir stöðu mála og krefjast endurskoðunar á fulltrúum þeirra.
     Takist ekki að manna upplýsingaráð á 30 dögum svo það sé starfhæft skal boða til auka-aðalfundar.
     Gerist það aftur í setu sama upplýsingaráðs að ekki sé haldinn löglegur fundur í 60 daga skal einnig boða til auka-aðalfundar.
 
-13. Upplýsingaráð má gefa yfirlýsingar um stefnu flokksins út frá samþykktum stefnumálum, lögum og ályktunum.
+14. Upplýsingaráð má gefa yfirlýsingar um stefnu flokksins út frá samþykktum stefnumálum, lögum og ályktunum.
     Í slíkri yfirlýsingu má túlka stefnu ef þarf til að svara fyrirspurnum en þó skal gæta meðalhófs.
     Liggi skýr stefna ekki fyrir skal miða við grunnstefnu pírata, en þó með þeim fyrirvara að ekki sé til samþykkt stefna í þeim málaflokki.
     Þetta gildir þó einungis um þau mál þar sem augljóst ætti að vera hver afstaða félagsmanna sé, eða augljós skírskotun í samþykktar stefnur eða grunnstefnu.
     Sé slík yfirlýsing gefin út skal hún undirrituð af öllum aðalmönnum upplýsingaráðs sem sitja fundinn, eða varamönnum þeirra í samræmi við grein 9.11.
 
-14. Upplýsingaráð má velja sér talsmann eða talsmenn ákveðinna samþykktra stefnumála og skal það umboð veitt með auknum meirihluta ráðsmanna.
+15. Upplýsingaráð má velja sér talsmann eða talsmenn ákveðinna samþykktra stefnumála og skal það umboð veitt með auknum meirihluta ráðsmanna.
     Slíkir talsmenn skulu gera ráðinu grein fyrir viðbrögðum sínum hverju sinni.
     Það skal gert óformlega jafnóðum en í síðasta lagi á næsta formlega fundi upplýsingaráðs.
     Einfaldur meirihluti upplýsingaráðs dugir til að afturkalla slíkt umboð.
 
-15. Séu að minnsta kosti þrír aðalmenn sammála um að komið hafi upp mikilvægt málefni sem krefjist tafarlausrar meðferðar ráðsins skal formaður boða til aukafundar.
+16. Séu að minnsta kosti þrír aðalmenn sammála um að komið hafi upp mikilvægt málefni sem krefjist tafarlausrar meðferðar ráðsins skulu landsfélagsfulltrúar boða til aukafundar.
     Á þann fund þarf að boða alla aðalmenn og varamenn, en það má vera með skemmri fyrirvara en viku.
     Ákvarðanir þess fundar teljast þó ekki gildar nema þær hljóti aukinn meirihluta.
 
-16. Komi upp mál þar sem brýnt þykir að skýra afstöðu flokksins í mikilvægu málefni, þar sem ekki liggur fyrir skýr stefna, hefur upplýsingaráð heimild til að búa til yfirlýsingu og setja í neyðarkosningu í kosningakerfi Pírata í samræmi við grein 6.9.
-    Sú kosning skal standa í 24 tíma.
-    Má svo gefa hana út í nafni flokksins hljóti hún einfaldan meirihlutastuðning.
-    Slík yfirlýsing fellur úr gildi þegar gild stefna í málaflokknum hefur verið samþykkt.
-    Upplýsingaráð getur samþykkt að setja í gang slíka kosningu með auknum meirihluta.
+17. Komi upp mál þar sem brýnt þykir að skýra afstöðu félagsins í mikilvægu málefni, þar sem ekki liggur fyrir skýr stefna, hefur upplýsingaráðs heimild til þess að skrifa yfirlýsingu um málið sem senda skal framkvæmdaráði með ósk um að framkvæmdaráð setji það í neyðarkosningu.
+    Geri framkvæmdaráð það og hljóti yfirlýsingin samþykki í kosningu má gefa hana út í nafni félagsins.
+    Aukinn meirihluta Upplýsingaráðs þarf til að fara þessa leið.
 
-17. Takist upplýsingaráði ekki að koma sér saman um úrræði í mikilvægu máli samkvæmt grein 9.13 eða 9.16 er því skylt að gefa yfirlýsingu þess efnis að það óski eftir að það mál fari í stefnumótunarferli innan flokksins.
+18. Takist upplýsingaráði ekki að koma sér saman um úrræði í mikilvægu máli samkvæmt grein 9.13 eða 9.16 er því skylt að gefa yfirlýsingu þess efnis að það óski eftir að það mál fari í stefnumótunarferli innan flokksins.
     Ráðið skal koma því á framfæri við þá hópa innan flokksins sem málefnið varðar, svo sem aðildarfélög, málefnahópa, framkvæmdaráð eða grasrót, með auglýsingu á vefsvæði pírata og öðrum viðeigandi hætti, svo sem með tölvupósti, boðun félagsfundar eða með auglýsingu á netmiðlum eftir því sem við á.
 
-18. Halda skal fundargerð fyrir hvern fund upplýsingaráðs og skal hún birt á vefsvæði pírata eigi síðar en tveimur vikum eftir fund.
+19. Halda skal fundargerð fyrir hvern fund upplýsingaráðs og skal hún birt á vefsvæði pírata eigi síðar en tveimur vikum eftir fund.
     Það er á ábyrgð ritara.
     Hafi upplýsingaráð ákveðið að fundur skuli vera lokaður þarf samt að halda fundargerð, en má hún vera lokuð.
     Úrskurðarnefnd eða trúnaðarráði er heimilt að fara fram á rökstuðning þess að fundur sé lokaður og geta ákveðið að fundargerð skuli opnuð, sé sú röksemd metin ófullnægjandi.
     Eins er úrskurðarnefnd eða trúnaðarráði heimilt að fá aðgang að lokuðum fundargerðum án þess að opna þær, séu þær viðkomandi málefni sem þau hafi til afgreiðslu.
 
-19. Víki aðalmaður í upplýsingaráði sæti, hvort sem er varanlega eða tímabundið, skal varamaður hans taka við af honum á meðan fjarveru stendur.
+20. Víki aðalmaður í upplýsingaráði sæti, hvort sem er varanlega eða tímabundið, skal varamaður hans taka við af honum á meðan fjarveru stendur.
     Sá fulltrúi teljist þá aðalmaður með þeim réttindum og skyldum sem því fylgja.
     Sé varamaður ekki til staðar skal fylla sæti hans í samræmi við grein 9.11.
     Víki aðalmaður sem er fulltrúi þingflokks eða kjördæmis varanlega sæti og sé réttur varamaður ekki tiltækur skal þingflokkurinn eða kjördæmið þá velja sér nýjan fulltrúa í upplýsingaráð, en manna má stöðuna á fundum í samræmi við grein 9.11 þangað til það er gert.
