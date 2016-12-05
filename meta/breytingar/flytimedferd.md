@@ -4,8 +4,8 @@
 
  2. Gr. 9.17 breytist og skal orðast svo:
 
-    > Komi upp mál þar sem brýnt þykir að skýra afstöðu félagsins í mikilvægu málefni, þar sem ekki liggur fyrir skýr stefna, hefur upplýsingaráðs heimild til þess að vísa yfirlýsingu um málið til atkvæðagreiðslu í kosningakerfi.
-    > Hljóti yfirlýsingin samþykki í kosningu má gefa hana út í nafni félagsins.
+    > Komi upp mál þar sem brýnt þykir að skýra afstöðu félagsins í mikilvægu málefni, þar sem ekki liggur fyrir skýr stefna, hefur upplýsingaráð heimild til þess að vísa yfirlýsingu um málið til atkvæðagreiðslu í kosningakerfi félagsins.
+    > Hljóti yfirlýsinginn meirihluta atkvæða má gefa hana út í nafni félagsins.
     > Aukinn meirihluta Upplýsingaráðs þarf til að fara þessa leið.
     > Yfirlýsing af þessu tagi telst ekki samþykkt stefna Pírata, þó hún hljóti samþykki í kosningakerfinu.
 
