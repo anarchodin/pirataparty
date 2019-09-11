@@ -155,7 +155,7 @@
 5.  Málefnahópur skal velja sér ábyrgðarmann og fundarritara.
 
 6.  Málefnahópur skilar skýrslu um störf sín og þær upplýsingar sem aflað var.
-    Málefnahópur skipar ritstjóra fyrir skýrsluna.
+    Málefnahópur skipar ritstjóra skýrslunnar.
 
 ## 9. Framkvæmdaráð
 
